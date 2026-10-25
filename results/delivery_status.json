@@ -1,0 +1,13 @@
+{
+  "report_published_at": "2026-10-26T03:57:50+08:00",
+  "timezone": "Asia/Singapore",
+  "experiment_results_commit": "d7472b0",
+  "github_visibility": "public",
+  "local_raw_archive": "experiment_delivery_20261026_035717.tar.gz",
+  "local_archive_sha256_verified": true,
+  "shutdown_command": ["bash", "/usr/bin/shutdown"],
+  "post_shutdown_observation": "SSH connection refused immediately after verified-download acknowledgement",
+  "platform_billing_status_directly_verified": false,
+  "remaining_limitation": "TD-MPC2 TurnFaucet asset 5050 is incompatible with the installed metadata; no valid faucet episode is claimed.",
+  "completed_valid_episodes_including_reused_baseline_and_supplemental": 117
+}
