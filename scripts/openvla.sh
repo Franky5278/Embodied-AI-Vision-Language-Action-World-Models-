@@ -68,7 +68,7 @@ cd "$RUN_DIR"
 for SUITE in "${SUITES[@]}"; do
 
     COMPLETE_LOG=$(find "$RESULT_ROOT" -path "*/$SUITE/stdout.log" -type f | while read -r f; do
-        if [ "$(grep -c '^Success: ' "$f")" -eq 6 ]; then echo "$f"; break; fi
+        if [ "$(grep -c '^Success: ' "$f")" -eq 6 ] && ! grep -q 'Caught exception' "$f"; then echo "$f"; break; fi
     done)
     if [ -n "$COMPLETE_LOG" ]; then
         echo "REUSE $SUITE: $COMPLETE_LOG"

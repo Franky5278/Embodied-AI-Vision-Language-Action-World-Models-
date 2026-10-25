@@ -1,57 +1,37 @@
 [
   {
-    "stage": "tdmpc2_stack-cube",
-    "exit_code": 0,
-    "duration_sec": 25.69
-  },
-  {
-    "stage": "tdmpc2_pick-ycb",
-    "exit_code": 0,
-    "duration_sec": 11.86
-  },
-  {
-    "stage": "tdmpc2_turn-faucet",
-    "exit_code": 1,
-    "duration_sec": 6.69
-  },
-  {
     "stage": "openvla",
-    "exit_code": 1,
-    "duration_sec": 633.35
+    "exit_code": 0,
+    "duration_sec": 0.06
   },
   {
     "stage": "vla_jepa",
-    "exit_code": 10,
-    "duration_sec": 856.95
+    "exit_code": 0,
+    "duration_sec": 425.93
   },
   {
     "stage": "openpi_libero_spatial",
-    "exit_code": 2,
-    "duration_sec": 3.35
+    "exit_code": -15,
+    "duration_sec": 768.95
   },
   {
     "stage": "openpi_libero_object",
-    "exit_code": 2,
-    "duration_sec": 3.3
+    "exit_code": 1,
+    "duration_sec": 14.67
   },
   {
     "stage": "openpi_libero_goal",
-    "exit_code": 2,
-    "duration_sec": 2.5
+    "exit_code": 1,
+    "duration_sec": 12.04
   },
   {
     "stage": "openpi_libero_10",
-    "exit_code": 2,
-    "duration_sec": 2.4
+    "exit_code": 1,
+    "duration_sec": 19.11
   },
   {
     "stage": "openpi_brightness_07",
-    "exit_code": 2,
-    "duration_sec": 2.45
-  },
-  {
-    "stage": "tdmpc2_lift-cube_actor_only",
-    "exit_code": 0,
-    "duration_sec": 8.58
+    "exit_code": 1,
+    "duration_sec": 298.86
   }
 ]

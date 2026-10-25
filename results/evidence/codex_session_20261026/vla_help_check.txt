@@ -1,0 +1,38 @@
+[robosuite WARNING] No private macro file found! (__init__.py:7)
+[robosuite WARNING] It is recommended to use a private macro file (__init__.py:8)
+[robosuite WARNING] To setup, run: python /root/autodl-tmp/embodied/envs/vla-jepa-sim/lib/python3.12/site-packages/robosuite/scripts/setup_macros.py (__init__.py:9)
+usage: /root/autodl-tmp/embodied/scripts/vla_jepa/eval_libero_subset.py [-h] [OPTIONS]
+
+鈺�鈹� options 鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈺�
+鈹� -h, --help             show this help message and exit                       鈹�
+鈺扳攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈺�
+鈺�鈹� args options 鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈺�
+鈹� --args.host STR        (default: 127.0.0.1)                                  鈹�
+鈹� --args.port INT        (default: 10093)                                      鈹�
+鈹� --args.task-suite-name STR                                                   鈹�
+鈹�                        Task suite. Options: libero_spatial, libero_object,   鈹�
+鈹�                        libero_goal, libero_10, libero_90 (default:           鈹�
+鈹�                        libero_goal)                                          鈹�
+鈹� --args.num-steps-wait INT                                                    鈹�
+鈹�                        Number of steps to wait for objects to stabilize i n  鈹�
+鈹�                        sim (default: 10)                                     鈹�
+鈹� --args.num-trials-per-task INT                                               鈹�
+鈹�                        Number of rollouts per task (default: 50)             鈹�
+鈹� --args.category-value STR                                                    鈹�
+鈹�                        (default: 'Background Textures')                      鈹�
+鈹� --args.video-out-path STR                                                    鈹�
+鈹�                        Path to save videos (default:                         鈹�
+鈹�                        experiments/libero/logs)                              鈹�
+鈹� --args.seed INT        Random Seed (for reproducibility) (default: 7)        鈹�
+鈹� --args.pretrained-path STR                                                   鈹�
+鈹�                        (default: '')                                         鈹�
+鈹� --args.post-process-action, --args.no-post-process-action                    鈹�
+鈹�                        (default: True)                                       鈹�
+鈹� --args.with-state STR  (default: true)                                       鈹�
+鈹� --args.job-name STR    (default: test)                                       鈹�
+鈹� --args.task-ids STR    Portfolio mini-benchmark subset. Example: "0,1"       鈹�
+鈹�                        (default: 0,1)                                        鈹�
+鈹� --args.metrics-out-path STR                                                  鈹�
+鈹�                        JSONL file containing one record per episode.         鈹�
+鈹�                        (default: '')                                         鈹�
+鈺扳攢鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈹�鈺�

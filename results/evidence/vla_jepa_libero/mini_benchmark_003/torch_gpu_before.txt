@@ -1,0 +1,5 @@
+torch: 2.6.0+cu126
+cuda build: 12.6
+cuda available: True
+gpu: NVIDIA GeForce RTX 4090 D
+vram_gb: 23.5164794921875

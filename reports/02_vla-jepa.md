@@ -6,18 +6,28 @@ Can the available checkpoint execute the prescribed simulation tasks, and what s
 
 ## Protocol and provenance
 
-Benchmark: **LIBERO mini**. Source: `vla_jepa_libero\mini_benchmark_001`. Seed: 42. VLA target: four suites ¡Á two tasks ¡Á three episodes. TD-MPC2 target: five tasks ¡Á three episodes; faucet attempted with PartNet model 5050. No model training was performed.
+Benchmark: **LIBERO mini**. Source: `vla_jepa_libero\mini_benchmark_003`. Seed: 42. VLA target: four suites ¡Á two tasks ¡Á three episodes. TD-MPC2 target: five tasks ¡Á three episodes; faucet attempted with PartNet model 5050. No model training was performed.
 
 ## Observations
 
-Valid completed episodes: **0**. Successes: **0**. Episode evaluation errors: **0**. Completion validated: **False**.
+Valid completed episodes: **24**. Successes: **24**. Episode evaluation errors: **0**. Completion validated: **True**.
 
 | Suite/task | Successes | Episodes |
 |---|---:|---:|
+| libero_10 | 6 | 6 |
+| libero_goal | 6 | 6 |
+| libero_object | 6 | 6 |
+| libero_spatial | 6 | 6 |
+
+![VLA-JEPA results](../figures/model_02.png)
+
+![Recorded VLA-JEPA rollout](../figures/rollout_01.jpg)
+
+Source: `vla_jepa_libero\mini_benchmark_003\libero_10\videos\rollout_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_4da9fbe7_episode0_success.mp4`.
 
 ## Interpretation
 
-No valid rollout result was obtained. This is an execution failure, not evidence of zero task success. 
+Observed success was 100.0% on this small selected sample. It supports checkpoint-level feasibility and failure analysis, not a universal model ranking. 
 
 ## Evidence and reproduction
 

@@ -34,8 +34,8 @@ This is a small engineering study. Training data, pretrained checkpoint coverage
 | Model | Benchmark | Completed | Success | Status |
 |---|---|---:|---:|---|
 | SmolVLA | LIBERO mini | 24 | 17/24 (70.8%) | Complete |
-| VLA-JEPA | LIBERO mini | 0 | No valid episodes | Incomplete / failed; see evidence |
-| OpenPI pi0.5 | LIBERO mini | 0 | No valid episodes | Incomplete / failed; see evidence |
+| VLA-JEPA | LIBERO mini | 24 | 24/24 (100.0%) | Complete |
+| OpenPI pi0.5 | LIBERO mini | 24 | 23/24 (95.8%) | Complete |
 | TD-MPC2 | ManiSkill2 mini | 12 | 9/12 (75.0%) | Incomplete / failed; see evidence |
 | OpenVLA | LIBERO mini | 24 | 16/24 (66.7%) | Complete |
 
@@ -60,9 +60,17 @@ Historical SmolVLA runtime: **353 seconds**. Other runtime fields and errors are
 
 ![Recorded simulation frame](figures/rollout_01.jpg)
 
-<sub>Source: `openvla_libero\mini_benchmark_003\libero_10\rollouts\2026_10_26\2026_10_26-01_19_32--episode=1--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4`. A representative frame alone does not establish episode success.</sub>
+<sub>Source: `vla_jepa_libero\mini_benchmark_003\libero_10\videos\rollout_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_4da9fbe7_episode0_success.mp4`. A representative frame alone does not establish episode success.</sub>
 
 ![Recorded simulation frame](figures/rollout_02.jpg)
+
+<sub>Source: `openvla_libero\mini_benchmark_003\libero_10\rollouts\2026_10_26\2026_10_26-01_19_32--episode=1--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4`. A representative frame alone does not establish episode success.</sub>
+
+![Recorded simulation frame](figures/rollout_03.jpg)
+
+<sub>Source: `codex_session_20261026\openpi_libero_spatial\videos\task0_ep0_failure.mp4`. A representative frame alone does not establish episode success.</sub>
+
+![Recorded simulation frame](figures/rollout_04.jpg)
 
 <sub>Source: `codex_session_20261026\tdmpc2_lift-cube\videos\lift-cube-0.mp4`. A representative frame alone does not establish episode success.</sub>
 

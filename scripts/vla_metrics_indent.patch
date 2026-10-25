@@ -1,0 +1,54 @@
+--- a/scripts/vla_jepa/eval_libero_subset.py
++++ b/scripts/vla_jepa/eval_libero_subset.py
+@@ -278,30 +278,27 @@
+             )
+             
+             video_path = (
+-            pathlib.Path(args.video_out_path)
+-            / f"rollout_{task_segment}_episode{episode_idx}_{suffix}.mp4"
+-        )
+-
+-        if metrics_path is not None:
+-            episode_record = {
+-                "model": "VLA-JEPA",
+-                "suite": args.task_suite_name,
+-                "task_id": int(task_id),
+-                "episode_id": int(episode_idx),
+-                "success": bool(done),
+-                "seed": int(args.seed),
+-                "task_description": str(task_description),
+-                "policy_steps": int(len(full_actions)),
+-                "runtime_sec": float(time.time() - episode_start_time),
+-                "video_path": str(video_path),
+-                "server_host": str(args.host),
+-                "server_port": int(args.port),
+-            }
+-
+-            with metrics_path.open("a") as f:
+-                f.write(json.dumps(episode_record) + "\n")
+-
+-        full_actions = np.stack(full_actions)
++                pathlib.Path(args.video_out_path)
++                / f"rollout_{task_segment}_episode{episode_idx}_{suffix}.mp4"
++            )
++            if metrics_path is not None:
++                episode_record = {
++                    "model": "VLA-JEPA",
++                    "suite": args.task_suite_name,
++                    "task_id": int(task_id),
++                    "episode_id": int(episode_idx),
++                    "success": bool(done),
++                    "seed": int(args.seed),
++                    "task_description": str(task_description),
++                    "policy_steps": int(len(full_actions)),
++                    "runtime_sec": float(time.time() - episode_start_time),
++                    "video_path": str(video_path),
++                    "server_host": str(args.host),
++                    "server_port": int(args.port),
++                }
++                with metrics_path.open("a") as f:
++                    f.write(json.dumps(episode_record) + "\n")
++            full_actions = np.stack(full_actions)
+             # np.save(pathlib.Path(args.video_out_path) / f"rollout_{task_segment}_episode{episode_idx}_{suffix}.npy", full_actions)
+             
+             # print(pathlib.Path(args.video_out_path) / f"rollout_{task_segment}_episode{episode_idx}_{suffix}.mp4")

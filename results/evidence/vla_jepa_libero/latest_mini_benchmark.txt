@@ -1,1 +1,1 @@
-/root/autodl-tmp/embodied/results/vla_jepa_libero/mini_benchmark_002
+/root/autodl-tmp/embodied/results/vla_jepa_libero/mini_benchmark_003

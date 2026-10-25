@@ -37,7 +37,11 @@ server=None
 try:
     (S/'protocol.json').write_text(json.dumps(dict(seed=42,vla_suites=['libero_spatial','libero_object','libero_goal','libero_10'],tasks=[0,1],episodes_per_task=3,smolvla='Reuse mini_benchmark_001: verified 24 episodes, 17 successes, 353s. No rerun.',budget_hours=4,extra_experiments=['OpenPI brightness 0.7 on spatial tasks 0/1','TD-MPC2 actor-only on lift-cube'],training=False),indent=2))
     subprocess.run(['nvidia-smi'],stdout=(S/'hardware.txt').open('w'))
-    for task in ['lift-cube','pick-cube','stack-cube','pick-ycb','turn-faucet']: td(task)
+    for task in ['lift-cube','pick-cube','stack-cube','pick-ycb','turn-faucet']:
+        if task=='turn-faucet' and (S/'tdmpc2_turn-faucet/exit_code.txt').exists():
+            print('SKIP known incompatible faucet asset; previous error retained',flush=True)
+            continue
+        td(task)
     stage('openvla',['bash',str(C/'openvla.sh')],timeout=4800)
     stage('vla_jepa',['bash',str(C/'vla_jepa.sh')],timeout=4200)
     serverlog=(S/'openpi_server.log').open('a')
@@ -73,4 +77,4 @@ finally:
         if (S/'DOWNLOAD_VERIFIED').exists(): break
         time.sleep(5)
     (S/'SHUTDOWN_REQUESTED').write_text(time.strftime('%Y-%m-%dT%H:%M:%S%z'))
-    subprocess.run(['/usr/bin/shutdown'])
+    subprocess.run(['bash','/usr/bin/shutdown'])

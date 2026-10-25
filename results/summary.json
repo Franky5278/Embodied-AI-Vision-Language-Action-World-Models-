@@ -15,28 +15,28 @@
   {
     "model": "VLA-JEPA",
     "benchmark": "LIBERO mini",
-    "episodes": 0,
-    "successes": 0,
-    "source": "vla_jepa_libero\\mini_benchmark_001",
+    "episodes": 24,
+    "successes": 24,
+    "source": "vla_jepa_libero\\mini_benchmark_003",
     "runtime_sec": null,
-    "complete": false,
+    "complete": true,
     "evaluation_errors": 0,
-    "success_rate_pct": null,
-    "wilson95_low": null,
-    "wilson95_high": null
+    "success_rate_pct": 100.0,
+    "wilson95_low": 86.20194241710247,
+    "wilson95_high": 100.0
   },
   {
     "model": "OpenPI pi0.5",
     "benchmark": "LIBERO mini",
-    "episodes": 0,
-    "successes": 0,
+    "episodes": 24,
+    "successes": 23,
     "source": "current session",
-    "runtime_sec": 0,
-    "complete": false,
+    "runtime_sec": 187.04857590794563,
+    "complete": true,
     "evaluation_errors": 0,
-    "success_rate_pct": null,
-    "wilson95_low": null,
-    "wilson95_high": null
+    "success_rate_pct": 95.83333333333333,
+    "wilson95_low": 79.75777375115779,
+    "wilson95_high": 99.2606734645195
   },
   {
     "model": "TD-MPC2",

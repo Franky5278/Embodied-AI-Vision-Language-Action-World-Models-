@@ -5,6 +5,7 @@ if _os.path.realpath(_sys.executable) != _os.path.realpath(_sim):
     _env=dict(_os.environ)
     _env['PYTHONPATH']='/root/autodl-tmp/embodied/repos/openpi/packages/openpi-client/src:/root/autodl-tmp/embodied/repos/openpi/third_party/libero:'+_env.get('PYTHONPATH','')
     _os.execve(_sim,[_sim,__file__]+_sys.argv[1:],_env)
+_sys.argv=[('--args.'+v[2:]) if v.startswith('--') and not v.startswith('--args.') and v!='--help' else v for v in _sys.argv]
 import collections
 import json
 import time
@@ -83,8 +84,17 @@ def eval_libero(args: Args) -> None:
 
     client = _websocket_client_policy.WebsocketClientPolicy(args.host, args.port)
 
-    # Start evaluation
-    total_episodes, total_successes = 0, 0
+    # Resume only valid completed episodes; preserve evaluation errors as evidence.
+    metrics_file = pathlib.Path(args.video_out_path)/"episodes.jsonl"
+    previous = []
+    if metrics_file.exists():
+        for line in metrics_file.read_text().splitlines():
+            if line.strip():
+                record=json.loads(line)
+                if not record.get("error"): previous.append(record)
+    completed_ids={(r["task_id"],r["episode_id"]) for r in previous}
+    total_episodes=len(previous)
+    total_successes=sum(bool(r["success"]) for r in previous)
     for task_id in tqdm.tqdm([0, 1]):
         # Get task
         task = task_suite.get_task(task_id)
@@ -96,8 +106,16 @@ def eval_libero(args: Args) -> None:
         env, task_description = _get_libero_env(task, LIBERO_ENV_RESOLUTION, args.seed)
 
         # Start episodes
-        task_episodes, task_successes = 0, 0
+        task_episodes = sum(r["task_id"]==task_id for r in previous)
+        task_successes = sum(bool(r["success"]) for r in previous if r["task_id"]==task_id)
         for episode_idx in tqdm.tqdm(range(args.num_trials_per_task)):
+            if (task_id, episode_idx) in completed_ids:
+                logging.info("Reuse valid task %s episode %s", task_id, episode_idx)
+                continue
+            # Independent fresh simulation prevents reset state leakage across episodes.
+            if episode_idx > 0:
+                env.close()
+                env, task_description = _get_libero_env(task, LIBERO_ENV_RESOLUTION, args.seed)
             logging.info(f"\nTask: {task_description}")
 
             # Reset environment
@@ -203,9 +221,9 @@ def eval_libero(args: Args) -> None:
             logging.info(f"# episodes completed so far: {total_episodes}")
             logging.info(f"# successes: {total_successes} ({total_successes / total_episodes * 100:.1f}%)")
 
-            env.close()
+        env.close()
 
-    # Log final results
+        # Log final results
         logging.info(f"Current task success rate: {float(task_successes) / float(task_episodes)}")
         logging.info(f"Current total success rate: {float(total_successes) / float(total_episodes)}")
 

@@ -21,7 +21,7 @@ Valid completed episodes: **24**. Successes: **16**. Episode evaluation errors: 
 
 ![OpenVLA results](../figures/model_05.png)
 
-![Recorded OpenVLA rollout](../figures/rollout_01.jpg)
+![Recorded OpenVLA rollout](../figures/rollout_02.jpg)
 
 Source: `openvla_libero\mini_benchmark_003\libero_10\rollouts\2026_10_26\2026_10_26-01_19_32--episode=1--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4`.
 

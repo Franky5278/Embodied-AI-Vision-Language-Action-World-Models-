@@ -21,7 +21,7 @@ Valid completed episodes: **12**. Successes: **9**. Episode evaluation errors: *
 
 ![TD-MPC2 results](../figures/model_04.png)
 
-![Recorded TD-MPC2 rollout](../figures/rollout_02.jpg)
+![Recorded TD-MPC2 rollout](../figures/rollout_04.jpg)
 
 Source: `codex_session_20261026\tdmpc2_lift-cube\videos\lift-cube-0.mp4`.
 

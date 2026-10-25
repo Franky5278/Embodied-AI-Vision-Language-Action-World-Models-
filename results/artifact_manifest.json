@@ -6,18 +6,18 @@
   },
   {
     "path": "results\\codex_session_20261026\\gpu.csv",
-    "bytes": 13154,
-    "sha256": "c5710e6aac38eecfc6c2af9dab5da576268e877e59e67889ab84dbba9f678fef"
+    "bytes": 9148,
+    "sha256": "bc974a0bf328084fcdc55bd0214a7f2e077fb5ec2e8fe46eaabffb957aa8c30b"
   },
   {
     "path": "results\\codex_session_20261026\\GPU_FINISHED",
     "bytes": 24,
-    "sha256": "b4865aeb92a155c31bb71ffd58f9b1ed28127e8cc18b7feca83829fd57b60e64"
+    "sha256": "4e08ae235228d95fb47ae9293ceb7bd9e5ec08aacdf89f2771ce8f9558a7426e"
   },
   {
     "path": "results\\codex_session_20261026\\hardware.txt",
     "bytes": 1689,
-    "sha256": "6a73cef85cf13fa6e1ce9757c1ba0c812ffe3274dd2c2b31a5b1f7beac87f1f5"
+    "sha256": "32fb502132c3941a87725b2e96bacdb4cc89b52ec3a61e7c30ae377bb0c0ccea"
   },
   {
     "path": "results\\codex_session_20261026\\initial_failed_attempts.json",
@@ -30,14 +30,69 @@
     "sha256": "02c1dd1cbeb83aa5fc25101cd28d6536c0c12d497550d0d23e65c4a45fea6355"
   },
   {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\completion_exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
     "path": "results\\codex_session_20261026\\openpi_brightness_07\\console.log",
-    "bytes": 5961,
-    "sha256": "e6243022873eef8fb86594ecc51b375062da9fdf1af34c4758803bdb8fdd6843"
+    "bytes": 7930,
+    "sha256": "5e4009e3cc3fe781a09daf3854ec8eba32ebb5e9f13df46a1b1d1935f16dcd24"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_brightness_07\\exit_code.txt",
     "bytes": 1,
-    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\videos\\episodes.jsonl",
+    "bytes": 3745,
+    "sha256": "5ee08bc6f3c16e8a17e72604caf25a30f1fc04a04e1e56552981be98847b9ea8"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\videos\\task0_ep0_success.mp4",
+    "bytes": 33153,
+    "sha256": "dbfc121fc83b25f7cfa3ae99ca9023053ee25c6e5901346f8cc1b22f60383222"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\videos\\task0_ep1_success.mp4",
+    "bytes": 43773,
+    "sha256": "e100217ddf50747e9b540de6c3eb9a853d0617a03251af37a81dbf1aad869929"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\videos\\task0_ep2_success.mp4",
+    "bytes": 35317,
+    "sha256": "e103170cbda5ab05a362cebd569be15347b8e62f6384d7ff07ee11df085cf782"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\videos\\task1_ep0_success.mp4",
+    "bytes": 34848,
+    "sha256": "a02915e1e9a0e2e3f1c1e475044e0134b38a13e932f9a7052baed6107598c79e"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\videos\\task1_ep1_success.mp4",
+    "bytes": 33746,
+    "sha256": "d0f09bfd080ba095d59206de2f9f1a960c13a90158c73ff174789ed54ba0e340"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\videos\\task1_ep2_success.mp4",
+    "bytes": 34722,
+    "sha256": "1ec5c40cef6278c967154c69b9cdf1eccec1b6306d822a239a8a897fe66541a3"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07_completion.log",
+    "bytes": 2949,
+    "sha256": "a2208cb43e8d0087be7ccbfaea73bac87781d8528b8ad8542351dceac92ef146"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_completion_helper.log",
+    "bytes": 110,
+    "sha256": "2e0f97ccea4944b4bc0d08379a5a77987e0cab73136eb32d772e7b5094c3c08e"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_help_check.txt",
+    "bytes": 5065,
+    "sha256": "15dfacb675d6b69a2301ff17c71c148635f630534a2f29da4354a6af2dc2213c"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_libero_10\\command.json",
@@ -45,14 +100,59 @@
     "sha256": "69d277c8316a8e8e91a1218a2b37a86bb7b4adba9e45eda531d63b8ca589bb73"
   },
   {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\completion_exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
     "path": "results\\codex_session_20261026\\openpi_libero_10\\console.log",
-    "bytes": 5384,
-    "sha256": "d0a6e0a9546f9ef91d604826d4d4a298f6878e41fe3d48d3f61516d6dbfc3994"
+    "bytes": 7327,
+    "sha256": "47f0f9b23576550e13c0eec716a1b08bddcbe467261d07730f06b8f7e100702c"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_libero_10\\exit_code.txt",
     "bytes": 1,
-    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\videos\\episodes.jsonl",
+    "bytes": 7579,
+    "sha256": "cdd12b68ed258e80cb8efba13dea6d76ad5aff94b2a05dac8940bef5b7e35fcb"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\videos\\task0_ep0_success.mp4",
+    "bytes": 103279,
+    "sha256": "5522d90647a05a1bf244678c6a2d47d1534fecfb2432f4b3505c7378dd10a185"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\videos\\task0_ep1_success.mp4",
+    "bytes": 125466,
+    "sha256": "8eed8d7f9dc0e3002139a29e82d0c1a763a1c5348db7eaf9e85a45da0a6f49c5"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\videos\\task0_ep2_success.mp4",
+    "bytes": 122754,
+    "sha256": "e1964f545e268b0b498aabbe9be062f262dc8ce8c126830dfdf173406156a1cb"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\videos\\task1_ep0_success.mp4",
+    "bytes": 138491,
+    "sha256": "8c42464f591af7bb9b449e63352948714e89e58498f00ce0b86d83bf79930a71"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\videos\\task1_ep1_success.mp4",
+    "bytes": 139077,
+    "sha256": "365153e7ba8c4267aa3a27a4c590bcd29e0ded94306f539633551b93fcac07df"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\videos\\task1_ep2_success.mp4",
+    "bytes": 130452,
+    "sha256": "4dc4269a84850bd620a9bb7cad71c8f3681c506bfe3c82b2626bb4e5ef84b1aa"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10_completion.log",
+    "bytes": 2872,
+    "sha256": "6c3dddae57ba1a99bd962d646c5bd2a1a61edefd8db83e2f71dce58d8e36a75f"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_libero_goal\\command.json",
@@ -60,14 +160,59 @@
     "sha256": "db860d2baed2ec33fab055c275100815760b09087b7f29b4d1b07fe2c167f271"
   },
   {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\completion_exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
     "path": "results\\codex_session_20261026\\openpi_libero_goal\\console.log",
-    "bytes": 5384,
-    "sha256": "01bcada55fba5936665fd6ab7beab1f916c69f6a603bf40d5319ff1a3f6a9db3"
+    "bytes": 7305,
+    "sha256": "5c4b95875470e4aee5f09f3e3919e6284138def243f0045ff8d8d85bc5ff55b3"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_libero_goal\\exit_code.txt",
     "bytes": 1,
-    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\videos\\episodes.jsonl",
+    "bytes": 4606,
+    "sha256": "b2a9c74c00b1b535c128fa46459594093f08577c15ab53eff46fb0d904a0db91"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\videos\\task0_ep0_success.mp4",
+    "bytes": 56814,
+    "sha256": "585fce8a9d79ba6890add8afd05a12c3e051db84b906193c50cd835e043ba991"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\videos\\task0_ep1_failure.mp4",
+    "bytes": 132712,
+    "sha256": "d35e42bbc2d96e3793a50e6f2fb81ba3f37f3e92e92442a9b9f916f684336add"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\videos\\task0_ep2_success.mp4",
+    "bytes": 55818,
+    "sha256": "d865cc9415198e5967d15af8d003f76c41ed1977d0727b2219199d0f6e05995d"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\videos\\task1_ep0_success.mp4",
+    "bytes": 42756,
+    "sha256": "5e0af15768d77af3633db2a471c24c1f775bb8fb4a4641c323aadfc23dd09aea"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\videos\\task1_ep1_success.mp4",
+    "bytes": 42712,
+    "sha256": "4aa3c6ccb57c92ab5561006941f5f9cc44c2e55969ab8a645bcbea9791676dfa"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\videos\\task1_ep2_success.mp4",
+    "bytes": 39937,
+    "sha256": "3a660656b45838874eeef2a97966b04287405139746e2516a4fa214baca295c8"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal_completion.log",
+    "bytes": 2783,
+    "sha256": "4699f8bedfd044ae60361663b2f1b120c4684e8f65d4dd04de4d3f37b85feca4"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_libero_object\\command.json",
@@ -75,14 +220,59 @@
     "sha256": "ffde715088629a1dbaf07643f9241256ce7d5e15a7b73043d6b9176053cbf0d8"
   },
   {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\completion_exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
     "path": "results\\codex_session_20261026\\openpi_libero_object\\console.log",
-    "bytes": 5469,
-    "sha256": "6897dbdd4bd899db064be0e6aedd5807438f5bcccd2dbc9b970f8d96beddfbeb"
+    "bytes": 7407,
+    "sha256": "ed9f2f30b9aa9a5954ddfa719d62b797e305ce33b2c238dfc35f81303b6648b9"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_libero_object\\exit_code.txt",
     "bytes": 1,
-    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\videos\\episodes.jsonl",
+    "bytes": 4986,
+    "sha256": "7e270dddf8be193f291509f70a70065ecde991fce6bc9a83b8e4038fbd4b47d3"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\videos\\task0_ep0_success.mp4",
+    "bytes": 62189,
+    "sha256": "ff2e9472aece85adae876cd4b25dd82d2bc716320e71887f08dff10253fbcb4a"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\videos\\task0_ep1_success.mp4",
+    "bytes": 59372,
+    "sha256": "d340cce773d90186549f2deb9f6029e5b72100101b1c9f6ba9af3608f16ebfce"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\videos\\task0_ep2_success.mp4",
+    "bytes": 54671,
+    "sha256": "028b4fdfcf060ad3f1e9d03607f5ed1f60dab48d7be7062761747ecb8b725c83"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\videos\\task1_ep0_success.mp4",
+    "bytes": 68012,
+    "sha256": "4f5e6c7c5ad65d0a71d2380ba3fc32c90c85c5533622e26ba0b8bc15715cd438"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\videos\\task1_ep1_success.mp4",
+    "bytes": 63125,
+    "sha256": "ebe42cf8b89885dba15f5f0169e601e906f084923391ae48bf873c00cc1c857f"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\videos\\task1_ep2_success.mp4",
+    "bytes": 60823,
+    "sha256": "fa949e90911ef8a92248a3a082aca3f65a0e513c4ae997acc27925071f494721"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object_completion.log",
+    "bytes": 2837,
+    "sha256": "40e7a82a3c342487d15f388643d711217f6d21a6f2a86350e15980288da72069"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_libero_spatial\\command.json",
@@ -90,19 +280,84 @@
     "sha256": "4f9cb7ac84761615dc0c39d81a69666867233dc1dd5bc0c2b37cca26e8b6f335"
   },
   {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\completion_exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
     "path": "results\\codex_session_20261026\\openpi_libero_spatial\\console.log",
-    "bytes": 5469,
-    "sha256": "27a7ad48366bb2dbc0dfb47d2d82d656a2819c74b785b33614d695901367b26b"
+    "bytes": 6839,
+    "sha256": "5a7fd673e039baa95df1ff4a02dfb3d30497fdda3729401c5a4fa4c07e62ccd7"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_libero_spatial\\exit_code.txt",
-    "bytes": 1,
-    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+    "bytes": 3,
+    "sha256": "5e37b37c842d8df7106ee92e2e45beefef71ca60f51f7bb5cb50cb1e81c355a8"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\episodes.jsonl",
+    "bytes": 4185,
+    "sha256": "532b6d7ffd1eb38fa4eead8ceac514f4fb9268e1e68aeea92e883d1cded8f1eb"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\episodes_failed_transport.jsonl",
+    "bytes": 327,
+    "sha256": "9f90d9770533dd82e13321070f4f3abd674251d742b935df8c82f29dd9419de3"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\task0_ep0_failure.mp4",
+    "bytes": 3933,
+    "sha256": "05ceeb9ae295b09047198573237a0a062e35fae1cc128b3ed8118894433fb72b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\task0_ep0_success.mp4",
+    "bytes": 38789,
+    "sha256": "a92fb3385cdd933a210a7e7c5dae4eab7ede386d3868b5448febc9720b88aee4"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\task0_ep1_success.mp4",
+    "bytes": 81919,
+    "sha256": "5ef3be3bcfe00f098854cdd8819729fc3ff9c991f05ca5efa713e9b93dc41a83"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\task0_ep2_success.mp4",
+    "bytes": 42593,
+    "sha256": "d7526369cd91e1bdf6a572a9ab4af400a5e382379804721c8ba8dcadad715bca"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\task1_ep0_success.mp4",
+    "bytes": 56312,
+    "sha256": "c06297236c9289e7216883fb8d31eed197367b570b132e1a949a0cd77ed14097"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\task1_ep1_success.mp4",
+    "bytes": 40473,
+    "sha256": "d951c9707b22669c2e659ac8f95ec3d2b6ccf31f9cae3209e5e4ee67d93297cd"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\videos\\task1_ep2_success.mp4",
+    "bytes": 43400,
+    "sha256": "38e56e47436f382908378ea361813ff511ffbc5c15c914414ccf0cb01eb24dbb"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial_completion.log",
+    "bytes": 2693,
+    "sha256": "2d4e7aebcfa05a51f49ef124c6f1c09182f16e5d05beb27f5515780d07440a82"
   },
   {
     "path": "results\\codex_session_20261026\\openpi_server.log",
-    "bytes": 4087,
-    "sha256": "17f1a996e6e108b458cd593c8381d3807d6e4f487ce18d181965e8c6c2ad228f"
+    "bytes": 10392,
+    "sha256": "ed2b9fa8761a41b8d9e39800e14f859089748d79832b1acdf53bccca340cf68a"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_spatial_reset_retry.log",
+    "bytes": 2039,
+    "sha256": "31e0a34802325da181fcdc39e04cfd1e0b0a498224ef1a0c385206f911e3d14f"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_spatial_retry.log",
+    "bytes": 1267,
+    "sha256": "17ea5c4d40d15d09e4931bb7319c906d4049c531d5998118f564181d0bdd874d"
   },
   {
     "path": "results\\codex_session_20261026\\openvla\\command.json",
@@ -111,23 +366,38 @@
   },
   {
     "path": "results\\codex_session_20261026\\openvla\\console.log",
-    "bytes": 55297,
-    "sha256": "3f4f9c16673fb9289515c0417ba3253229f9e59e8e8233c52a2324e3e3eada29"
+    "bytes": 56455,
+    "sha256": "c08e8eddaa612bfa6ccc5f90d0d7a51d6182683ef034545e2e615d89abb2b502"
   },
   {
     "path": "results\\codex_session_20261026\\openvla\\exit_code.txt",
     "bytes": 1,
-    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
   },
   {
     "path": "results\\codex_session_20261026\\openvla_repair.log",
-    "bytes": 25380,
-    "sha256": "42dbb6ef0c9bc92ce105b12a92ea9041315a0a786075622e8501f036dbf25171"
+    "bytes": 1158,
+    "sha256": "d4bd80c1ae9ee4fe3f5fc9e1b5a427b47b0e06f75a60c2dbc25646ba71a79990"
   },
   {
     "path": "results\\codex_session_20261026\\openvla_repair_exit_code.txt",
     "bytes": 2,
     "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\codex_session_20261026\\previous_completion\\DOWNLOAD_VERIFIED",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\codex_session_20261026\\previous_completion\\GPU_FINISHED",
+    "bytes": 24,
+    "sha256": "b4865aeb92a155c31bb71ffd58f9b1ed28127e8cc18b7feca83829fd57b60e64"
+  },
+  {
+    "path": "results\\codex_session_20261026\\previous_completion\\SHUTDOWN_REQUESTED",
+    "bytes": 24,
+    "sha256": "c9742c129d42bdcaa4a29df0e6feb53c76ebfadda2ca8a0d6e19bd59950e31b6"
   },
   {
     "path": "results\\codex_session_20261026\\protocol.json",
@@ -190,9 +460,14 @@
     "sha256": "bd91acbfedd0eb91d4a5fe4b79a003bb6e09d87a51b9126db54e24b7eeff7e6e"
   },
   {
+    "path": "results\\codex_session_20261026\\resume_after_openpi_retry.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
     "path": "results\\codex_session_20261026\\runner.log",
-    "bytes": 2416,
-    "sha256": "64d1e89cc923e717fbe8aac45b5e1d52a0206b70852491a2bff269206252064a"
+    "bytes": 3912,
+    "sha256": "559e4d7248259a291bc17b6d90d710959730bbbb105353cf33d7c5379a74f462"
   },
   {
     "path": "results\\codex_session_20261026\\second_failed_attempts.json",
@@ -201,8 +476,8 @@
   },
   {
     "path": "results\\codex_session_20261026\\status.json",
-    "bytes": 974,
-    "sha256": "d88305bc96d3d8088ddf145101871612fda83aff062b8887d29e6fb89c7a8e6c"
+    "bytes": 620,
+    "sha256": "d00265b761ad6c7e41f980a7589a5c5a0e7208612f378d0af9f05b51ba66323d"
   },
   {
     "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\.hydra\\config.yaml",
@@ -520,19 +795,24 @@
     "sha256": "af5530f1b589f76d3d1109bcd80ec5faf607024c955d17920b98486838560c2c"
   },
   {
+    "path": "results\\codex_session_20261026\\vla_help_check.txt",
+    "bytes": 3783,
+    "sha256": "da80b3046d20b9a17ea0e5111a14dfe09850ed5aca7cdf568facaffdd39e41a7"
+  },
+  {
     "path": "results\\codex_session_20261026\\vla_jepa\\command.json",
     "bytes": 144,
     "sha256": "0b5b78280fe7961833677a269b05c0b31d6c96ace445e5b762b63ee4da01a630"
   },
   {
     "path": "results\\codex_session_20261026\\vla_jepa\\console.log",
-    "bytes": 2954,
-    "sha256": "2de01576ec3b493c7aeb26e37b79ef4de01b0a963350c2b29bead1b0fa5a9111"
+    "bytes": 55447,
+    "sha256": "78fbe7b7079cf5eb37e4ed5830666f34b87b6de3bca2b45a3271e0957cd09eb7"
   },
   {
     "path": "results\\codex_session_20261026\\vla_jepa\\exit_code.txt",
-    "bytes": 2,
-    "sha256": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5"
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
   },
   {
     "path": "results\\codex_session_20261026\\watchdog.log",
@@ -1011,6 +1291,16 @@
   },
   {
     "path": "results\\openvla_libero\\mini_benchmark_004\\overall_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_005\\overall_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_006\\overall_exit_code.txt",
     "bytes": 2,
     "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
   },
@@ -2367,7 +2657,7 @@
   {
     "path": "results\\vla_jepa_libero\\latest_mini_benchmark.txt",
     "bytes": 69,
-    "sha256": "51a2183c6b9ff89286f17d5abf229ba393d0beaa7304e27c410836fea59cc45d"
+    "sha256": "5b25b2e7d787d701dcd95a2e9de5ffce687dca692b1c7b59e9b5f3416de0b1f0"
   },
   {
     "path": "results\\vla_jepa_libero\\mini_benchmark_001\\config.yaml",
@@ -2546,6 +2836,281 @@
   },
   {
     "path": "results\\vla_jepa_libero\\mini_benchmark_002\\torch_gpu_before.txt",
+    "bytes": 114,
+    "sha256": "8ad45e362f070c9036344b57239cdc276124dbb669b7cfad00365bf126bd22e9"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\artifact_manifest.tsv",
+    "bytes": 3667,
+    "sha256": "ffaedfffec7a78b7e8e616641a0c3495b10f44e66dde99aa3b470f34663de3a5"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\config.yaml",
+    "bytes": 2675,
+    "sha256": "641a5bbc7dce90a4c39ba4cf5b676d9254c0ada83905a59308cb159ce01aad1d"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\dataset_statistics.json",
+    "bytes": 2905,
+    "sha256": "87c1d2845aa79512491841ddc0bccefe13a5edd88af93385b9f05b15927d849b"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\episodes.tsv",
+    "bytes": 7558,
+    "sha256": "d6ee780c45a825fbb27814536a53119d775237d3874debaf8d880f1cadb5512f"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\eval_libero_subset.py",
+    "bytes": 14147,
+    "sha256": "780fce68afa2f84681d20586cf162a4b691aaa01de45890d140b491d31f7245d"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\git_state.txt",
+    "bytes": 286,
+    "sha256": "711c0636d5522409746003d98319176c81a6a5c99923055e57005b2496547c66"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\episodes.jsonl",
+    "bytes": 2967,
+    "sha256": "f382645418a63c8cf8348cc1f40e76334ffe380ccea1d3b4d324303eeb9fc1f0"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\eval.log",
+    "bytes": 12759,
+    "sha256": "de17a87964a90220520d600c7f4e7e6dc1c24e87319f5477d8fd9b7f65cb1253"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\runtime_seconds.txt",
+    "bytes": 3,
+    "sha256": "6950980e3aca96f4dc400eb2e47cc5c343e0d3f483a4e70adcae1d7e6bb22d9c"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\videos\\rollout_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_4da9fbe7_episode0_success.mp4",
+    "bytes": 191564,
+    "sha256": "c5742e070837909c65d9102139d1adecabc57483bbaae7f879fe22823de1d4e3"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\videos\\rollout_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_4da9fbe7_episode1_success.mp4",
+    "bytes": 181686,
+    "sha256": "f3909fcef6717bf4b2f7837416d572d523365089ece259b66b03f16f40ff5cf5"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\videos\\rollout_put_both_the_alphabet_soup_and_the_tomato_sauce_in_the_basket_4da9fbe7_episode2_success.mp4",
+    "bytes": 175997,
+    "sha256": "8ef1098b058a80a8e78d97cc238c94eb30ff9f83fe627ac001ad5a88786cdd13"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\videos\\rollout_put_both_the_cream_cheese_box_and_the_butter_in_the_basket_7e114ae9_episode0_success.mp4",
+    "bytes": 206605,
+    "sha256": "5d945d047dd1471329ea040cfe76f2d12d3f42df1c1daf91e5889caa8b464570"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\videos\\rollout_put_both_the_cream_cheese_box_and_the_butter_in_the_basket_7e114ae9_episode1_success.mp4",
+    "bytes": 201095,
+    "sha256": "394d5007a5b63ecae8250e800fceea1e8d47ddd2ef96aa38c33d5a53ce65bd8b"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_10\\videos\\rollout_put_both_the_cream_cheese_box_and_the_butter_in_the_basket_7e114ae9_episode2_success.mp4",
+    "bytes": 200590,
+    "sha256": "e4eb447e07576aa24190ebd1eef61ba49621e73a4c4fc344dd82b53dbfb6fb18"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\episodes.jsonl",
+    "bytes": 2646,
+    "sha256": "42f4fe96901b979f6100fb636c8681fe16dd967c5417feae14cdf8f4bf11e1fe"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\eval.log",
+    "bytes": 12273,
+    "sha256": "c3216c2478d8eaf52aad2b8543efb82a1f915f8e549de3d1851c9e5e9b6816fb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\runtime_seconds.txt",
+    "bytes": 3,
+    "sha256": "420002158111bff8adb3347d84029e480f45e60e1869b454b6adac3345f9f7d4"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\videos\\rollout_open_the_middle_drawer_of_the_cabinet_2942d7b5_episode0_success.mp4",
+    "bytes": 96098,
+    "sha256": "beeca5aa081cc00e6c696ee7582bd2d8e6e58756fa1571c35f9d16f64b4d51e5"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\videos\\rollout_open_the_middle_drawer_of_the_cabinet_2942d7b5_episode1_success.mp4",
+    "bytes": 88181,
+    "sha256": "d112dbfc78ac2dc5585e0baf6a0c132206fbbf7ca91cd9e84cdbddc395b4dd25"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\videos\\rollout_open_the_middle_drawer_of_the_cabinet_2942d7b5_episode2_success.mp4",
+    "bytes": 87124,
+    "sha256": "36441cd5e988fb3259e2e291d56260f4290b107984cf8629c53a53ca232dd3aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\videos\\rollout_put_the_bowl_on_the_stove_856451e4_episode0_success.mp4",
+    "bytes": 65514,
+    "sha256": "e9cba273ac5e00156f040a4859bb00fd30832b5033b1476e1ea0a784d87a9c43"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\videos\\rollout_put_the_bowl_on_the_stove_856451e4_episode1_success.mp4",
+    "bytes": 67962,
+    "sha256": "bb755dbc873274db54a6c86d28468db1dd9e1aa67c2eea9e83a326406a1b8afa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_goal\\videos\\rollout_put_the_bowl_on_the_stove_856451e4_episode2_success.mp4",
+    "bytes": 61362,
+    "sha256": "048f99eaa9ec64c41961b496bf796011bec15d5712917f3b15c2ef3b5c925ff8"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\episodes.jsonl",
+    "bytes": 2916,
+    "sha256": "585a821d04ac49b4a0d2591e0eb55e6668e24dff478fe09bed92933a1d44a298"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\eval.log",
+    "bytes": 12840,
+    "sha256": "e92bbb51c9d3a7f6378de080841c720997112c8fa8f381dfd754dfd318a19a60"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\runtime_seconds.txt",
+    "bytes": 3,
+    "sha256": "1326faec3eb42dc72ddffe46daf3940b932f48b9799f6cbf28e80504e7b34958"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\videos\\rollout_pick_up_the_alphabet_soup_and_place_it_in_the_basket_56849bc3_episode0_success.mp4",
+    "bytes": 90215,
+    "sha256": "f12c4190b3e37a4a8be11ad9454dd363a97b8c046fced10ab918c5f6679a16b7"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\videos\\rollout_pick_up_the_alphabet_soup_and_place_it_in_the_basket_56849bc3_episode1_success.mp4",
+    "bytes": 89627,
+    "sha256": "55b5968f0fdeaccda2a2797553c427abf43b1fd78e8ebcf848d491f14b3896bb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\videos\\rollout_pick_up_the_alphabet_soup_and_place_it_in_the_basket_56849bc3_episode2_success.mp4",
+    "bytes": 90925,
+    "sha256": "6b1ca86190ce35571f9211e8414f189b932dcbb85c872c7afdd50ecacf71420d"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\videos\\rollout_pick_up_the_cream_cheese_and_place_it_in_the_basket_08a2452e_episode0_success.mp4",
+    "bytes": 92494,
+    "sha256": "799c7ff35ad9e6e5176b02fe99f4f7f6eb95c23aaa22b0c1d50c722149762ad0"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\videos\\rollout_pick_up_the_cream_cheese_and_place_it_in_the_basket_08a2452e_episode1_success.mp4",
+    "bytes": 88643,
+    "sha256": "e883a127c2c6747a7ae438fda17807c7574bdb738b126dc26fec44c4b8451ed5"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_object\\videos\\rollout_pick_up_the_cream_cheese_and_place_it_in_the_basket_08a2452e_episode2_success.mp4",
+    "bytes": 91601,
+    "sha256": "adc3bbc7aa83681d35c4d17fb4d1456c015a2e819df1ee64deef34ccb6452930"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\episodes.jsonl",
+    "bytes": 3203,
+    "sha256": "fc564874ab7e8571f968175959435cfe0341271bb342e2fb63a2c356dec6f939"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\eval.log",
+    "bytes": 13083,
+    "sha256": "0dd1da310da045ddb628d02bec9c7c3b62006a435b804440cc06184462989daf"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\runtime_seconds.txt",
+    "bytes": 3,
+    "sha256": "7ea9844ae84eccbf55e8330640865e36c43521e45a1baec24233327aab7e6595"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\videos\\rollout_pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_pla_86447fd5_episode0_success.mp4",
+    "bytes": 64846,
+    "sha256": "515a57fb946daf7a07be58f78d27b6a419e367df9c06a6e01a041701143c49f0"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\videos\\rollout_pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_pla_86447fd5_episode1_success.mp4",
+    "bytes": 65040,
+    "sha256": "a4c0120c04a6462d7b7ee91df8f3bf98872640cf333ec0885484dce12388cb04"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\videos\\rollout_pick_up_the_black_bowl_between_the_plate_and_the_ramekin_and_place_it_on_the_pla_86447fd5_episode2_success.mp4",
+    "bytes": 67435,
+    "sha256": "6b95a5596862d33a2d3c7845bf106d4cd1e86b3468483bce58e86e786e04ba9e"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\videos\\rollout_pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_ead0adb0_episode0_success.mp4",
+    "bytes": 69127,
+    "sha256": "a6e5c90287b095116a8a44646ea75fa342c442beecaf34e0f0f8c82d86a9b107"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\videos\\rollout_pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_ead0adb0_episode1_success.mp4",
+    "bytes": 68340,
+    "sha256": "ab33adeac1bbe1a3555bfde2f776315d8ab323e276d2541194e7685ce84fdd48"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\libero_spatial\\videos\\rollout_pick_up_the_black_bowl_next_to_the_ramekin_and_place_it_on_the_plate_ead0adb0_episode2_success.mp4",
+    "bytes": 68949,
+    "sha256": "7e88780b9237e2e831faf9cd616acdb3e2737c2ad85de34702f5799f4a4c2d1d"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\nvidia_smi_after.txt",
+    "bytes": 1689,
+    "sha256": "d28016c7a1d034c7f9686f98bbb08f594be69de952adea7d7aba55e48377b29e"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\nvidia_smi_before.txt",
+    "bytes": 1689,
+    "sha256": "142cf734fba012a691aebaa221bbd39fe31d43a99091ae76dc2b0261a6aa2028"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\run_config.txt",
+    "bytes": 429,
+    "sha256": "8cc0c94e83d3de9f5b28a858ea8061e3ee60206fc39db5a97554ab1ec621d2ca"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\run_status.txt",
+    "bytes": 52,
+    "sha256": "b3d273caffa7dcd4ccac2b45564619581c1c7baeaee43d35e27519e46a5061ba"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\server.log",
+    "bytes": 3101,
+    "sha256": "8d18fc797b2323864b105ec189911ee07ab0b9c7ec2fbb0708c2e1935c0351ed"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\server.pid",
+    "bytes": 6,
+    "sha256": "8ad3c75fb3ccdae7fdaf7080632649c2059b07b8eb69eeac82ba39f08c3579c1"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\server_ready.txt",
+    "bytes": 19,
+    "sha256": "3d47df97fcdf29f063d73e82a46a6aed295959348444fec91f45c74fe30b18a2"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\summary.json",
+    "bytes": 620,
+    "sha256": "7dfec79c6f920101d2cddd6bb7921a4b6baac420a5a822b67b538cc938c3a7b7"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_003\\torch_gpu_before.txt",
     "bytes": 114,
     "sha256": "8ad45e362f070c9036344b57239cdc276124dbb669b7cfad00365bf126bd22e9"
   },
@@ -2850,14 +3415,49 @@
     "sha256": "c944afd1bc2140d1a54a3dec30d7b137fd27d91740d6bcad7a1a76e703811e44"
   },
   {
+    "path": "scripts\\codex_session_20261026\\fix_openpi_reset.py",
+    "bytes": 2003,
+    "sha256": "de08109e555543ea5023b93140385606d71b0629cc2c0eb58b7c33702c1779a0"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\fix_openpi_transport.py",
+    "bytes": 1033,
+    "sha256": "9c9a35bbdc7f85ad4e78062689663958502b671215e159ad790e908371f7f7fe"
+  },
+  {
     "path": "scripts\\codex_session_20261026\\openpi_eval.py",
-    "bytes": 10696,
-    "sha256": "1b3f1977d7816211049629d358105e545e07a711c8a059096055fd379bbce763"
+    "bytes": 11845,
+    "sha256": "6c012e5f155c6c2f2aca8a3afc249d32a221b91478ab554608a1dcc4b3f00dce"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\openpi_eval_before_close_fix.py",
+    "bytes": 11845,
+    "sha256": "8364279b6f3f0b516d2b0437b34e651ffe64cad46e8aa9e2347e78a0a419392b"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\openpi_eval_before_reset_fix.py",
+    "bytes": 10822,
+    "sha256": "3c76ae9a7f6447b8cb27484698845e6ffa2f3705ef75c5c403e9740a9748c90d"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\openpi_finish.py",
+    "bytes": 1454,
+    "sha256": "4ef08f96d02c998dc804373d0cc419158af67b1a5c39488ffee8de5f16078dc7"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\openpi_reset_resume.patch",
+    "bytes": 1821,
+    "sha256": "3b6dac67d4b0c1046fa1013aa1a49cab2fd775e79be37e5ad445efabe356a30b"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\openpi_transport.patch",
+    "bytes": 684,
+    "sha256": "bf69d06317ae737f9e51a2aca7f1b7e2a17ce66e23b7d13ead19b7e5fc5fa20d"
   },
   {
     "path": "scripts\\codex_session_20261026\\openvla.sh",
-    "bytes": 2916,
-    "sha256": "6a7ad1474a62eda49505841d82953ad8c744bee1bd1b114a12e20383355fb090"
+    "bytes": 2953,
+    "sha256": "05e1bdf5993a0650793e31d9d29a72638088289f589a3ff6dc98fb019e8e9dca"
   },
   {
     "path": "scripts\\codex_session_20261026\\openvla_offline.patch",
@@ -2890,14 +3490,19 @@
     "sha256": "bb00d092582d82eda7c0865033f256771fe700fefb5e700cf1495f0734e3f3c3"
   },
   {
+    "path": "scripts\\codex_session_20261026\\original_openpi_websocket_client.py",
+    "bytes": 2131,
+    "sha256": "36557cb0b91ccf31cd4fb4b508306850d76ed0feb4028dac5182d0f5a5d88005"
+  },
+  {
     "path": "scripts\\codex_session_20261026\\original_openvla_utils.py",
     "bytes": 6638,
     "sha256": "72a1a382172c67068c96f47d1c2d8f16925d2e0deda9c745829a7f2ee6b1c865"
   },
   {
     "path": "scripts\\codex_session_20261026\\remote_runner.py",
-    "bytes": 5960,
-    "sha256": "c9cff78eba4d4210164137fc2ca69ee63137ba1a959fed934a13d0d552dd7155"
+    "bytes": 6174,
+    "sha256": "e982cf48b2260d5fd4801ffc128cb6ffef30eff40f788ea768f08e97926ff63b"
   },
   {
     "path": "scripts\\codex_session_20261026\\repair_compat.py",
@@ -2915,6 +3520,11 @@
     "sha256": "807d9d6e5cabc35777c50a19d2b69a4ad09dfa3fa2fc105bfb772c9a06855660"
   },
   {
+    "path": "scripts\\codex_session_20261026\\vla_eval_before_indent_fix.py",
+    "bytes": 14066,
+    "sha256": "2516af2f3f4d01e12b223e7295d21e3ac982f151ebe67d72161d13302ec7d8de"
+  },
+  {
     "path": "scripts\\codex_session_20261026\\vla_jepa.sh",
     "bytes": 432,
     "sha256": "4144743c517b4b99a553befe889e8058b9d65e2c157aef5c25b7be41d984162a"
@@ -2923,6 +3533,16 @@
     "path": "scripts\\codex_session_20261026\\vla_jepa_core.sh",
     "bytes": 10281,
     "sha256": "e09e9ab6a0274e55c4dc4f59f0a0985ddb0dceeaa4265b4d5630f20cc5103bba"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\vla_metrics_indent.patch",
+    "bytes": 2453,
+    "sha256": "e4444955c088751f1e7ba76ac865f07e78e2822d7b1472b40552dc948b230a50"
+  },
+  {
+    "path": "scripts\\fix_vla_indent.py",
+    "bytes": 2083,
+    "sha256": "4cea4dda61e6865bb7c50afdbe224671a3917e0422fe3710ed37cce3d4ae5315"
   },
   {
     "path": "scripts\\make_5050_cvx.py",
@@ -2956,13 +3576,13 @@
   },
   {
     "path": "scripts\\prepare_remote.py",
-    "bytes": 6907,
-    "sha256": "5ba3ba62b910810421e42ae8ccb06765cc662d99c0fe8967b8c3d28fc03ded91"
+    "bytes": 7070,
+    "sha256": "2e265bace43d34a8cdf7b2797b43b06ce5cce1c63c2aab7d1553f6e045eeb41c"
   },
   {
     "path": "scripts\\remote_runner.py",
-    "bytes": 5960,
-    "sha256": "c9cff78eba4d4210164137fc2ca69ee63137ba1a959fed934a13d0d552dd7155"
+    "bytes": 5967,
+    "sha256": "e338fcacf53c7c36f6fb6c7040df1d8e861e434599352ed32b848ba439feb9cb"
   },
   {
     "path": "scripts\\run_smolvla_libero.sh",
@@ -2991,8 +3611,8 @@
   },
   {
     "path": "scripts\\vla_jepa\\eval_libero_subset.py",
-    "bytes": 14066,
-    "sha256": "2516af2f3f4d01e12b223e7295d21e3ac982f151ebe67d72161d13302ec7d8de"
+    "bytes": 14147,
+    "sha256": "780fce68afa2f84681d20586cf162a4b691aaa01de45890d140b491d31f7245d"
   },
   {
     "path": "scripts\\vla_jepa\\run_mini_benchmark.sh",

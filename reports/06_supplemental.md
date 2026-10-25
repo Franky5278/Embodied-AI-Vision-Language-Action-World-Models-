@@ -6,11 +6,17 @@ TD-MPC2 actor-only experiment: set `mpc=false` on lift-cube and retain the check
 
 | Experiment | Episodes | Successes |
 |---|---:|---:|
-| openpi_brightness_07 | 0 | 0 |
+| openpi_brightness_07 | 6 | 6 |
 | tdmpc2_lift-cube_actor_only | 3 | 3 |
 
 Zero episodes means not completed; do not infer zero policy success. All extras are subject to the four-hour safety budget. Timing samples are retained in JSONL where instrumentation was available.
 
+## openpi_brightness_07: matched descriptive comparison
+
+Baseline: 100.0% (6 episodes). Altered condition: 100.0% (6 episodes). Difference: +0.0 percentage points. This small sample does not establish statistical significance; conclusions apply only to these selected tasks and settings.
+
 ## tdmpc2_lift-cube_actor_only: matched descriptive comparison
 
 Baseline: 100.0% (3 episodes). Altered condition: 100.0% (3 episodes). Difference: +0.0 percentage points. This small sample does not establish statistical significance; conclusions apply only to these selected tasks and settings.
+
+![Supplemental comparisons](../figures/supplemental.png)

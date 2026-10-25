@@ -1,0 +1,1 @@
+{"model": "OpenPI", "suite": "libero_spatial", "task_id": 0, "episode_id": 0, "seed": 42, "success": false, "error": "ConnectionClosedError(None, Close(code=<CloseCode.INTERNAL_ERROR: 1011>, reason='keepalive ping timeout'), None)", "policy_steps": 10, "runtime_sec": 42.76936473697424, "inference_sec": [], "brightness": 1.0}
