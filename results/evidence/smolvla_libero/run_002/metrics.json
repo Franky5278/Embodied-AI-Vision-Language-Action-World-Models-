@@ -1,0 +1,62 @@
+[
+  {
+    "source": "eval/eval_info.json",
+    "metric": "per_group.libero_spatial.avg_sum_reward",
+    "value": 1.0
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "per_group.libero_spatial.avg_max_reward",
+    "value": 1.0
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "per_group.libero_spatial.pc_success",
+    "value": 100.0
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "per_group.libero_spatial.n_episodes",
+    "value": 1
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "per_group.libero_spatial.n_success",
+    "value": 1
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "overall.avg_sum_reward",
+    "value": 1.0
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "overall.avg_max_reward",
+    "value": 1.0
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "overall.pc_success",
+    "value": 100.0
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "overall.n_episodes",
+    "value": 1
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "overall.n_success",
+    "value": 1
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "overall.eval_s",
+    "value": 19.003113508224487
+  },
+  {
+    "source": "eval/eval_info.json",
+    "metric": "overall.eval_ep_s",
+    "value": 19.003113985061646
+  }
+]

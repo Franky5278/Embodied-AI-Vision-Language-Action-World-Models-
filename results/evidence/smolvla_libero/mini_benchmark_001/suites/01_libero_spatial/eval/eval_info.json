@@ -1,0 +1,116 @@
+{
+  "per_task": [
+    {
+      "task_group": "libero_spatial",
+      "task_id": 0,
+      "metrics": {
+        "sum_rewards": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "max_rewards": [
+          1.0,
+          1.0,
+          1.0
+        ],
+        "successes": [
+          true,
+          true,
+          true
+        ],
+        "video_paths": [
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_0.mp4",
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_1.mp4",
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_2.mp4"
+        ],
+        "predicted_video_paths": []
+      },
+      "n_episodes": 3,
+      "n_success": 3,
+      "pc_success": 100.0,
+      "pc_success_ci95": [
+        43.85029682449546,
+        100.0
+      ]
+    },
+    {
+      "task_group": "libero_spatial",
+      "task_id": 1,
+      "metrics": {
+        "sum_rewards": [
+          1.0,
+          0.0,
+          1.0
+        ],
+        "max_rewards": [
+          1.0,
+          0.0,
+          1.0
+        ],
+        "successes": [
+          true,
+          false,
+          true
+        ],
+        "video_paths": [
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_0.mp4",
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_1.mp4",
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_2.mp4"
+        ],
+        "predicted_video_paths": []
+      },
+      "n_episodes": 3,
+      "n_success": 2,
+      "pc_success": 66.66666666666667,
+      "pc_success_ci95": [
+        20.76596008020478,
+        93.85080552796038
+      ]
+    }
+  ],
+  "per_group": {
+    "libero_spatial": {
+      "avg_sum_reward": 0.8333333333333334,
+      "avg_max_reward": 0.8333333333333334,
+      "pc_success": 83.33333333333334,
+      "n_episodes": 6,
+      "n_success": 5,
+      "pc_success_ci95": [
+        43.64971778135299,
+        96.99466302516933
+      ],
+      "video_paths": [
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_0.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_1.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_2.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_0.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_1.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_2.mp4"
+      ],
+      "predicted_video_paths": []
+    }
+  },
+  "overall": {
+    "avg_sum_reward": 0.8333333333333334,
+    "avg_max_reward": 0.8333333333333334,
+    "pc_success": 83.33333333333334,
+    "n_episodes": 6,
+    "n_success": 5,
+    "pc_success_ci95": [
+      43.64971778135299,
+      96.99466302516933
+    ],
+    "eval_s": 43.06531310081482,
+    "eval_ep_s": 7.177552302678426,
+    "video_paths": [
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_0.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_1.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_0/eval_episode_2.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_0.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_1.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/01_libero_spatial/eval/videos/libero_spatial_1/eval_episode_2.mp4"
+    ],
+    "predicted_video_paths": []
+  }
+}

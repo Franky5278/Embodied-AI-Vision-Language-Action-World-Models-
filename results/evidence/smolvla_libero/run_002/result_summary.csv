@@ -1,0 +1,2 @@
+run,model,benchmark,suite,task_id,episodes,successes,success_rate,avg_sum_reward,avg_max_reward,eval_seconds,status
+run_002,SmolVLA,LIBERO,libero_spatial,0,1,1,100.0,1.0,1.0,19.0031,completed

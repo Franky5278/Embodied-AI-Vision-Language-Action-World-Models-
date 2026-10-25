@@ -1,0 +1,19 @@
+VLA-JEPA NO-GPU readiness status
+
+Model environment: PASS
+LIBERO simulator environment: PASS
+FlashAttention import: PASS
+starVLA import: PASS
+Qwen checkpoint: PASS
+V-JEPA2 checkpoint: PASS
+VLA-JEPA LIBERO checkpoint: PASS
+Config path validation: PASS
+Normalization statistics: PASS
+Action chunk size: 7
+WebSocket client import: PASS
+WebSocket server import: PASS
+Subset evaluator syntax: PASS
+Single-GPU runner dry-run: PASS
+
+GPU runtime validation: DEFERRED
+Status: READY_FOR_GPU

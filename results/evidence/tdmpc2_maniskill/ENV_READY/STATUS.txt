@@ -1,0 +1,19 @@
+TD-MPC2 + ManiSkill2 environment ready.
+
+Validated:
+- torch 2.7.1+cu126
+- tensordict 0.8.3
+- torchrl 0.8.1
+- kornia 0.7.2
+- gym 0.21.0
+- gymnasium 0.29.1
+- mani-skill2 0.4.1.post0
+- SAPIEN import OK
+- TDMPC2 import OK
+- env factory import OK
+- parser import OK
+- pip check clean
+- split smoke exit 0
+
+GPU benchmark not run yet.
+Assets/checkpoints/runner not finalized yet.

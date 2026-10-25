@@ -1,0 +1,13 @@
+source,metric,value
+eval/eval_info.json,per_group.libero_spatial.avg_sum_reward,1.0
+eval/eval_info.json,per_group.libero_spatial.avg_max_reward,1.0
+eval/eval_info.json,per_group.libero_spatial.pc_success,100.0
+eval/eval_info.json,per_group.libero_spatial.n_episodes,1
+eval/eval_info.json,per_group.libero_spatial.n_success,1
+eval/eval_info.json,overall.avg_sum_reward,1.0
+eval/eval_info.json,overall.avg_max_reward,1.0
+eval/eval_info.json,overall.pc_success,100.0
+eval/eval_info.json,overall.n_episodes,1
+eval/eval_info.json,overall.n_success,1
+eval/eval_info.json,overall.eval_s,19.003113508224487
+eval/eval_info.json,overall.eval_ep_s,19.003113985061646

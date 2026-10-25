@@ -1,0 +1,38 @@
+===== DATE =====
+2026-10-02T01:40:52+08:00
+
+===== HOST =====
+autodl-container-8d4e4393c8-efb00f28
+
+===== GPU =====
+Fri Oct  2 01:40:52 2026       
++-----------------------------------------------------------------------------------------+
+| NVIDIA-SMI 570.124.04             Driver Version: 570.124.04     CUDA Version: 12.8     |
+|-----------------------------------------+------------------------+----------------------+
+| GPU  Name                 Persistence-M | Bus-Id          Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp   Perf          Pwr:Usage/Cap |           Memory-Usage | GPU-Util  Compute M. |
+|                                         |                        |               MIG M. |
+|=========================================+========================+======================|
+|   0  NVIDIA GeForce RTX 4090 D      On  |   00000000:A9:00.0 Off |                  Off |
+|  0%   29C    P8             12W /  425W |       1MiB /  24564MiB |      0%      Default |
+|                                         |                        |                  N/A |
++-----------------------------------------+------------------------+----------------------+
+                                                                                         
++-----------------------------------------------------------------------------------------+
+| Processes:                                                                              |
+|  GPU   GI   CI              PID   Type   Process name                        GPU Memory |
+|        ID   ID                                                               Usage      |
+|=========================================================================================|
+|  No running processes found                                                             |
++-----------------------------------------------------------------------------------------+
+
+===== PYTHON =====
+/root/autodl-tmp/embodied/envs/smolvla-libero/bin/python
+Python 3.12.14
+
+===== TORCH =====
+torch: 2.11.0+cu128
+cuda_available: True
+cuda_runtime: 12.8
+gpu: NVIDIA GeForce RTX 4090 D
+vram_gb: 23.53

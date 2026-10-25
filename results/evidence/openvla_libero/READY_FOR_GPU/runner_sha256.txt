@@ -1,0 +1,2 @@
+e4bdeaa3ee8b1d0cd55bc018f1b6b69190a75e316852d6afc96ce9719652d083  /root/autodl-tmp/embodied/repos/openvla/experiments/robot/libero/run_libero_eval_subset.py
+e848be10a818ec7265629cf740b9ae17f934dc708a794d3c7c2d8ac232367759  /root/autodl-tmp/embodied/scripts/openvla/run_openvla_mini_benchmark.sh

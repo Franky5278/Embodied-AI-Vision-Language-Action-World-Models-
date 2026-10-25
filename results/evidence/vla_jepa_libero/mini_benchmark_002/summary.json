@@ -1,0 +1,30 @@
+{
+  "model": "VLA-JEPA",
+  "protocol": "portfolio_mini_benchmark",
+  "expected_episodes": 24,
+  "episodes_completed": 0,
+  "successes": 0,
+  "success_rate": null,
+  "suite_summary": {
+    "libero_spatial": {
+      "episodes_completed": 0,
+      "successes": 0,
+      "success_rate": null
+    },
+    "libero_object": {
+      "episodes_completed": 0,
+      "successes": 0,
+      "success_rate": null
+    },
+    "libero_goal": {
+      "episodes_completed": 0,
+      "successes": 0,
+      "success_rate": null
+    },
+    "libero_10": {
+      "episodes_completed": 0,
+      "successes": 0,
+      "success_rate": null
+    }
+  }
+}

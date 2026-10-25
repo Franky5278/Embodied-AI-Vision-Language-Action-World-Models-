@@ -1,0 +1,14 @@
+[
+  [
+    "rollout_00.jpg",
+    "smolvla_libero\\mini_benchmark_001\\failure_cases\\libero_10_task0_ep0.mp4"
+  ],
+  [
+    "rollout_01.jpg",
+    "openvla_libero\\mini_benchmark_003\\libero_10\\rollouts\\2026_10_26\\2026_10_26-01_19_32--episode=1--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4"
+  ],
+  [
+    "rollout_02.jpg",
+    "codex_session_20261026\\tdmpc2_lift-cube\\videos\\lift-cube-0.mp4"
+  ]
+]

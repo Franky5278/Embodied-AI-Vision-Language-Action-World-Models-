@@ -1,0 +1,121 @@
+{
+  "total_episodes": 24,
+  "total_success": 17,
+  "overall_success_rate": 70.83333333333333,
+  "suite_results": [
+    {
+      "suite": "libero_10",
+      "n_episodes": 6,
+      "n_success": 2,
+      "success_rate": 33.333333333333336
+    },
+    {
+      "suite": "libero_goal",
+      "n_episodes": 6,
+      "n_success": 5,
+      "success_rate": 83.33333333333333
+    },
+    {
+      "suite": "libero_object",
+      "n_episodes": 6,
+      "n_success": 5,
+      "success_rate": 83.33333333333333
+    },
+    {
+      "suite": "libero_spatial",
+      "n_episodes": 6,
+      "n_success": 5,
+      "success_rate": 83.33333333333333
+    }
+  ],
+  "task_results": [
+    {
+      "suite": "libero_10",
+      "task_id": 0,
+      "n_episodes": 3,
+      "n_success": 1,
+      "success_rate": 33.333333333333336,
+      "ci95_low": 6.149194472039632,
+      "ci95_high": 79.23403991979524,
+      "avg_sum_reward": 0.3333333333333333,
+      "avg_max_reward": 0.3333333333333333
+    },
+    {
+      "suite": "libero_10",
+      "task_id": 1,
+      "n_episodes": 3,
+      "n_success": 1,
+      "success_rate": 33.333333333333336,
+      "ci95_low": 6.149194472039632,
+      "ci95_high": 79.23403991979524,
+      "avg_sum_reward": 0.3333333333333333,
+      "avg_max_reward": 0.3333333333333333
+    },
+    {
+      "suite": "libero_goal",
+      "task_id": 0,
+      "n_episodes": 3,
+      "n_success": 2,
+      "success_rate": 66.66666666666667,
+      "ci95_low": 20.76596008020478,
+      "ci95_high": 93.85080552796038,
+      "avg_sum_reward": 0.6666666666666666,
+      "avg_max_reward": 0.6666666666666666
+    },
+    {
+      "suite": "libero_goal",
+      "task_id": 1,
+      "n_episodes": 3,
+      "n_success": 3,
+      "success_rate": 100.0,
+      "ci95_low": 43.85029682449546,
+      "ci95_high": 100.0,
+      "avg_sum_reward": 1.0,
+      "avg_max_reward": 1.0
+    },
+    {
+      "suite": "libero_object",
+      "task_id": 0,
+      "n_episodes": 3,
+      "n_success": 2,
+      "success_rate": 66.66666666666667,
+      "ci95_low": 20.76596008020478,
+      "ci95_high": 93.85080552796038,
+      "avg_sum_reward": 0.6666666666666666,
+      "avg_max_reward": 0.6666666666666666
+    },
+    {
+      "suite": "libero_object",
+      "task_id": 1,
+      "n_episodes": 3,
+      "n_success": 3,
+      "success_rate": 100.0,
+      "ci95_low": 43.85029682449546,
+      "ci95_high": 100.0,
+      "avg_sum_reward": 1.0,
+      "avg_max_reward": 1.0
+    },
+    {
+      "suite": "libero_spatial",
+      "task_id": 0,
+      "n_episodes": 3,
+      "n_success": 3,
+      "success_rate": 100.0,
+      "ci95_low": 43.85029682449546,
+      "ci95_high": 100.0,
+      "avg_sum_reward": 1.0,
+      "avg_max_reward": 1.0
+    },
+    {
+      "suite": "libero_spatial",
+      "task_id": 1,
+      "n_episodes": 3,
+      "n_success": 2,
+      "success_rate": 66.66666666666667,
+      "ci95_low": 20.76596008020478,
+      "ci95_high": 93.85080552796038,
+      "avg_sum_reward": 0.6666666666666666,
+      "avg_max_reward": 0.6666666666666666
+    }
+  ]
+}

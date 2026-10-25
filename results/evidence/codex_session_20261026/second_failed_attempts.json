@@ -1,0 +1,17 @@
+[
+  {
+    "stage": "tdmpc2_lift-cube",
+    "exit_code": 1,
+    "duration_sec": 5.3
+  },
+  {
+    "stage": "tdmpc2_pick-cube",
+    "exit_code": 1,
+    "duration_sec": 5.64
+  },
+  {
+    "stage": "tdmpc2_stack-cube",
+    "exit_code": 1,
+    "duration_sec": 5.7
+  }
+]

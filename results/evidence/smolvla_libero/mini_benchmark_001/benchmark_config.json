@@ -1,0 +1,19 @@
+{
+  "benchmark_id": "mini_benchmark_001",
+  "model": "SmolVLA",
+  "checkpoint": "/root/autodl-tmp/embodied/models/smolvla_libero",
+  "benchmark": "LIBERO",
+  "suites": [
+    "libero_spatial",
+    "libero_object",
+    "libero_goal",
+    "libero_10"
+  ],
+  "task_ids": [0, 1],
+  "episodes_per_task": 3,
+  "total_planned_episodes": 24,
+  "batch_size": 1,
+  "seed": 42,
+  "control_mode": "relative",
+  "start_time": "2026-10-02T01:40:48+08:00"
+}

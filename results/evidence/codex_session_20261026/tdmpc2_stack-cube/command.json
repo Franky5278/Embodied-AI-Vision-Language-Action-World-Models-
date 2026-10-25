@@ -1,0 +1,17 @@
+{
+  "argv": [
+    "/root/autodl-tmp/embodied/envs/tdmpc2/bin/python",
+    "/root/autodl-tmp/embodied/scripts/codex_session_20261026/tdmpc2_eval.py",
+    "task=stack-cube",
+    "model_size=5",
+    "checkpoint=/root/autodl-tmp/embodied/models/tdmpc2/compat_20261026/stack-cube-1.pt",
+    "eval_episodes=3",
+    "save_video=true",
+    "seed=42",
+    "compile=false",
+    "mpc=true",
+    "enable_wandb=false",
+    "hydra.run.dir=/root/autodl-tmp/embodied/results/codex_session_20261026/tdmpc2_stack-cube"
+  ],
+  "cwd": "/root/autodl-tmp/embodied/repos/tdmpc2/tdmpc2"
+}

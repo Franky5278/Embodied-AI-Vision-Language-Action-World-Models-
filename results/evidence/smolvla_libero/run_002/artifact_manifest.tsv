@@ -1,0 +1,16 @@
+checkpoint_sha256.txt	132 bytes
+command.txt	432 bytes
+console.log	24768 bytes
+eval/eval_info.json	1503 bytes
+eval/videos/libero_spatial_0/eval_episode_0.mp4	53572 bytes
+frames/representative_frame.png	126579 bytes
+metadata.json	302 bytes
+metrics.csv	669 bytes
+metrics.json	1310 bytes
+model_config.json	2419 bytes
+result_summary.csv	192 bytes
+status.json	115 bytes
+summary.md	979 bytes
+system_info.txt	2181 bytes
+train_config.json	9631 bytes
+video_info.json	317 bytes

@@ -1,0 +1,10 @@
+{
+  "video": "results/smolvla_libero/run_002/eval/videos/libero_spatial_0/eval_episode_0.mp4",
+  "width": 360,
+  "height": 360,
+  "fps": 80.0,
+  "frames": 85,
+  "duration_seconds": 1.0625,
+  "representative_frame_index": 42,
+  "representative_frame": "results/smolvla_libero/run_002/frames/representative_frame.png"
+}

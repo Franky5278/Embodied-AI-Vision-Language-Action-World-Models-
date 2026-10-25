@@ -1,0 +1,7 @@
+[
+  {
+    "task": "stack-cube",
+    "action": "renamed legacy module keys, values unchanged",
+    "output": "/root/autodl-tmp/embodied/models/tdmpc2/compat_20261026/stack-cube-1.pt"
+  }
+]

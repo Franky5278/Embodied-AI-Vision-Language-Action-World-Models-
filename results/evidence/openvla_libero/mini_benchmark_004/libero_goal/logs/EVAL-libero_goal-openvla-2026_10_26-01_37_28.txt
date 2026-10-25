@@ -1,0 +1,47 @@
+Task suite: libero_goal
+
+Task: open the middle drawer of the cabinet
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_37_28--episode=1--success=True--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: True
+# episodes completed so far: 1
+# successes: 1 (100.0%)
+
+Task: open the middle drawer of the cabinet
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_37_28--episode=2--success=False--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 1 (50.0%)
+
+Task: open the middle drawer of the cabinet
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_37_28--episode=3--success=True--task=open_the_middle_drawer_of_the_cabinet.mp4
+Success: True
+# episodes completed so far: 3
+# successes: 2 (66.7%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.6666666666666666
+
+Task: put the bowl on the stove
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_37_28--episode=4--success=True--task=put_the_bowl_on_the_stove.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 3 (75.0%)
+
+Task: put the bowl on the stove
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_37_28--episode=5--success=True--task=put_the_bowl_on_the_stove.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 4 (80.0%)
+
+Task: put the bowl on the stove
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_37_28--episode=6--success=False--task=put_the_bowl_on_the_stove.mp4
+Success: False
+# episodes completed so far: 6
+# successes: 4 (66.7%)
+Current task success rate: 0.6666666666666666
+Current total success rate: 0.6666666666666666

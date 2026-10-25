@@ -1,0 +1,29 @@
+TD-MPC2 + ManiSkill2: READY_FOR_GPU
+
+Software:
+- Python env ready
+- TD-MPC2 imports passed
+- ManiSkill2 0.4.1.post0 ready
+- Torch/TorchRL stack ready
+
+Checkpoints:
+- 15 single-task checkpoints present
+- 5 tasks x 3 seeds
+- single-task model_size=5
+
+Assets:
+- LiftCube: ready
+- PickCube: ready
+- StackCube: ready
+- PickSingleYCB: YCB asset ready
+- TurnFaucet: fixed PartNet model 5050 prepared
+- 5050 metadata exists in ManiSkill2
+- mobility_cvx.urdf generated successfully with VHACD
+
+Known limitation before GPU:
+- Current NO-GPU AutoDL instance cannot initialize SAPIEN Vulkan renderer
+- Error: vk::PhysicalDevice::createDeviceUnique: ErrorExtensionNotPresent
+- Renderer smoke deferred to GPU session
+
+Portfolio benchmark modification:
+- TurnFaucet will use fixed model_id=5050 instead of full legacy 60-model distribution.

@@ -1,0 +1,6 @@
+model,benchmark,episodes,successes,source,runtime_sec,complete,evaluation_errors,success_rate_pct,wilson95_low,wilson95_high
+SmolVLA,LIBERO mini,24,17,Reused 2026-10-02 baseline,353,True,0,70.83333333333333,50.831936341290294,85.08553966583573
+VLA-JEPA,LIBERO mini,0,0,vla_jepa_libero\mini_benchmark_001,,False,0,,,
+OpenPI pi0.5,LIBERO mini,0,0,current session,0,False,0,,,
+TD-MPC2,ManiSkill2 mini,12,9,current session,25.698250882327557,False,0,75.0,46.768966087934004,91.10599603710386
+OpenVLA,LIBERO mini,24,16,current session,,True,0,66.66666666666667,46.70595949408046,82.02802131162036

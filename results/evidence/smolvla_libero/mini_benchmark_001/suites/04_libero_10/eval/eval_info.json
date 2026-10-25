@@ -1,0 +1,116 @@
+{
+  "per_task": [
+    {
+      "task_group": "libero_10",
+      "task_id": 0,
+      "metrics": {
+        "sum_rewards": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "max_rewards": [
+          0.0,
+          1.0,
+          0.0
+        ],
+        "successes": [
+          false,
+          true,
+          false
+        ],
+        "video_paths": [
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_0.mp4",
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_1.mp4",
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_2.mp4"
+        ],
+        "predicted_video_paths": []
+      },
+      "n_episodes": 3,
+      "n_success": 1,
+      "pc_success": 33.333333333333336,
+      "pc_success_ci95": [
+        6.149194472039632,
+        79.23403991979524
+      ]
+    },
+    {
+      "task_group": "libero_10",
+      "task_id": 1,
+      "metrics": {
+        "sum_rewards": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "max_rewards": [
+          0.0,
+          0.0,
+          1.0
+        ],
+        "successes": [
+          false,
+          false,
+          true
+        ],
+        "video_paths": [
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_0.mp4",
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_1.mp4",
+          "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_2.mp4"
+        ],
+        "predicted_video_paths": []
+      },
+      "n_episodes": 3,
+      "n_success": 1,
+      "pc_success": 33.333333333333336,
+      "pc_success_ci95": [
+        6.149194472039632,
+        79.23403991979524
+      ]
+    }
+  ],
+  "per_group": {
+    "libero_10": {
+      "avg_sum_reward": 0.3333333333333333,
+      "avg_max_reward": 0.3333333333333333,
+      "pc_success": 33.33333333333333,
+      "n_episodes": 6,
+      "n_success": 2,
+      "pc_success_ci95": [
+        9.677141110578047,
+        70.0006684861608
+      ],
+      "video_paths": [
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_0.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_1.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_2.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_0.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_1.mp4",
+        "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_2.mp4"
+      ],
+      "predicted_video_paths": []
+    }
+  },
+  "overall": {
+    "avg_sum_reward": 0.3333333333333333,
+    "avg_max_reward": 0.3333333333333333,
+    "pc_success": 33.33333333333333,
+    "n_episodes": 6,
+    "n_success": 2,
+    "pc_success_ci95": [
+      9.677141110578047,
+      70.0006684861608
+    ],
+    "eval_s": 89.1774046421051,
+    "eval_ep_s": 14.862900892893473,
+    "video_paths": [
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_0.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_1.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_0/eval_episode_2.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_0.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_1.mp4",
+      "/root/autodl-tmp/embodied/results/smolvla_libero/mini_benchmark_001/suites/04_libero_10/eval/videos/libero_10_1/eval_episode_2.mp4"
+    ],
+    "predicted_video_paths": []
+  }
+}

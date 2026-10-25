@@ -1,0 +1,62 @@
+[
+  {
+    "video": "eval/videos/libero_10_0/eval_episode_0.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 520,
+    "duration_seconds": 6.5,
+    "representative_frame": "frames/episode_000.png"
+  },
+  {
+    "video": "eval/videos/libero_10_0/eval_episode_1.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 263,
+    "duration_seconds": 3.2875,
+    "representative_frame": "frames/episode_001.png"
+  },
+  {
+    "video": "eval/videos/libero_10_0/eval_episode_2.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 520,
+    "duration_seconds": 6.5,
+    "representative_frame": "frames/episode_002.png"
+  },
+  {
+    "video": "eval/videos/libero_10_1/eval_episode_0.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 520,
+    "duration_seconds": 6.5,
+    "representative_frame": "frames/episode_003.png"
+  },
+  {
+    "video": "eval/videos/libero_10_1/eval_episode_1.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 520,
+    "duration_seconds": 6.5,
+    "representative_frame": "frames/episode_004.png"
+  },
+  {
+    "video": "eval/videos/libero_10_1/eval_episode_2.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 278,
+    "duration_seconds": 3.475,
+    "representative_frame": "frames/episode_005.png"
+  }
+]

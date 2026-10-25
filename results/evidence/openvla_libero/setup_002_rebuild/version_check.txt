@@ -1,0 +1,16 @@
+openvla            0.0.3
+torch              2.2.0+cu121
+torchvision        0.17.0+cu121
+torchaudio         2.2.0+cu121
+transformers       4.40.1
+tokenizers         0.19.1
+timm               0.9.10
+peft               0.11.1
+numpy              1.26.4
+flash-attn         2.5.5
+tensorflow         2.15.0
+wandb              0.16.6
+accelerate         1.15.0
+draccus            0.8.0
+dlimp              0.0.1
+libero             0.1.0

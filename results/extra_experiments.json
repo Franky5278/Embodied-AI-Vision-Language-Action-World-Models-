@@ -1,0 +1,14 @@
+[
+  {
+    "experiment": "openpi_brightness_07",
+    "episodes": 0,
+    "successes": 0,
+    "executed": false
+  },
+  {
+    "experiment": "tdmpc2_lift-cube_actor_only",
+    "episodes": 3,
+    "successes": 3,
+    "executed": true
+  }
+]

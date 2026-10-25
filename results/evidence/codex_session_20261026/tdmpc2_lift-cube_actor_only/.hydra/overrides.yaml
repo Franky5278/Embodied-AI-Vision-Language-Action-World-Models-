@@ -1,0 +1,9 @@
+- task=lift-cube
+- model_size=5
+- checkpoint=/root/autodl-tmp/embodied/models/tdmpc2/lift-cube-1.pt
+- eval_episodes=3
+- save_video=true
+- seed=42
+- compile=false
+- mpc=false
+- enable_wandb=false

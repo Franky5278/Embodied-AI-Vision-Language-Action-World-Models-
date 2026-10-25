@@ -1,0 +1,21 @@
+{
+  "argv": [
+    "/root/autodl-tmp/embodied/envs/openpi-libero-client/bin/python",
+    "/root/autodl-tmp/embodied/scripts/codex_session_20261026/openpi_eval.py",
+    "--host",
+    "127.0.0.1",
+    "--port",
+    "8123",
+    "--task-suite-name",
+    "libero_spatial",
+    "--num-trials-per-task",
+    "3",
+    "--seed",
+    "42",
+    "--brightness",
+    "0.7",
+    "--video-out-path",
+    "/root/autodl-tmp/embodied/results/codex_session_20261026/openpi_brightness_07/videos"
+  ],
+  "cwd": "/root/autodl-tmp/embodied"
+}

@@ -1,0 +1,4 @@
+ee2a881d035d503554ff5f230dcf3d750625dd95c3e351d5174149086e35dada  /root/autodl-tmp/embodied/scripts/vla_jepa/_run_eval.sh
+646cbaee6adb10d5a3b4362aa1e1a162e4584216bdd50a08e5517c033db5cad0  /root/autodl-tmp/embodied/scripts/vla_jepa/run_smoke.sh
+a9a11d32d8188f349ef19d4a9272c704c8d7a33cf4c529dda773bde87810f55e  /root/autodl-tmp/embodied/scripts/vla_jepa/run_mini_benchmark.sh
+2516af2f3f4d01e12b223e7295d21e3ac982f151ebe67d72161d13302ec7d8de  /root/autodl-tmp/embodied/scripts/vla_jepa/eval_libero_subset.py

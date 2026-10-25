@@ -1,0 +1,47 @@
+Task suite: libero_10
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_19_32--episode=1--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 1
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_19_32--episode=2--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 2
+# successes: 0 (0.0%)
+
+Task: put both the alphabet soup and the tomato sauce in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_19_32--episode=3--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4
+Success: False
+# episodes completed so far: 3
+# successes: 0 (0.0%)
+Current task success rate: 0.0
+Current total success rate: 0.0
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 1...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_19_32--episode=4--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 4
+# successes: 1 (25.0%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 2...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_19_32--episode=5--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 5
+# successes: 2 (40.0%)
+
+Task: put both the cream cheese box and the butter in the basket
+Starting episode 3...
+Saved rollout MP4 at path ./rollouts/2026_10_26/2026_10_26-01_19_32--episode=6--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4
+Success: True
+# episodes completed so far: 6
+# successes: 3 (50.0%)
+Current task success rate: 1.0
+Current total success rate: 0.5

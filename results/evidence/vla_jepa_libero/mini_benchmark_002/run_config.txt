@@ -1,0 +1,10 @@
+timestamp=2026-10-26T01:41:33+08:00
+hostname=autodl-container-6dda4b9e00-b7b3f470
+run_kind=mini_benchmark
+suites=libero_spatial libero_object libero_goal libero_10
+task_ids=0,1
+episodes=3
+seed=42
+checkpoint=/root/autodl-tmp/embodied/models/vla_jepa/VLA-JEPA-HF/LIBERO/checkpoints/VLA-JEPA-LIBERO.pt
+model_python=/root/autodl-tmp/embodied/envs/vla-jepa/bin/python
+sim_python=/root/autodl-tmp/embodied/envs/vla-jepa-sim/bin/python

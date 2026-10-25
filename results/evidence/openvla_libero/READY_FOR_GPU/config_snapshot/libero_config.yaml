@@ -1,0 +1,5 @@
+benchmark_root: /root/autodl-tmp/embodied/repos/libero-openvla/libero/libero
+bddl_files: /root/autodl-tmp/embodied/repos/libero-openvla/libero/libero/bddl_files
+init_states: /root/autodl-tmp/embodied/repos/libero-openvla/libero/libero/init_files
+datasets: /root/autodl-tmp/embodied/repos/libero-openvla/libero/datasets
+assets: /root/autodl-tmp/embodied/repos/libero-openvla/libero/libero/assets

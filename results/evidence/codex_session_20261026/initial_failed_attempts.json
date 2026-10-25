@@ -1,0 +1,32 @@
+[
+  {
+    "stage": "tdmpc2_lift-cube",
+    "exit_code": 1,
+    "duration_sec": 5.55
+  },
+  {
+    "stage": "tdmpc2_pick-cube",
+    "exit_code": 1,
+    "duration_sec": 4.83
+  },
+  {
+    "stage": "tdmpc2_stack-cube",
+    "exit_code": 1,
+    "duration_sec": 4.63
+  },
+  {
+    "stage": "tdmpc2_pick-ycb",
+    "exit_code": 1,
+    "duration_sec": 4.38
+  },
+  {
+    "stage": "tdmpc2_turn-faucet",
+    "exit_code": 1,
+    "duration_sec": 4.63
+  },
+  {
+    "stage": "openvla",
+    "exit_code": 2,
+    "duration_sec": 0.02
+  }
+]

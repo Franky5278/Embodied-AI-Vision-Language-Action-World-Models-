@@ -1,0 +1,21 @@
+{
+  "seed": 42,
+  "vla_suites": [
+    "libero_spatial",
+    "libero_object",
+    "libero_goal",
+    "libero_10"
+  ],
+  "tasks": [
+    0,
+    1
+  ],
+  "episodes_per_task": 3,
+  "smolvla": "Reuse mini_benchmark_001: verified 24 episodes, 17 successes, 353s. No rerun.",
+  "budget_hours": 4,
+  "extra_experiments": [
+    "OpenPI brightness 0.7 on spatial tasks 0/1",
+    "TD-MPC2 actor-only on lift-cube"
+  ],
+  "training": false
+}

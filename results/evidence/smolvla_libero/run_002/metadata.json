@@ -1,0 +1,13 @@
+{
+  "run_id": "run_002",
+  "model": "SmolVLA",
+  "checkpoint": "/root/autodl-tmp/embodied/models/smolvla_libero",
+  "benchmark": "LIBERO",
+  "suite": "libero_spatial",
+  "task_id": 0,
+  "episodes": 1,
+  "batch_size": 1,
+  "seed": 42,
+  "start_time": "2026-10-02T01:15:24+08:00",
+  "mujoco_gl": "egl"
+}

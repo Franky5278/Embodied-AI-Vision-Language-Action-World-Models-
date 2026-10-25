@@ -1,0 +1,67 @@
+[
+  {
+    "model": "SmolVLA",
+    "benchmark": "LIBERO mini",
+    "episodes": 24,
+    "successes": 17,
+    "source": "Reused 2026-10-02 baseline",
+    "runtime_sec": 353,
+    "complete": true,
+    "evaluation_errors": 0,
+    "success_rate_pct": 70.83333333333333,
+    "wilson95_low": 50.831936341290294,
+    "wilson95_high": 85.08553966583573
+  },
+  {
+    "model": "VLA-JEPA",
+    "benchmark": "LIBERO mini",
+    "episodes": 0,
+    "successes": 0,
+    "source": "vla_jepa_libero\\mini_benchmark_001",
+    "runtime_sec": null,
+    "complete": false,
+    "evaluation_errors": 0,
+    "success_rate_pct": null,
+    "wilson95_low": null,
+    "wilson95_high": null
+  },
+  {
+    "model": "OpenPI pi0.5",
+    "benchmark": "LIBERO mini",
+    "episodes": 0,
+    "successes": 0,
+    "source": "current session",
+    "runtime_sec": 0,
+    "complete": false,
+    "evaluation_errors": 0,
+    "success_rate_pct": null,
+    "wilson95_low": null,
+    "wilson95_high": null
+  },
+  {
+    "model": "TD-MPC2",
+    "benchmark": "ManiSkill2 mini",
+    "episodes": 12,
+    "successes": 9,
+    "source": "current session",
+    "runtime_sec": 25.698250882327557,
+    "complete": false,
+    "evaluation_errors": 0,
+    "success_rate_pct": 75.0,
+    "wilson95_low": 46.768966087934004,
+    "wilson95_high": 91.10599603710386
+  },
+  {
+    "model": "OpenVLA",
+    "benchmark": "LIBERO mini",
+    "episodes": 24,
+    "successes": 16,
+    "source": "current session",
+    "runtime_sec": null,
+    "complete": true,
+    "evaluation_errors": 0,
+    "success_rate_pct": 66.66666666666667,
+    "wilson95_low": 46.70595949408046,
+    "wilson95_high": 82.02802131162036
+  }
+]

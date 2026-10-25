@@ -1,0 +1,1 @@
+9a9f6413e42c0f332fccbce9a0dc796af2790f82cf002f791cdbf7e01e1afca8  /root/autodl-tmp/embodied/models/smolvla_libero/model.safetensors

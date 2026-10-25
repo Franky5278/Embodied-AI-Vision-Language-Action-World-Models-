@@ -1,0 +1,22 @@
+[
+  {
+    "stage": "tdmpc2_pick-cube",
+    "exit_code": 0,
+    "duration_sec": 11.16
+  },
+  {
+    "stage": "tdmpc2_stack-cube",
+    "exit_code": 1,
+    "duration_sec": 6.6
+  },
+  {
+    "stage": "tdmpc2_pick-ycb",
+    "exit_code": 1,
+    "duration_sec": 4.69
+  },
+  {
+    "stage": "tdmpc2_turn-faucet",
+    "exit_code": 1,
+    "duration_sec": 5.93
+  }
+]

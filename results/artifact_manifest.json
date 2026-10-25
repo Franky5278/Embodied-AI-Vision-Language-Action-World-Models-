@@ -1,0 +1,3007 @@
+[
+  {
+    "path": "configs\\openvla_libero\\config.yaml",
+    "bytes": 395,
+    "sha256": "b0a92fcdc937dca4055034c69fd33872c7dbde74f2ca5d1dbd9b20d588ae4b62"
+  },
+  {
+    "path": "results\\codex_session_20261026\\gpu.csv",
+    "bytes": 13154,
+    "sha256": "c5710e6aac38eecfc6c2af9dab5da576268e877e59e67889ab84dbba9f678fef"
+  },
+  {
+    "path": "results\\codex_session_20261026\\GPU_FINISHED",
+    "bytes": 24,
+    "sha256": "b4865aeb92a155c31bb71ffd58f9b1ed28127e8cc18b7feca83829fd57b60e64"
+  },
+  {
+    "path": "results\\codex_session_20261026\\hardware.txt",
+    "bytes": 1689,
+    "sha256": "6a73cef85cf13fa6e1ce9757c1ba0c812ffe3274dd2c2b31a5b1f7beac87f1f5"
+  },
+  {
+    "path": "results\\codex_session_20261026\\initial_failed_attempts.json",
+    "bytes": 517,
+    "sha256": "657c7e81a247cdf01159f6baf1b5755c2ce2c0e20c31351492b92b4a8e8e80cf"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\command.json",
+    "bytes": 518,
+    "sha256": "02c1dd1cbeb83aa5fc25101cd28d6536c0c12d497550d0d23e65c4a45fea6355"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\console.log",
+    "bytes": 5961,
+    "sha256": "e6243022873eef8fb86594ecc51b375062da9fdf1af34c4758803bdb8fdd6843"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_brightness_07\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\command.json",
+    "bytes": 478,
+    "sha256": "69d277c8316a8e8e91a1218a2b37a86bb7b4adba9e45eda531d63b8ca589bb73"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\console.log",
+    "bytes": 5384,
+    "sha256": "d0a6e0a9546f9ef91d604826d4d4a298f6878e41fe3d48d3f61516d6dbfc3994"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_10\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\command.json",
+    "bytes": 482,
+    "sha256": "db860d2baed2ec33fab055c275100815760b09087b7f29b4d1b07fe2c167f271"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\console.log",
+    "bytes": 5384,
+    "sha256": "01bcada55fba5936665fd6ab7beab1f916c69f6a603bf40d5319ff1a3f6a9db3"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_goal\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\command.json",
+    "bytes": 486,
+    "sha256": "ffde715088629a1dbaf07643f9241256ce7d5e15a7b73043d6b9176053cbf0d8"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\console.log",
+    "bytes": 5469,
+    "sha256": "6897dbdd4bd899db064be0e6aedd5807438f5bcccd2dbc9b970f8d96beddfbeb"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_object\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\command.json",
+    "bytes": 488,
+    "sha256": "4f9cb7ac84761615dc0c39d81a69666867233dc1dd5bc0c2b37cca26e8b6f335"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\console.log",
+    "bytes": 5469,
+    "sha256": "27a7ad48366bb2dbc0dfb47d2d82d656a2819c74b785b33614d695901367b26b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_libero_spatial\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "d4735e3a265e16eee03f59718b9b5d03019c07d8b6c51f90da3a666eec13ab35"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openpi_server.log",
+    "bytes": 4087,
+    "sha256": "17f1a996e6e108b458cd593c8381d3807d6e4f487ce18d181965e8c6c2ad228f"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openvla\\command.json",
+    "bytes": 143,
+    "sha256": "27ec6f5aede7ca59d94cebf880c13cbcec45b368917e9069d1f6cf71910ac41d"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openvla\\console.log",
+    "bytes": 55297,
+    "sha256": "3f4f9c16673fb9289515c0417ba3253229f9e59e8e8233c52a2324e3e3eada29"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openvla\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openvla_repair.log",
+    "bytes": 25380,
+    "sha256": "42dbb6ef0c9bc92ce105b12a92ea9041315a0a786075622e8501f036dbf25171"
+  },
+  {
+    "path": "results\\codex_session_20261026\\openvla_repair_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\codex_session_20261026\\protocol.json",
+    "bytes": 428,
+    "sha256": "6dcda392354253c0f6ff48786aec3d15cc603d7b9e6cca363ecaf8fa7ce937bb"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\lerobot_commit.txt",
+    "bytes": 143,
+    "sha256": "5ee7d718022390d22f0928f7434c991c6fcab100a0404f13d2d2b789d307654b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\libero-openvla_commit.txt",
+    "bytes": 41,
+    "sha256": "d2b7a675623182da9015dd7599febb166abdd248290cb5823302c1fae14b138b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\openpi-server_pip_freeze.txt",
+    "bytes": 3996,
+    "sha256": "718442fbcbe6335804bc3d8f6d6f8a24c21e516ec12bab5e934abd469f1f0f5b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\openpi_commit.txt",
+    "bytes": 143,
+    "sha256": "5ee7d718022390d22f0928f7434c991c6fcab100a0404f13d2d2b789d307654b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\openvla_commit.txt",
+    "bytes": 143,
+    "sha256": "5ee7d718022390d22f0928f7434c991c6fcab100a0404f13d2d2b789d307654b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\openvla_pip_freeze.txt",
+    "bytes": 3537,
+    "sha256": "9d058b2d0bff3141ad9f92ffdee0ba4a8194e5307a370b667a2fe330bc8faac1"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\tdmpc2_commit.txt",
+    "bytes": 143,
+    "sha256": "5ee7d718022390d22f0928f7434c991c6fcab100a0404f13d2d2b789d307654b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\tdmpc2_pip_freeze.txt",
+    "bytes": 1882,
+    "sha256": "6db222803b93150719f0d67058afd95bdcf978c6bae461ad3cc2c0a5da756a82"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\vla-jepa-sim_pip_freeze.txt",
+    "bytes": 3603,
+    "sha256": "25c7b1fbc6cc767f76f603eb676ad4a207482e1cd027e5cac9b4ed1a11a26568"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\VLA-JEPA_commit.txt",
+    "bytes": 143,
+    "sha256": "5ee7d718022390d22f0928f7434c991c6fcab100a0404f13d2d2b789d307654b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\provenance\\vla-jepa_pip_freeze.txt",
+    "bytes": 3205,
+    "sha256": "bd91acbfedd0eb91d4a5fe4b79a003bb6e09d87a51b9126db54e24b7eeff7e6e"
+  },
+  {
+    "path": "results\\codex_session_20261026\\runner.log",
+    "bytes": 2416,
+    "sha256": "64d1e89cc923e717fbe8aac45b5e1d52a0206b70852491a2bff269206252064a"
+  },
+  {
+    "path": "results\\codex_session_20261026\\second_failed_attempts.json",
+    "bytes": 262,
+    "sha256": "af3008b4f02e738397cbdc3a4257ad982a6e6cf364e7de7faf502f62c1fbb18e"
+  },
+  {
+    "path": "results\\codex_session_20261026\\status.json",
+    "bytes": 974,
+    "sha256": "d88305bc96d3d8088ddf145101871612fda83aff062b8887d29e6fb89c7a8e6c"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\.hydra\\config.yaml",
+    "bytes": 1122,
+    "sha256": "cc40c493562091b8460173bea0f7e476d2bf1b678c2a6fcd3b3f0428429753c0"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\.hydra\\hydra.yaml",
+    "bytes": 4084,
+    "sha256": "db64f6941096ca09d83cfb7f8cac7182b6d77a3562e71dc72ff85e3c24291579"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\.hydra\\overrides.yaml",
+    "bytes": 194,
+    "sha256": "1b5b9d695ba4bfeb14b218eea12e435cf11c2a363708d93aca1acb2efa42a396"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\command.json",
+    "bytes": 545,
+    "sha256": "bcea411b05bbf6512653565806c055239fd0977b103328222a3bb204b3243625"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\console.log",
+    "bytes": 2440,
+    "sha256": "eadc5c79c3c228d9a7d4a33a415bb870a5913a6eb5684e208315b0b630fd85a8"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\episodes.jsonl",
+    "bytes": 1096,
+    "sha256": "00284d9aaf910225c5b4ea256117d888d226f8c6685f689e02ff3ba7107d4997"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\tdmpc2_eval.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\videos\\lift-cube-0.mp4",
+    "bytes": 26587,
+    "sha256": "b6172b58bde7e4e6f5548a11803ef1f6d9b88fe0ee606c5f61b7a30835cb5caf"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\videos\\lift-cube-1.mp4",
+    "bytes": 27990,
+    "sha256": "c081691c3c4ecbc1bf9c362558f0564371a662a0551da101b57a2f36908c292b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube\\videos\\lift-cube-2.mp4",
+    "bytes": 47929,
+    "sha256": "255e31cf7b9a4c1fceda496c66444c475f9958f0fde32dc366b0e6b8995d468f"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\.hydra\\config.yaml",
+    "bytes": 1123,
+    "sha256": "77e81a681546e64f128e341f7266463bbc02780d64e8a02b7051e2a4253fcd50"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\.hydra\\hydra.yaml",
+    "bytes": 4119,
+    "sha256": "a6ea037e331378199a88b211065a1590df2dabd1cd5c7c042a28ed7406aecb0b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\.hydra\\overrides.yaml",
+    "bytes": 195,
+    "sha256": "6e80924d4f52fab20bf99179c876ebdb37b092dcc11f0503e145523bd440aefe"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\command.json",
+    "bytes": 557,
+    "sha256": "26a31ba4da0e1fa4837f2c8c70d89424a8b282b22be7e13c427eded16af161b0"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\console.log",
+    "bytes": 213,
+    "sha256": "db271124dfd2fc17aabc9852bc6446e3a5f5ff12491cf6ae03d05d3539aba7d8"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\episodes.jsonl",
+    "bytes": 1068,
+    "sha256": "abe34890ce0f4a8c3b2d01848b1aac0dd80ff2fe6252d692dd1ad45066f2ba72"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\tdmpc2_eval.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\videos\\lift-cube-0.mp4",
+    "bytes": 27213,
+    "sha256": "b01dd1f5dcdec2152d53ef7143c55ab4cfe12f18042cb64da62ca1c0b18e1e8e"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\videos\\lift-cube-1.mp4",
+    "bytes": 26757,
+    "sha256": "b8dc14ec75ce58c31da59648d384e5fc77d760c351131c716c4c5e993c5785c6"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_lift-cube_actor_only\\videos\\lift-cube-2.mp4",
+    "bytes": 35780,
+    "sha256": "befcad397077f52c72b2b0653b8fe500032b44a8dc01cb6deca1f6dc9a9d9ac8"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\.hydra\\config.yaml",
+    "bytes": 1122,
+    "sha256": "06ddacdae1869b63383f9f633be713a72ff877f3d051a540134f911e4d16eddf"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\.hydra\\hydra.yaml",
+    "bytes": 4084,
+    "sha256": "1fe5d1b61e984586fa3cd16c59519e905f9d3a1e0e43a28d5ca81be5c97d55bd"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\.hydra\\overrides.yaml",
+    "bytes": 194,
+    "sha256": "f2b4ff50dcf0556ce60910edc97f35cb900dbbffa564a0cfece5d62248c4fccb"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\command.json",
+    "bytes": 545,
+    "sha256": "965317771b9b8ef2b34a62505a56e7f9f54128394074a542fdc9fd6ba6caf0f4"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\console.log",
+    "bytes": 2653,
+    "sha256": "619079228635bcca465f88fc29a88dc8a9b6b0d31ced311fce14b393f157a6ee"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\episodes.jsonl",
+    "bytes": 1261,
+    "sha256": "4955abcf07291b5a02a795db3c05d2ddcebe847344b0707a19c0bb3b840c7f88"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\tdmpc2_eval.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\videos\\pick-cube-0.mp4",
+    "bytes": 35376,
+    "sha256": "f36f28ad292402a5c2875261d5efb5e6ad80dbfe690655d83dcb2c448e4a57ad"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\videos\\pick-cube-1.mp4",
+    "bytes": 39971,
+    "sha256": "e3f70c7c3addab27482002aa2732560e7b94ff0956963c5c7b8c527e4bcdd9b9"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-cube\\videos\\pick-cube-2.mp4",
+    "bytes": 41077,
+    "sha256": "8c062f96e9fe6dc992737db078c177c885e47ee44eadb59e0e96a5dbbffcac52"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\.hydra\\config.yaml",
+    "bytes": 1120,
+    "sha256": "6828864e4e9790ecbe3e2f5b2dddc21f35635e1dc46e9d0985cbdc96740d6ae6"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\.hydra\\hydra.yaml",
+    "bytes": 4077,
+    "sha256": "45fbd5b710f42efa06c22794078f4ab30b9dc8fa399de9036725997217a539c8"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\.hydra\\overrides.yaml",
+    "bytes": 192,
+    "sha256": "c73669d54e6b6a2f49da8fac636f15e75b29ce56753462213afd6574caa30c9e"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\command.json",
+    "bytes": 542,
+    "sha256": "8d7d646aacd4598b1206a42ea3a19fed40bc6e61fdb3971ed85d2517189b84d6"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\console.log",
+    "bytes": 5825,
+    "sha256": "471a8caa4ab33d0787c09d70421977834bafd56c4428b47c951775ac75ad4e3a"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\episodes.jsonl",
+    "bytes": 1420,
+    "sha256": "c8f3c4bb3126661d931aad4e534b926f3f0ff7f43d481c72b8c593eadb0f17d0"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\tdmpc2_eval.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\videos\\pick-ycb-0.mp4",
+    "bytes": 50238,
+    "sha256": "e0ae65b890c5bce51e6348d184091e0ab06a6c1950bb70d2977311555b35f7cb"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\videos\\pick-ycb-1.mp4",
+    "bytes": 61781,
+    "sha256": "3d4097ad8e9f07ac87bb1b502517eb20f4650f45359ae4a84ad9599b787e0fd4"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_pick-ycb\\videos\\pick-ycb-2.mp4",
+    "bytes": 32078,
+    "sha256": "19dae2e86b4c68e1b8f25ee515c2e98dfb063bf8d92afc43c883ebdc959a13e1"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\.hydra\\config.yaml",
+    "bytes": 1140,
+    "sha256": "55716ec64f2f4c84260907346e064c119db8ba6277ca3db843b710d4c5a9a853"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\.hydra\\hydra.yaml",
+    "bytes": 4123,
+    "sha256": "2b4751c5a128e0dc8c6c73aff6a7a970b98e37f68cc911d2aa1c344de5595664"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\.hydra\\overrides.yaml",
+    "bytes": 212,
+    "sha256": "46581b388278ca9dec07a71a6bf77424ea779e3ceaddc1283e27f00ec3c11dcd"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\command.json",
+    "bytes": 564,
+    "sha256": "46cf6636e52b314d91e18622d4e0ff460023122f7db0be26b088d73c77580dcf"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\console.log",
+    "bytes": 5711,
+    "sha256": "e6851536e9dde56cbea3d5eeb0bb042ecb51341a49daeb0a2ccb0f0cf158d16c"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\episodes.jsonl",
+    "bytes": 7098,
+    "sha256": "51011f9f9eac1ab23cf91a6cdd9cc32b41fd49a23eece3473fda34cbc95f892b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\tdmpc2_eval.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\videos\\stack-cube-0.mp4",
+    "bytes": 329865,
+    "sha256": "59e2b1fe108e501a9709f421259384727583ce335b06976021c894ba0fa4ad02"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\videos\\stack-cube-1.mp4",
+    "bytes": 272201,
+    "sha256": "8355d69946e7e65b18daf22732ed611b41650167093d536fe0dc2c69add20316"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_stack-cube\\videos\\stack-cube-2.mp4",
+    "bytes": 318255,
+    "sha256": "1108f6ad8d06c17070ee2c6e5a4e5dac33a27be797403754ff5f12cd451735b9"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_turn-faucet\\.hydra\\config.yaml",
+    "bytes": 1126,
+    "sha256": "f06712be1f326bf3823f4c0cdd0d6bad2a016344f26162c997c947d8608746df"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_turn-faucet\\.hydra\\hydra.yaml",
+    "bytes": 4098,
+    "sha256": "7bb94ff9213a1ad47c0e21f8ffbcc37df9f471d85b104b276b30d6ac007cbeec"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_turn-faucet\\.hydra\\overrides.yaml",
+    "bytes": 198,
+    "sha256": "a4d255d789579a44b3036ca488e1ec8f40de84a8f8fa5b2a7a667af1130e0015"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_turn-faucet\\command.json",
+    "bytes": 551,
+    "sha256": "0ba3b5224d982104b0eeab333a7f7a8ba79e86de2e6229cffbd67a6a63d7550d"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_turn-faucet\\console.log",
+    "bytes": 3444,
+    "sha256": "421233e61fee440ddc82ff0d0ddebfd8762a89d93d95cb377e1149b1cbebf596"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_turn-faucet\\exit_code.txt",
+    "bytes": 1,
+    "sha256": "6b86b273ff34fce19d6b804eff5a3f5747ada4eaa22f1d49c01e52ddb7875b4b"
+  },
+  {
+    "path": "results\\codex_session_20261026\\tdmpc2_turn-faucet\\tdmpc2_eval.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\codex_session_20261026\\third_failed_attempts.json",
+    "bytes": 352,
+    "sha256": "af5530f1b589f76d3d1109bcd80ec5faf607024c955d17920b98486838560c2c"
+  },
+  {
+    "path": "results\\codex_session_20261026\\vla_jepa\\command.json",
+    "bytes": 144,
+    "sha256": "0b5b78280fe7961833677a269b05c0b31d6c96ace445e5b762b63ee4da01a630"
+  },
+  {
+    "path": "results\\codex_session_20261026\\vla_jepa\\console.log",
+    "bytes": 2954,
+    "sha256": "2de01576ec3b493c7aeb26e37b79ef4de01b0a963350c2b29bead1b0fa5a9111"
+  },
+  {
+    "path": "results\\codex_session_20261026\\vla_jepa\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5"
+  },
+  {
+    "path": "results\\codex_session_20261026\\watchdog.log",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\final_preflight_nogpu_001\\preflight.log",
+    "bytes": 11249,
+    "sha256": "a7aaf110159dba7807a15fe698987ad801306a5c140ddbf60e876b8c81e4c7b3"
+  },
+  {
+    "path": "results\\FINAL_READY_FOR_MIGRATION\\openvla_final_pip_freeze.txt",
+    "bytes": 3538,
+    "sha256": "89b155883d257a1eb4df79821b378b87e4ff52f61261f4464324226ff2963d52"
+  },
+  {
+    "path": "results\\FINAL_READY_FOR_MIGRATION\\status.txt",
+    "bytes": 347,
+    "sha256": "3567c5d7a30fb2527783b9e31c2fdd5cfeda95f1f57072f1ee73b0fc597c32bc"
+  },
+  {
+    "path": "results\\migration_gap_audit_001\\audit.log",
+    "bytes": 95837,
+    "sha256": "ae01a4ea5f72b94051d4e94e9cd2a0566c721a9ba1ea2756d5e2ac28dc392a19"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\openpi-libero-client_pip_freeze.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\openpi-libero-client_python.txt",
+    "bytes": 14,
+    "sha256": "c84930cd38ee1503d284f4b12b1290e04abf8e37ba8d2904d1a7481bd2fafec8"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\openpi-server_pip_freeze.txt",
+    "bytes": 3996,
+    "sha256": "718442fbcbe6335804bc3d8f6d6f8a24c21e516ec12bab5e934abd469f1f0f5b"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\openpi-server_python.txt",
+    "bytes": 15,
+    "sha256": "686560bcd94a5a3fe8187b7c4fc49beaff41c87eccb79908cd3da863ec30e52e"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\smolvla-libero_pip_freeze.txt",
+    "bytes": 3263,
+    "sha256": "aa5b1956c6bd1a2d002c8c79d0a54d6e382239acb14cdbb0e07ddc3183ecf108"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\smolvla-libero_python.txt",
+    "bytes": 15,
+    "sha256": "4c3569f5da09975434dd9fd9a91fadbc4367a91d8f3c3fab59e9241ab9ee4bd8"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\tdmpc2_pip_freeze.txt",
+    "bytes": 1882,
+    "sha256": "6db222803b93150719f0d67058afd95bdcf978c6bae461ad3cc2c0a5da756a82"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\tdmpc2_python.txt",
+    "bytes": 15,
+    "sha256": "ecccd6f14c1331e1400467a35f90f45097cb5c1a8635942d2b9b96b849cb63fb"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\vla-jepa-sim_pip_freeze.txt",
+    "bytes": 3603,
+    "sha256": "25c7b1fbc6cc767f76f603eb676ad4a207482e1cd027e5cac9b4ed1a11a26568"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\vla-jepa-sim_python.txt",
+    "bytes": 15,
+    "sha256": "4c3569f5da09975434dd9fd9a91fadbc4367a91d8f3c3fab59e9241ab9ee4bd8"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\vla-jepa_pip_freeze.txt",
+    "bytes": 3205,
+    "sha256": "bd91acbfedd0eb91d4a5fe4b79a003bb6e09d87a51b9126db54e24b7eeff7e6e"
+  },
+  {
+    "path": "results\\migration_ready_001\\env_freezes\\vla-jepa_python.txt",
+    "bytes": 15,
+    "sha256": "ecccd6f14c1331e1400467a35f90f45097cb5c1a8635942d2b9b96b849cb63fb"
+  },
+  {
+    "path": "results\\migration_ready_001\\migration_manifest.txt",
+    "bytes": 2327,
+    "sha256": "74e04cc242c00282e385165881f577cb7a677bf86c2427fc4a53c736494c1ba7"
+  },
+  {
+    "path": "results\\migration_ready_001\\model_file_manifest.tsv",
+    "bytes": 27826,
+    "sha256": "8aaaeae99685af03034ba77e951893331c448d752d21a7507cc739071313f7bc"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\initial_inspection.log",
+    "bytes": 52102,
+    "sha256": "01280d2303ebb96e9f518d89ea2cbe5d50260e610d414e3712cc03763e05dd01"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_client_conda_001.log",
+    "bytes": 3892,
+    "sha256": "5b934e927b5f3df437b0d8fbc8227472e96b8f1e25167662a8a421a1906853cf"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_client_conda_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_gitmeta_clone_001.log",
+    "bytes": 56,
+    "sha256": "38672b5d75521ac4e7b4128b668f820f88c7236ec24343a163f3103089e0063c"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_libero_direct_clone_001.log",
+    "bytes": 3000,
+    "sha256": "09f55ddeafe7c4d1878e59d5a73fdcc638d4541edc8f4d5bdca035626059cc7d"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_libero_direct_clone_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_libero_submodule_001.log",
+    "bytes": 143,
+    "sha256": "5ee7d718022390d22f0928f7434c991c6fcab100a0404f13d2d2b789d307654b"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_libero_submodule_001_exit_code.txt",
+    "bytes": 4,
+    "sha256": "56292515f7d3a7110811eb8de26b3f75f82a0766aa5a1fd66ebcfcb84fe6d5ff"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_conda_python311_001.log",
+    "bytes": 4127,
+    "sha256": "1411c950a8620c8894a69d29fd98448cebf8d2877b43cf4f3ff24538926f1647"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_conda_python311_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_split_smoke_001.log",
+    "bytes": 311,
+    "sha256": "5086282fd17da43c453ce859351a430e465f9ec01accd55b47e173aeaa6f5ddf"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_split_smoke_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_sync_001.log",
+    "bytes": 3626,
+    "sha256": "dffba23e6f16848d7661c37614d0368d5eb624a95a824eca2749d31ba56a864a"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_sync_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_sync_002.log",
+    "bytes": 2161,
+    "sha256": "fe034166768f5fb1aa6b8ac33cf6ab99d6e5c01daa2d1420ac6405f05fab25da"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_sync_002_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_sync_003.log",
+    "bytes": 8286,
+    "sha256": "32049602a6d85f97230b37f43d7ec9eb4a1ab619a3418d4bc78e2cd5cbddafb8"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_server_sync_003_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\openpi_uv_python_download_attempt_001.txt",
+    "bytes": 115,
+    "sha256": "938d167cad87be2f123c84e3b3ac442faeab0917e080ddc62adde985308a7440"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\submodules_001.log",
+    "bytes": 143,
+    "sha256": "5ee7d718022390d22f0928f7434c991c6fcab100a0404f13d2d2b789d307654b"
+  },
+  {
+    "path": "results\\openpi_libero\\setup_001\\submodules_001_exit_code.txt",
+    "bytes": 4,
+    "sha256": "56292515f7d3a7110811eb8de26b3f75f82a0766aa5a1fd66ebcfcb84fe6d5ff"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\libero_10\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\libero_10\\stdout.log",
+    "bytes": 5706,
+    "sha256": "abfdf22a3dec425d429298be87cfca82b7a6f2f91f7cf14ebb3416d749f10811"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\libero_goal\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\libero_goal\\stdout.log",
+    "bytes": 5706,
+    "sha256": "fbd41845fc3804331df08ccb943f0370d3258edb941068cb362c6f423e824d41"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\libero_object\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\libero_object\\stdout.log",
+    "bytes": 5706,
+    "sha256": "29a3bc401e1e3fb46724f6727ee45809dcd37c1cd1648579b1a418f8af197610"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\libero_spatial\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\libero_spatial\\stdout.log",
+    "bytes": 6119,
+    "sha256": "18459018dd31a663f48b7430a893a9c1aa5ba9e081582aae133f5808e53ea067"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_002\\overall_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\logs\\EVAL-libero_10-openvla-2026_10_26-01_19_32.txt",
+    "bytes": 2020,
+    "sha256": "c88d77b99ba3a0d78243af7e0ee007d6a90de81512ad8c0aeb8767e86decb4e1"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\rollouts\\2026_10_26\\2026_10_26-01_19_32--episode=1--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4",
+    "bytes": 153043,
+    "sha256": "4cdf86aa7b3d3aaa657da1a018d4581cdec3d8c25ddf28bd06e94383c2cc2799"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\rollouts\\2026_10_26\\2026_10_26-01_19_32--episode=2--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4",
+    "bytes": 171947,
+    "sha256": "e8605652843fbaf2549f67b2190bfdd0f372892b9639e8a14b8647b27939f228"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\rollouts\\2026_10_26\\2026_10_26-01_19_32--episode=3--success=False--task=put_both_the_alphabet_soup_and_the_tomato_sauce_in.mp4",
+    "bytes": 116283,
+    "sha256": "9e1ed4f0f6e433685022cfd7245cf0875fb902fcc37d524ad438200bf9e970c8"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\rollouts\\2026_10_26\\2026_10_26-01_19_32--episode=4--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4",
+    "bytes": 100954,
+    "sha256": "074d6c0eaeccc2c7f51e5db80379f406e576bcc545879fecb2cdf9d8ed783e1c"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\rollouts\\2026_10_26\\2026_10_26-01_19_32--episode=5--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4",
+    "bytes": 129682,
+    "sha256": "9a6d1aa0891b8ddfab27a7c9f5a4f1c6356e9a5c76f1e1b87832b87801dc29c7"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\rollouts\\2026_10_26\\2026_10_26-01_19_32--episode=6--success=True--task=put_both_the_cream_cheese_box_and_the_butter_in_th.mp4",
+    "bytes": 102384,
+    "sha256": "cb32bdfaabedbc7f9eda77b3335308a63451816f48b8d665c0bdf6384f82ca30"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_10\\stdout.log",
+    "bytes": 8097,
+    "sha256": "926d5b1c117456b0addbb933aaedd3b72b93753d1dcbf9f4256a019377ee8ca8"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_goal\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_goal\\logs\\EVAL-libero_goal-openvla-2026_10_26-01_19_05.txt",
+    "bytes": 24,
+    "sha256": "622e658a8d4fd1402356193418d6b508f59631bbdf6f02bd1f2443e927882ae4"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_goal\\stdout.log",
+    "bytes": 6988,
+    "sha256": "d65706fa6afeb538eb22864df23163fd9ea36681944458bc75b05b5f6154b188"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_object\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_object\\logs\\EVAL-libero_object-openvla-2026_10_26-01_18_36.txt",
+    "bytes": 26,
+    "sha256": "440babea584c793a0ad188263d363ff9f4fe025433e4a6e29e05de4a42f294c7"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_object\\stdout.log",
+    "bytes": 6988,
+    "sha256": "18d2d48f508ff34d5714563c8fd173d1003f2e79268067514d9b242460c8a10b"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_spatial\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_spatial\\logs\\EVAL-libero_spatial-openvla-2026_10_26-01_18_07.txt",
+    "bytes": 27,
+    "sha256": "1aa1b8dd3553ec2e3e3ca6194b4d2a890631f94ac9d3eb149e402e9d043ca7f2"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\libero_spatial\\stdout.log",
+    "bytes": 6997,
+    "sha256": "5d3fc32ae2ecb3bbe592bbb51e610750bdf5859f61cc65bcfc84d184ecfcdc23"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_003\\overall_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\logs\\EVAL-libero_goal-openvla-2026_10_26-01_37_28.txt",
+    "bytes": 1799,
+    "sha256": "6679d469c03599595bc1675a0ee88a8e69c76e43796445e8f75aac7e4cfde2c0"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\rollouts\\2026_10_26\\2026_10_26-01_37_28--episode=1--success=True--task=open_the_middle_drawer_of_the_cabinet.mp4",
+    "bytes": 47015,
+    "sha256": "61d74906f570e83cc6acb06dca5799cfbaa2121bb56159aba0f64e0ae345e280"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\rollouts\\2026_10_26\\2026_10_26-01_37_28--episode=2--success=False--task=open_the_middle_drawer_of_the_cabinet.mp4",
+    "bytes": 107542,
+    "sha256": "22ea22c01f86cf25e8b6c5082bde76b4774a4e41578b2e2d9b526491ff74d458"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\rollouts\\2026_10_26\\2026_10_26-01_37_28--episode=3--success=True--task=open_the_middle_drawer_of_the_cabinet.mp4",
+    "bytes": 50162,
+    "sha256": "2dca1776a2b6ca9d1b5beac181569cd20dfd91fc7162a61a1d8ca74c8dd34e54"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\rollouts\\2026_10_26\\2026_10_26-01_37_28--episode=4--success=True--task=put_the_bowl_on_the_stove.mp4",
+    "bytes": 32790,
+    "sha256": "45b3ef07fc0c5f51d0c5225db21105fd89614dd59913fe7d6652967f99eb99c3"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\rollouts\\2026_10_26\\2026_10_26-01_37_28--episode=5--success=True--task=put_the_bowl_on_the_stove.mp4",
+    "bytes": 34347,
+    "sha256": "dc0a45a3af5803cfe68f57a67483d7226c7a21cb624f89e61b4cb970410ed231"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\rollouts\\2026_10_26\\2026_10_26-01_37_28--episode=6--success=False--task=put_the_bowl_on_the_stove.mp4",
+    "bytes": 67920,
+    "sha256": "cd46cdcaf8be7641743c3c1c5f3a7be8c4ae02f69556226b3af48dc6bed77470"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_goal\\stdout.log",
+    "bytes": 7876,
+    "sha256": "dd92aa99c4fc42a44e706a59253afc4cf33b98309a8ca51918de5ec87a2b60b5"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\logs\\EVAL-libero_object-openvla-2026_10_26-01_31_45.txt",
+    "bytes": 2025,
+    "sha256": "6f99cc17ee1589482eec66ee1afafe76782dff16524304e744a1802405711ceb"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\rollouts\\2026_10_26\\2026_10_26-01_31_45--episode=1--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4",
+    "bytes": 54298,
+    "sha256": "5cda0c3dccf5c99bb4e17a0476acacf48753d7f1c56df1422e58e5a3904ed553"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\rollouts\\2026_10_26\\2026_10_26-01_31_45--episode=2--success=False--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4",
+    "bytes": 79358,
+    "sha256": "552fcc7995fae9df7dff24976ddaa3d2fee7468283c184135f67bb86ef53f30e"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\rollouts\\2026_10_26\\2026_10_26-01_31_45--episode=3--success=True--task=pick_up_the_alphabet_soup_and_place_it_in_the_bask.mp4",
+    "bytes": 58211,
+    "sha256": "4440a70e53691a13a24dab05bf51c7a668f500e19703ec269b56fde353785c3f"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\rollouts\\2026_10_26\\2026_10_26-01_31_45--episode=4--success=True--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4",
+    "bytes": 55207,
+    "sha256": "5eb2538aeceebd690a2afbbc3de28bd4a579b20e1982a49791a59a3375a574f9"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\rollouts\\2026_10_26\\2026_10_26-01_31_45--episode=5--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4",
+    "bytes": 68022,
+    "sha256": "9c6948141ca8fc823275c968fb39c1858a46dcf2bc8f448325a1dc705a7fa201"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\rollouts\\2026_10_26\\2026_10_26-01_31_45--episode=6--success=False--task=pick_up_the_cream_cheese_and_place_it_in_the_baske.mp4",
+    "bytes": 74777,
+    "sha256": "72e8b96c3daf27f72956cd146a8d859393401c2422715fb3f7078e7212cf3dce"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_object\\stdout.log",
+    "bytes": 8106,
+    "sha256": "a7d438c2f83ebc243dd5cc208aa126a9f031f94acecee39b7d95b6e27c8796dd"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\logs\\EVAL-libero_spatial-openvla-2026_10_26-01_28_40.txt",
+    "bytes": 2121,
+    "sha256": "010587e030ddb797ff3c970e337ccb45b04d34d938b89de68cba8e03cf1e395a"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\rollouts\\2026_10_26\\2026_10_26-01_28_40--episode=1--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4",
+    "bytes": 29780,
+    "sha256": "b25f6c506482aecdcbae17f23d1b9bcf6bd8dd1c7289924e9d920ffd1cb4119a"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\rollouts\\2026_10_26\\2026_10_26-01_28_40--episode=2--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4",
+    "bytes": 35391,
+    "sha256": "5ddfaad012ebd73f3556bca7af83bcc7de7c1022a39a957459685c737e2538c3"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\rollouts\\2026_10_26\\2026_10_26-01_28_40--episode=3--success=True--task=pick_up_the_black_bowl_between_the_plate_and_the_r.mp4",
+    "bytes": 31058,
+    "sha256": "c15f16ebe665f47089183df03108d38a141ba745c86fb63e33f2604d8f475619"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\rollouts\\2026_10_26\\2026_10_26-01_28_40--episode=4--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4",
+    "bytes": 32748,
+    "sha256": "24d9e94381b1d4e4343a596ffefc7d1322f63d6d61f699d24d1070605d7b294f"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\rollouts\\2026_10_26\\2026_10_26-01_28_40--episode=5--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4",
+    "bytes": 31754,
+    "sha256": "65663f0cd68529966660562dbac83fd3f730464b60864e0e0f8dc954be2cf4fe"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\rollouts\\2026_10_26\\2026_10_26-01_28_40--episode=6--success=True--task=pick_up_the_black_bowl_next_to_the_ramekin_and_pla.mp4",
+    "bytes": 37471,
+    "sha256": "39385a1e07c83cfac1e16ab5be3993fddb48aeabb9b38f4cb9abf91456a258fe"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\libero_spatial\\stdout.log",
+    "bytes": 8201,
+    "sha256": "f70e5213f713d3ca64b918d3e5a4a2d7536206966f8ee24dbd915aba99a6eafe"
+  },
+  {
+    "path": "results\\openvla_libero\\mini_benchmark_004\\overall_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\benchmark_command.sh",
+    "bytes": 2625,
+    "sha256": "e848be10a818ec7265629cf740b9ae17f934dc708a794d3c7c2d8ac232367759"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\checkpoint_manifest.tsv",
+    "bytes": 373,
+    "sha256": "d907c01e57b2c7ca54fca2b1063dab91f13f5e2a18511dbac1777f8578a4cf30"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\config_snapshot\\libero_config.yaml",
+    "bytes": 395,
+    "sha256": "b0a92fcdc937dca4055034c69fd33872c7dbde74f2ca5d1dbd9b20d588ae4b62"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\config_snapshot\\run_libero_eval_subset.py",
+    "bytes": 12099,
+    "sha256": "e4bdeaa3ee8b1d0cd55bc018f1b6b69190a75e316852d6afc96ce9719652d083"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\pip_check.txt",
+    "bytes": 30,
+    "sha256": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\pip_freeze.txt",
+    "bytes": 3538,
+    "sha256": "2dfe89898f4770d407bdaea3ac882eadd1c17647e00c6b982180835cd04e4cda"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\repo_manifest.txt",
+    "bytes": 296,
+    "sha256": "9d191cd2deb79de2f0cd4f499be2d1dcc73f53f0b7c9b74758d9c8810a6f4171"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\runner_sha256.txt",
+    "bytes": 295,
+    "sha256": "cfc59e028e2379d9a4e1317f3d59a9aa5869381c129aaed95e50017d730e4370"
+  },
+  {
+    "path": "results\\openvla_libero\\READY_FOR_GPU\\SOFTWARE_READY",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\create_env_001.log",
+    "bytes": 7521,
+    "sha256": "0d688faa6477c832abd5b22d127cb6717dd9c120a7da551425f4b2f8c252dd80"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\dlimp_git_probe_001.txt",
+    "bytes": 143,
+    "sha256": "834cc85db198da5776b5065d6a752c1e463c51c49cfa8ba3881058b78bcae661"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\dlimp_manual_clone_001.log",
+    "bytes": 4861,
+    "sha256": "f2100b9c57ad1f5344b4b6629d80c0a0be37e0a7f0746acb1bab40f21c839a05"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\fix_numpy_after_libero_001.log",
+    "bytes": 1159,
+    "sha256": "57ac888a3af83891c3037f1f7046b823fa774fd145b3a6fbd61b69d7ef1ff6b0"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\fix_numpy_after_libero_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\flash_attn_import_check_001.txt",
+    "bytes": 48,
+    "sha256": "d5ce6e282e7260b814905212cfd50386c2c6745ca79790593f7c46132718378a"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\initial_inspection.log",
+    "bytes": 23398,
+    "sha256": "753ab78dbe3279dff6120d542fbac1a60ec8000d18a28d39397db258544ec80b"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_dlimp_local_001.log",
+    "bytes": 1540,
+    "sha256": "64d240273da34e3345beb9b7a69f5706da6f68ca56ed9d6e1c5dbbb95ff02a58"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_flash_attn_001.log",
+    "bytes": 590,
+    "sha256": "89549419f6ad98ac0cfb8a3b5e180be8ff82bdf22e486df60fade7c8554f8a6b"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_flash_attn_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_flash_build_tools_001.log",
+    "bytes": 656,
+    "sha256": "9b1daa51fa752706c02044e457b25011b0f5da7d9f4c327ba8572783774dbda3"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_libero_editable_001.log",
+    "bytes": 1549,
+    "sha256": "96c4dc4a549f0e77b75ab1f091021be0b852339bbd5d13b4d5b4e14eda508c1d"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_libero_editable_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_libero_requirements_001.log",
+    "bytes": 19424,
+    "sha256": "1c26d626f31791d63123a26162bfc4575857efbebc8d6bb48154e05196ed577d"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_libero_requirements_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_numpy_001.log",
+    "bytes": 546,
+    "sha256": "85309c58e92cf46461a097317b4ee72f833b1c70af5d40d532fb0dd8f15ac012"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_numpy_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_dependencies_003.log",
+    "bytes": 36736,
+    "sha256": "21fe4c2223d3906ea69588a9841de1809ea4845c53677c17e5c74bc7858fea2e"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_dependencies_003_exit_code.txt",
+    "bytes": 4,
+    "sha256": "97b912eb4a61df5f806ca6239dde3e1a4f51ad20aced1642cbb83dc510a5fa6b"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_dependencies_004.log",
+    "bytes": 175,
+    "sha256": "3b59fc63a4d05dbee21dd7d2082cc1c4bd73bcb26341adeb9cd169d1c1a8f2fc"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_dependencies_004_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_dependencies_005.log",
+    "bytes": 37402,
+    "sha256": "e8877f6b53a71c33cdcfcc07b0d838b57196a19f5aa0eb3df6022f5ca7ce4c5a"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_dependencies_005_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_editable_001.log",
+    "bytes": 4885,
+    "sha256": "a12cdb38cd3d7db90eef6482ceedd8555065fe79f29e609e8b4da8ce27796cf7"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_editable_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_editable_002.log",
+    "bytes": 4303,
+    "sha256": "a8188137ba17a628a50b3de9f9593da5399c1d43ebeaaa93e59fbfed962a8b21"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_editable_002_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_editable_003.log",
+    "bytes": 1551,
+    "sha256": "e06196d3a620f78e273a82035f134ad6e66e2f3ddaaf941a1d9601e6a937611d"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_openvla_editable_003_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_tomli_001.log",
+    "bytes": 540,
+    "sha256": "f724a188f901f984588e85e8b20739b9193610ef9236bddb3f18724955e9c183"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_tomli_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_torch_001.log",
+    "bytes": 8111,
+    "sha256": "5589b9b124f72ed72042deafdd3fcbef6db7c530a9550c4d3bfcc0faf570b3ca"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_torch_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_torch_002_resume.log",
+    "bytes": 5280,
+    "sha256": "301aca7f9b2859dbcfe29d5af6ec4fd2f3c4339dfe4a985c7fa57624fc7b35e3"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\install_torch_002_resume_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\libero_dependency_check_001.txt",
+    "bytes": 940,
+    "sha256": "db1cb5cfd7e30a065348f73b68b656399f45ac2c895ef952f7e9bb8a551a66d8"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\libero_repo_manifest_001.txt",
+    "bytes": 202,
+    "sha256": "871cb459106f2ffb7250348fbce3619f78a92345cc11ff5ee9b78b010e692afd"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\monitor\\monitor_torch_install.sh",
+    "bytes": 4104,
+    "sha256": "fcc66ce75fed72a60962e71f9b1c4e7f776431175830f47449849679368ea9e6"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_dependency_check_001.txt",
+    "bytes": 125,
+    "sha256": "9aa7f7b6e087fe2aea8d4b1912028fdfeac0e3d6206d0f05143135b36c049769"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_deps_dryrun_003.log",
+    "bytes": 35368,
+    "sha256": "c69e2440aabd2612def4b5aca934ea75c8d6b53f8d729ce8e594b0d71cc0a02c"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_final_light_smoke_001.txt",
+    "bytes": 218,
+    "sha256": "0270362b9d02f416492ba415c0bc7e6bd1edda67d858bbce36156db9b565bc24"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_import_smoke_001.txt",
+    "bytes": 122,
+    "sha256": "763782e888239c43002a22e69b12ee83912b8c31f54199d59df9d7afcd399830"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_import_smoke_002.txt",
+    "bytes": 2158,
+    "sha256": "fa4fef87c8a9ede792164df300cdeec8082f739e1b737c3592847da5e76db2b0"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_import_smoke_003.txt",
+    "bytes": 422,
+    "sha256": "0eb58c8a36e958ede6a9076557a8a14ce9a0ee818646666a3b84caee7ee9ab50"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_import_smoke_003_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_import_smoke_004.txt",
+    "bytes": 567,
+    "sha256": "ce2323d4c26dbb6ffb7bc3019a605120220d9240542e6d1de4cfeac2b74672f7"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_import_smoke_004_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_integration_smoke_002.txt",
+    "bytes": 1736,
+    "sha256": "aa4e34df52188116ec4e5e8e9d21c159597f8b377648dec7875d0cb88ca5c4e1"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_integration_smoke_002_exit_code.txt",
+    "bytes": 4,
+    "sha256": "e3b9c2844b5a5c2677b3a2279db2ec8487491dd9a23d6b22fac153391b3bb63c"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_libero_package_state_002.txt",
+    "bytes": 147,
+    "sha256": "56f43dfed1c5aec1ba15b80ca9d366493fdba10e9af78ec9cc3ed2593ae2cac4"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_package_versions_001.txt",
+    "bytes": 436,
+    "sha256": "d777b2b1837384f3945e065bf956abd5f601928aa14101fc71a5867d13a592f9"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_requirements_pinned_003.txt",
+    "bytes": 333,
+    "sha256": "c8bd499472c7a0465b41c6ca14f84b9ccb71ef3822797e210d954d7220234cd3"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_requirements_without_dlimp_001.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\openvla_requirements_without_dlimp_002.txt",
+    "bytes": 325,
+    "sha256": "79cb11a34843a38612329a7a610854d0e08559eae543772254e18685a77315dd"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\pin_opencv_001.log",
+    "bytes": 851,
+    "sha256": "aa4ce708b7c820ca23b9654fb29c0de2313b5f63f7515c22d27ce71f86187064"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\pip_check_before_flash_001.txt",
+    "bytes": 30,
+    "sha256": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\pip_check_final_001.txt",
+    "bytes": 30,
+    "sha256": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\reinstall_libero_editable_002.log",
+    "bytes": 1701,
+    "sha256": "ccb3a595d300ac4b780556de663cc9da102630cbc17bfe873df4987d58a4c399"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\reinstall_libero_editable_002_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\repo_inspection\\initial_inspection.log",
+    "bytes": 43946,
+    "sha256": "665cf5dd370e3d6cd62d6f8c60a5ba90ca1f8ccece0b435c0e4c115d1cd3d3ba"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\repo_inspection\\libero_eval_analysis.txt",
+    "bytes": 40585,
+    "sha256": "2aa9a925bdfec0c3b766060ea49c1531d77580990d45502c2071b67ce172eb1d"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\repo_inspection\\pyproject.txt",
+    "bytes": 2650,
+    "sha256": "82846fb3c7a38eade7793d127019c8ae550e07bbdf776cbea08feac7cf51a9f9"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\repo_inspection\\requirements_all.txt",
+    "bytes": 219,
+    "sha256": "123fde8e57a6640dca78b8a6e38913fe358dc3a96d49e6aa82fd9f9336c2893f"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\storage_diagnosis_after_torch_failure.log",
+    "bytes": 1750,
+    "sha256": "4bdeb6d14696030f826d0c9061f0dba1b017ef8bcb2c83373bd076247e490d26"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_001\\torch_verify_001.log",
+    "bytes": 2185,
+    "sha256": "bd8d326ab38d7f804dea5b25498d5fa16b7eb367dae5062c1c2307871a6ccb40"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_002_rebuild\\conda_create.log",
+    "bytes": 4746,
+    "sha256": "4f6cb59c2c0b82fcc16d49b3bca06f6d557cdd834fbd3432e92fc7249e218420"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_002_rebuild\\editable_install.log",
+    "bytes": 2311,
+    "sha256": "8007545efc50bc7627fb14143e66dbdc5d14670684e677a65be8eefc81fa309a"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_002_rebuild\\import_smoke.log",
+    "bytes": 6493,
+    "sha256": "95f568e284c48854ef3285bc0debe04e11722b9c1d7452ed78a26201d85575ff"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_002_rebuild\\pip_freeze_noneditable.txt",
+    "bytes": 3283,
+    "sha256": "080da46f9b44089298d0679bef48a0232a7f02d48457e091a395a5af76ebf4e0"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_002_rebuild\\pip_install.log",
+    "bytes": 65433,
+    "sha256": "75966cdc5d2ca26032ebe8bd410b9a4405ddfd34ff81ef10a56719fe8839de4f"
+  },
+  {
+    "path": "results\\openvla_libero\\setup_002_rebuild\\version_check.txt",
+    "bytes": 427,
+    "sha256": "e0cb0e46313c7141ab7708d8b791cb9700a6733ef71b05b665fa9c98ccea49a5"
+  },
+  {
+    "path": "results\\smolvla_libero\\environment_lock\\conda_explicit.txt",
+    "bytes": 3162,
+    "sha256": "8c457956b92a446d4513becab39de7db08fbbeb171e0204e68e9b9c5953d9c0e"
+  },
+  {
+    "path": "results\\smolvla_libero\\environment_lock\\pip_freeze.txt",
+    "bytes": 3263,
+    "sha256": "aa5b1956c6bd1a2d002c8c79d0a54d6e382239acb14cdbb0e07ddc3183ecf108"
+  },
+  {
+    "path": "results\\smolvla_libero\\environment_lock\\python_version.txt",
+    "bytes": 15,
+    "sha256": "4c3569f5da09975434dd9fd9a91fadbc4367a91d8f3c3fab59e9241ab9ee4bd8"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\artifact_manifest.tsv",
+    "bytes": 5103,
+    "sha256": "7f83cbaf9caddfeeccf22f54ba440d77d59bfe2251032de3d81f6f3bf72be825"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\benchmark_config.json",
+    "bytes": 442,
+    "sha256": "1321fdda162e3a3d792d9f854a6ae8f6b85a3cac39a921c8ca44e3d0721ac3ac"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\benchmark_summary.json",
+    "bytes": 2993,
+    "sha256": "a79d4cb082ca09fead99c00005d6b0539eb9f6de04a441f1dab3aef7880e3e65"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\checkpoint_sha256.txt",
+    "bytes": 132,
+    "sha256": "a51ba6e87323825c5f33e60bcd41817f907194a1bb0d32f7d4554763f2c3efe2"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\failure_cases\\libero_10_task0_ep0.mp4",
+    "bytes": 285110,
+    "sha256": "56314c75bb5da77e126beee712010d05b69c1dc2147d98381707e4c5269814fb"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\failure_cases\\libero_10_task0_ep2.mp4",
+    "bytes": 272893,
+    "sha256": "31c06beca0d52036d7471909219f2e386cd1d598e84ee2f9cdb2abd41fefb8cf"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\failure_cases\\libero_10_task1_ep0.mp4",
+    "bytes": 351539,
+    "sha256": "bddfde7fcf3e754606832afc1094ead7931195ed67163946702dddc5bcdeae99"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\failure_cases\\libero_10_task1_ep1.mp4",
+    "bytes": 376651,
+    "sha256": "13caed3d7d990f6debea96812961bd9faef723803ec80d7c09a28b66f92fe4e8"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\failure_cases\\libero_goal_task0_ep1.mp4",
+    "bytes": 171026,
+    "sha256": "e3ac102148ba03848cf69a7c8ed552595076b05b10b25e24008f0b49ea12e264"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\failure_cases\\libero_object_task0_ep2.mp4",
+    "bytes": 143287,
+    "sha256": "b705b59bef3b15de5ffc053a683fd7ac5d7f6a81ae404dc69fcb05705509ab67"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\failure_cases\\libero_spatial_task1_ep1.mp4",
+    "bytes": 143946,
+    "sha256": "be55cbdf680dd8562aaf9c3574d212bb688c9a10f915d3ba1fdcf13f0daffbd2"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\figures\\success_rate_by_suite.png",
+    "bytes": 51676,
+    "sha256": "7fe1d7b281fb6ca13211127a6a01a668fccc8c51b9ecff6cf91129999b850aea"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\figures\\success_rate_by_task.png",
+    "bytes": 70511,
+    "sha256": "fa5bad68cf206250842b56b1888661a569e05452135379266854e5ee2f64c13a"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\model_config.json",
+    "bytes": 2419,
+    "sha256": "5c9f3ba9f5f37ea7024c9501b0b20b1941f232989c2167853cb46d9071a70dd7"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\raw_results.csv",
+    "bytes": 3981,
+    "sha256": "a9268c932d2dd2925cf35c3e3854565750f7b9ad50bda0c5e783d3a031b64310"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\README.md",
+    "bytes": 1036,
+    "sha256": "4f703213fb68f63e50e2995ea5785e3315cc9eae71fdc29aef04adfe77e6ee3b"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\status.json",
+    "bytes": 180,
+    "sha256": "d28c1856b97fd93a6b580b01170f07e327a077af90ba64c30411302e9b2c2152"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\artifact_manifest.tsv",
+    "bytes": 708,
+    "sha256": "949456981aaa4f7259bc97eea07776160417cbe38212d89dd1bae5706d4096aa"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\command.txt",
+    "bytes": 471,
+    "sha256": "d58c5ac78ee91bcb7ced216396ec89950226e2365ec33bee80ccfe8a818ba3c4"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\console.log",
+    "bytes": 135714,
+    "sha256": "7ba01085d90be95a60651d04c83dd04cce3fc7999f3d50f0a5b2d48c773d7e43"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\eval\\eval_info.json",
+    "bytes": 4670,
+    "sha256": "91f7620cb29af20025f4eeb8f7c9786c53ac5cbb49ca662a008253bb6bc107de"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\eval\\videos\\libero_spatial_0\\eval_episode_0.mp4",
+    "bytes": 53572,
+    "sha256": "f9e3372678d5bda2ead2a44af764b34bb1605f6ac162db2fe9a4eda3f2a82ad3"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\eval\\videos\\libero_spatial_0\\eval_episode_1.mp4",
+    "bytes": 49785,
+    "sha256": "9927253646178b0e10c88ce005003076c9b1f6a8322660b005e3815818fb5151"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\eval\\videos\\libero_spatial_0\\eval_episode_2.mp4",
+    "bytes": 45283,
+    "sha256": "735d0fcaa17d9bc3857fdec19582583b384923bf6e64356d0cd9815debaee84b"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\eval\\videos\\libero_spatial_1\\eval_episode_0.mp4",
+    "bytes": 51367,
+    "sha256": "fa033a86fedc57972d2bf2ab37d94231ba012e4674511ed776d8628dc52c4a1d"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\eval\\videos\\libero_spatial_1\\eval_episode_1.mp4",
+    "bytes": 143946,
+    "sha256": "be55cbdf680dd8562aaf9c3574d212bb688c9a10f915d3ba1fdcf13f0daffbd2"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\eval\\videos\\libero_spatial_1\\eval_episode_2.mp4",
+    "bytes": 54864,
+    "sha256": "9c04336f2f33f865e78de42e78e8d6d8b3abca860e6e94688176faae81d48df0"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\frames\\episode_000.png",
+    "bytes": 126579,
+    "sha256": "0755b567ebd30429f735de90dc830c8f2ce5e31e9d3b49e18b990f2591ddee3c"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\frames\\episode_001.png",
+    "bytes": 127545,
+    "sha256": "345ef99df1ec57b2d3dfadb5ffa60614c3ff583f430ca5432723a96ded178763"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\frames\\episode_002.png",
+    "bytes": 125162,
+    "sha256": "1a14a78456323f4d7afdab586c19ec2de930d256f418605e2d7350a0812dc835"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\frames\\episode_003.png",
+    "bytes": 128535,
+    "sha256": "3593b7645e7f0ba548c2643df87b997aae96fad286942b7c80cf67bf2e870cd7"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\frames\\episode_004.png",
+    "bytes": 133697,
+    "sha256": "4cef3bbdf8c10615a62e7ff5c433a9bec386a2b0cabd585ebd5a136f85f9f655"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\frames\\episode_005.png",
+    "bytes": 128835,
+    "sha256": "bbadf03db6b01d071cd6c759aceb4f0bd992ca5c25385650b1bffb3ec69ca87e"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\status.json",
+    "bytes": 208,
+    "sha256": "9126b21819edfca33ce12c994a3c5e989c73e2855f11ebbfcbfadde48dca2113"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\01_libero_spatial\\video_manifest.json",
+    "bytes": 1517,
+    "sha256": "4aa73c6f7353f653d5b8a94a30b2478824ac5d470fb7cdfb7f6c60caa3ad0a81"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\artifact_manifest.tsv",
+    "bytes": 702,
+    "sha256": "f2669f2e32a1a256ea20c2af83425e440203023628771dbbd2496aa18d96c7b4"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\command.txt",
+    "bytes": 469,
+    "sha256": "aaedbc6a45c211b3e7d75e813b3e74872387affb2021613c7766f61f1685dc0c"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\console.log",
+    "bytes": 158916,
+    "sha256": "f180b76fb0a026400728d34c4db1fcf6bad0cc107192779de96cd4a3e3861aa8"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\eval\\eval_info.json",
+    "bytes": 4631,
+    "sha256": "6e7e7d80e1918980c10a22969547912a55eb070e0ba960d46d67be39b1591a3c"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\eval\\videos\\libero_object_0\\eval_episode_0.mp4",
+    "bytes": 65021,
+    "sha256": "f576d7125e77347d38f97161efce1aeae3030e514cafea30946afb32b5f9b6a0"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\eval\\videos\\libero_object_0\\eval_episode_1.mp4",
+    "bytes": 68930,
+    "sha256": "c42608d384ac73027762a93c2766a2661eb8c46faa9b34713e55a9e154dd6f7b"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\eval\\videos\\libero_object_0\\eval_episode_2.mp4",
+    "bytes": 143287,
+    "sha256": "b705b59bef3b15de5ffc053a683fd7ac5d7f6a81ae404dc69fcb05705509ab67"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\eval\\videos\\libero_object_1\\eval_episode_0.mp4",
+    "bytes": 72515,
+    "sha256": "46a23bbcd07399ddabd131a35900883de398aff7d0fefde2d941e42048f23742"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\eval\\videos\\libero_object_1\\eval_episode_1.mp4",
+    "bytes": 72311,
+    "sha256": "75f1bd30c907340228d0c73fbd1b60533248df36ff778fe8915d63fe7fb1ceed"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\eval\\videos\\libero_object_1\\eval_episode_2.mp4",
+    "bytes": 70097,
+    "sha256": "2d61b7db2e51b5c53d34db19a4e640826da8b15b7586cb91eda45e9e265a47ab"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\frames\\episode_000.png",
+    "bytes": 198749,
+    "sha256": "7b41cbf05ea59472b8de6c55f310fc9706e55b7e15ae435150ca9dbbf047b93e"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\frames\\episode_001.png",
+    "bytes": 198492,
+    "sha256": "fca486fbd64d2afab2d226db852961c92dc3093899accac62f5cf6248148820e"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\frames\\episode_002.png",
+    "bytes": 198287,
+    "sha256": "c3eab4b5fdfbab77a8839cdfb6037c5eabe4cfc0224e967cf9483e2bc3fab78d"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\frames\\episode_003.png",
+    "bytes": 195525,
+    "sha256": "ad4b24e457a1a6d0b1e7e39b7fa12f62c76a9ce6dc0f0e6df201e7f405dde67e"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\frames\\episode_004.png",
+    "bytes": 195698,
+    "sha256": "a140e2606fcbd37e201ce51b0f10db4e373f390bf306c9ad8c9a9310a7250330"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\frames\\episode_005.png",
+    "bytes": 195882,
+    "sha256": "9f6773ddc62278202bdc1319e191e4ec0669950977c321efe31f350a3ab37e7f"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\status.json",
+    "bytes": 207,
+    "sha256": "5b52504fe0755f1de0042edaa80a8115221d2c5b838f562195ab224b2751d478"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\02_libero_object\\video_manifest.json",
+    "bytes": 1516,
+    "sha256": "eff32b8dbc014b7c4059b867c8c7308e74289aca8c9a94e1d890fa9501a672b6"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\artifact_manifest.tsv",
+    "bytes": 690,
+    "sha256": "fc1246787fdc2c71b3d1ca395f40e2bcce4dbd1d49e7c9aac0f3e3a5ba623620"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\command.txt",
+    "bytes": 465,
+    "sha256": "5c08f92990d6d796cec33b2b460f8987ac78dfba341f6fd390b8edaf36e201e8"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\console.log",
+    "bytes": 146131,
+    "sha256": "fb1e250d73bc60271af38a91855217b54b5309769433fd8e6ae65679e8fce757"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\eval\\eval_info.json",
+    "bytes": 4553,
+    "sha256": "bf304a41490fccf624671c3f185708b72e5839f1740dac9e56f124fe52834b36"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\eval\\videos\\libero_goal_0\\eval_episode_0.mp4",
+    "bytes": 72857,
+    "sha256": "07632e9fa27bb3d3b9f157f25c7a32d1e82153aba93366aceef128572bc123ad"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\eval\\videos\\libero_goal_0\\eval_episode_1.mp4",
+    "bytes": 171026,
+    "sha256": "e3ac102148ba03848cf69a7c8ed552595076b05b10b25e24008f0b49ea12e264"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\eval\\videos\\libero_goal_0\\eval_episode_2.mp4",
+    "bytes": 68930,
+    "sha256": "4e360343968b1392c7364414aa0f06c37880d8ca55b0d5cc792392528363a178"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\eval\\videos\\libero_goal_1\\eval_episode_0.mp4",
+    "bytes": 50456,
+    "sha256": "10b584abf543bf3668d606e4b0f744a6efc240f45248a9220859dfcca6495c0a"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\eval\\videos\\libero_goal_1\\eval_episode_1.mp4",
+    "bytes": 48797,
+    "sha256": "d869c76e49cba8521a23492b33d4acfdb3c7a283f3a102c52d9323c692f793ec"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\eval\\videos\\libero_goal_1\\eval_episode_2.mp4",
+    "bytes": 51681,
+    "sha256": "e9e510577285f7e99bed0d92e02d89d7b64ced144506d4429580cc4bd352c8ab"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\frames\\episode_000.png",
+    "bytes": 135041,
+    "sha256": "47873f14a6aa8f7d971bab15569d6c882cdda18a4b3cf2f54f8bbe1304ffca80"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\frames\\episode_001.png",
+    "bytes": 129851,
+    "sha256": "4871a28c970094d752d85805d844ea326b4fb61e52c9f056ecb8d7e3b344f1b0"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\frames\\episode_002.png",
+    "bytes": 134205,
+    "sha256": "7463bae4e9471509d431c7ed0b7a1a9d402ad21973f248a3e4b736c35dd9ef34"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\frames\\episode_003.png",
+    "bytes": 127142,
+    "sha256": "a9ea27f5daa87a4302da0ed89557f4671755100913e2857a012acd3ff618ea96"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\frames\\episode_004.png",
+    "bytes": 127464,
+    "sha256": "35729fbb186a6aee1e39381adba5e7c8d9f1f753e3a98c08d6f4d9633b9b0d94"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\frames\\episode_005.png",
+    "bytes": 128216,
+    "sha256": "f4828ce53a3498991d92103f5f19b381206995a77254c9118fc899c532e3b9de"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\status.json",
+    "bytes": 205,
+    "sha256": "3ede4b73e8e00d649bc676007ee6918b116fe0c0156d119f75a56e21369f24df"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\03_libero_goal\\video_manifest.json",
+    "bytes": 1501,
+    "sha256": "9ff6ddaffad9c7a72292640b7ec4a71a2b5a8cbafa2404db302065669316aba1"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\artifact_manifest.tsv",
+    "bytes": 683,
+    "sha256": "15ed1d6639e97dbe50c02355a57ed233db190fa4b179a7485918edd5942cc643"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\command.txt",
+    "bytes": 461,
+    "sha256": "ba77c2087b696a6a6f80bc7c6d39e59b3dd9d18b18858f5db355eb1106a71957"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\console.log",
+    "bytes": 424850,
+    "sha256": "d076ab3c38bab79be9983556cd7f7adb87a803971930acb1812efe30d5e07bd2"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\eval\\eval_info.json",
+    "bytes": 4502,
+    "sha256": "c30d16884ccb41bb160c999f6821d3d79e3645ea736ebbc50c39a8389b87134a"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\eval\\videos\\libero_10_0\\eval_episode_0.mp4",
+    "bytes": 285110,
+    "sha256": "56314c75bb5da77e126beee712010d05b69c1dc2147d98381707e4c5269814fb"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\eval\\videos\\libero_10_0\\eval_episode_1.mp4",
+    "bytes": 146842,
+    "sha256": "d3a7d4ac0ee5b09dcb691b75ca42a520dcc08ba63c5398ab674f3157bb3cb7bb"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\eval\\videos\\libero_10_0\\eval_episode_2.mp4",
+    "bytes": 272893,
+    "sha256": "31c06beca0d52036d7471909219f2e386cd1d598e84ee2f9cdb2abd41fefb8cf"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\eval\\videos\\libero_10_1\\eval_episode_0.mp4",
+    "bytes": 351539,
+    "sha256": "bddfde7fcf3e754606832afc1094ead7931195ed67163946702dddc5bcdeae99"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\eval\\videos\\libero_10_1\\eval_episode_1.mp4",
+    "bytes": 376651,
+    "sha256": "13caed3d7d990f6debea96812961bd9faef723803ec80d7c09a28b66f92fe4e8"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\eval\\videos\\libero_10_1\\eval_episode_2.mp4",
+    "bytes": 206677,
+    "sha256": "d3b2485c2522bd06b693aada9588668707770273ad68895c0575973e2ddae3a9"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\frames\\episode_000.png",
+    "bytes": 136326,
+    "sha256": "74be833c20dde5cc999a8f744c78556ae5520f63d197f7841c82ad6f00df803e"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\frames\\episode_001.png",
+    "bytes": 140651,
+    "sha256": "0ba3cc637ed20e694e156116c2b93752d45d4aeaa2c61c8cc2333743fb060af6"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\frames\\episode_002.png",
+    "bytes": 135364,
+    "sha256": "3315246212aa76164acf382841f4e4fa266cf669aae6043e31ed2741eaadc711"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\frames\\episode_003.png",
+    "bytes": 139310,
+    "sha256": "8e033a7d1c239a8879ad1744fc57c58c31afaa8fa0abde3734793b89c9d009bf"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\frames\\episode_004.png",
+    "bytes": 145054,
+    "sha256": "2958788ff667a2785aa15c8d8967e6bd88e371622fc395c286cecd82a1899139"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\frames\\episode_005.png",
+    "bytes": 139024,
+    "sha256": "7efbf6c80607707c33f45ad132b011e23406ab17f9699c3bdbfbae2fc4f81f4f"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\status.json",
+    "bytes": 204,
+    "sha256": "e262b7f697e50a3a8c91ee6a83ad15d0cafa31a023314f8857a67385ffe30e05"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\suites\\04_libero_10\\video_manifest.json",
+    "bytes": 1483,
+    "sha256": "3c4a6079828f56aef02448bd95ad90368844543ee54c5db41b6c1f1564162408"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\summary_by_suite.csv",
+    "bytes": 185,
+    "sha256": "bf66966e96d237411e91393588629b6d76199afee184f41aa5cd830d39c3b509"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\summary_by_task.csv",
+    "bytes": 832,
+    "sha256": "f542b923952fccd251cc46ee226d22172139de997421067f0cd97e77a0e076cf"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\system_info.txt",
+    "bytes": 2110,
+    "sha256": "0c0ffae1392b5b727799c917a2d4b25405ae5d4f1d20382f55f51a66a420a044"
+  },
+  {
+    "path": "results\\smolvla_libero\\mini_benchmark_001\\train_config.json",
+    "bytes": 9631,
+    "sha256": "df25e6fce4cf2161b7a22c495230e332bad5f73f1ca07605b35fa77500917b9c"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\artifact_manifest.tsv",
+    "bytes": 239,
+    "sha256": "f167f3fe55205d78ad8d1b0828f7c470a9d97d726be5d7a97ed87a9801b329bc"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\checkpoint_sha256.txt",
+    "bytes": 132,
+    "sha256": "a51ba6e87323825c5f33e60bcd41817f907194a1bb0d32f7d4554763f2c3efe2"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\command.txt",
+    "bytes": 293,
+    "sha256": "37af3386acfc81bd82a3548d5c853cd689f7302570a53ecef42fafa6ce5e13b8"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\console.log",
+    "bytes": 10924,
+    "sha256": "3048678c81a442167ef5fe118f5d052ead6cb252c3fc8b94e74fc9a98942955c"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\metadata.json",
+    "bytes": 302,
+    "sha256": "9056b8fdcd50affc87b32ca05246206206b1d28b76c976d120982df4ab88cc65"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\metrics.csv",
+    "bytes": 21,
+    "sha256": "19a804e3372e313247b1a90b173ad914b257c5f33039253938c0300ffa96cac0"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\metrics.json",
+    "bytes": 2,
+    "sha256": "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\model_config.json",
+    "bytes": 2419,
+    "sha256": "5c9f3ba9f5f37ea7024c9501b0b20b1941f232989c2167853cb46d9071a70dd7"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\status.json",
+    "bytes": 113,
+    "sha256": "79057089cc2a0861538054e010a49263f0c4b820ffe354ceceb9cd8a9411c4d6"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\summary.md",
+    "bytes": 838,
+    "sha256": "acc3cfd55e67e47bc64168562bec373c5b897d811246d865ca9ba7f15030a598"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\system_info.txt",
+    "bytes": 2181,
+    "sha256": "fdf45749441a6541f5d4f5ba2c6df6cd9c9b7fbaee79f0ca245cd3bda1b5ecd9"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_001\\train_config.json",
+    "bytes": 9631,
+    "sha256": "df25e6fce4cf2161b7a22c495230e332bad5f73f1ca07605b35fa77500917b9c"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\artifact_manifest.tsv",
+    "bytes": 467,
+    "sha256": "7750667dba8a6db4908db8c6e0cebb366ef79627808f3612ff69bf0b49b9c7d8"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\checkpoint_sha256.txt",
+    "bytes": 132,
+    "sha256": "a51ba6e87323825c5f33e60bcd41817f907194a1bb0d32f7d4554763f2c3efe2"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\command.txt",
+    "bytes": 432,
+    "sha256": "044db17ebdcf4363030e04da0be8d1c0b670b9eac3a92cdc9a05498cc3549150"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\console.log",
+    "bytes": 24768,
+    "sha256": "2698eb98ce3d21216341a13936eab95e2d0891cfdb31564a14992c135cadb1eb"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\eval\\eval_info.json",
+    "bytes": 1503,
+    "sha256": "9206a7c920d0e879913393449d2fc6fb573e137f06bc4f604fab3a279a0ddaca"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\eval\\videos\\libero_spatial_0\\eval_episode_0.mp4",
+    "bytes": 53572,
+    "sha256": "f9e3372678d5bda2ead2a44af764b34bb1605f6ac162db2fe9a4eda3f2a82ad3"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\frames\\representative_frame.png",
+    "bytes": 126579,
+    "sha256": "0755b567ebd30429f735de90dc830c8f2ce5e31e9d3b49e18b990f2591ddee3c"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\metadata.json",
+    "bytes": 302,
+    "sha256": "00bdb725277c21887edf10e8da8f7b92549c6f5badb3c29655173c1bf2f21b11"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\metrics.csv",
+    "bytes": 669,
+    "sha256": "962a814eb553c2e969d3e7d9fe32d7600c843f4f46fa8692289e6b26b8d6e2b0"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\metrics.json",
+    "bytes": 1310,
+    "sha256": "281298a9bf6d5b8612e9dfcb2b999ca3a0d2e59f5b64e82892679c0768776b46"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\model_config.json",
+    "bytes": 2419,
+    "sha256": "5c9f3ba9f5f37ea7024c9501b0b20b1941f232989c2167853cb46d9071a70dd7"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\README_RESULT.md",
+    "bytes": 1422,
+    "sha256": "55427136fccd1c725b234244e2210262ae6522d05b109a3982b8990f180db5ce"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\result_summary.csv",
+    "bytes": 192,
+    "sha256": "9fb0144d3339dbf3903541b72be39e900b9f87a19b122485ce6b1a6933b0607c"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\status.json",
+    "bytes": 115,
+    "sha256": "c1ae5ad6f32c4f2013c649831c2eb5ce6693ffe4c4c2bd4b93c6792e4c9eb4ea"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\summary.md",
+    "bytes": 979,
+    "sha256": "23146c409d6307034363febfc5815f8af748b967a9314ab11d15bc4cfbfa27e5"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\system_info.txt",
+    "bytes": 2181,
+    "sha256": "4a526dce23868090f18e0ddc2a1ab4391cd48a637b09c6a8ef13ed4677d05d98"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\train_config.json",
+    "bytes": 9631,
+    "sha256": "df25e6fce4cf2161b7a22c495230e332bad5f73f1ca07605b35fa77500917b9c"
+  },
+  {
+    "path": "results\\smolvla_libero\\run_002\\video_info.json",
+    "bytes": 317,
+    "sha256": "f1dddcc47912d4752d69b396fa1cbaf508623176c5049a8f013f80470554641d"
+  },
+  {
+    "path": "results\\storage_migration_001\\conda_pkgs_rsync.log",
+    "bytes": 693947,
+    "sha256": "c0103d154ecc75365be853a4545830c72cfca6e7e80ef3d0f522753366271606"
+  },
+  {
+    "path": "results\\storage_migration_001\\conda_pkgs_verify.txt",
+    "bytes": 109058,
+    "sha256": "b3b9fbd6883a130fdf4d4b8aeadf9b4379b0852a0232181c1af5732044316bbf"
+  },
+  {
+    "path": "results\\storage_migration_001\\df_after.txt",
+    "bytes": 161,
+    "sha256": "902d3119b3c274deff79044a760358eeffcec3d900290e3bca7311e73a015eec"
+  },
+  {
+    "path": "results\\storage_migration_001\\df_before.txt",
+    "bytes": 161,
+    "sha256": "caeb53d8d9b7453ab760faacb3a6d5165cc5da6a2d931e020103e050762ad9cd"
+  },
+  {
+    "path": "results\\storage_migration_001\\env_openpi-server_rsync.log",
+    "bytes": 622146,
+    "sha256": "b082902f6f88db6a3e0a3663b8f446206c98afaac35b5002f677bc965ac5a003"
+  },
+  {
+    "path": "results\\storage_migration_001\\env_openpi-server_verify.txt",
+    "bytes": 77151,
+    "sha256": "4a91ccb15ca905579052e2b7625c1e349112e1a4b9e7a909a2da5c0c4b2ba3bc"
+  },
+  {
+    "path": "results\\storage_migration_001\\env_openvla_rsync.log",
+    "bytes": 791457,
+    "sha256": "eea75baedc64e0dbdeabc39992da62c9aa22619414dbaf81a7677c9a218e367d"
+  },
+  {
+    "path": "results\\storage_migration_001\\env_openvla_verify.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\storage_migration_001\\hf_cache_rsync.log",
+    "bytes": 762,
+    "sha256": "d5afe3cf183529e7140bc21c644d58c53d5d0c4f746f1f7b7ce883fcd54c4103"
+  },
+  {
+    "path": "results\\storage_migration_001\\hf_cache_verify.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\storage_migration_001\\inodes_after.txt",
+    "bytes": 203,
+    "sha256": "b83b6723145875af476cd62003c33afedd43af7d30d1f8440b4880c8a14e6682"
+  },
+  {
+    "path": "results\\storage_migration_001\\inodes_before.txt",
+    "bytes": 203,
+    "sha256": "cde5d3e6647e023a2165db109f6863e464aff312a0f952ed858c97682a305724"
+  },
+  {
+    "path": "results\\storage_migration_001\\pip_cache_rsync.log",
+    "bytes": 217765,
+    "sha256": "a1e6e4ed086e2dfa651328263f45d1ae6aaffa5ec2002376affe9f414a665200"
+  },
+  {
+    "path": "results\\storage_migration_001\\pip_cache_verify.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\storage_migration_001\\torch_cache_rsync.log",
+    "bytes": 65,
+    "sha256": "bbce2d9bb1bc54fb41c4fba439e5eb55f0e99e640ad82161001f4a6a1888e5a9"
+  },
+  {
+    "path": "results\\storage_migration_001\\torch_cache_verify.txt",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\storage_migration_001\\uv_cache_rsync.log",
+    "bytes": 978665,
+    "sha256": "4700a0f61809d6654792d4a97bffcf368f81aae2c2dce8a44cf3971934a98f93"
+  },
+  {
+    "path": "results\\storage_migration_001\\uv_cache_verify.txt",
+    "bytes": 18276,
+    "sha256": "e515b1e150a01392dae1d9fe84be322109edc089f0bfabd11d4e311ad7d2195a"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\ENV_READY\\STATUS.txt",
+    "bytes": 373,
+    "sha256": "514411908f4bb3b58275565b5b574c4d06df706e86196305fa92eb12b4abbc2d"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\faucet5050_smoke_001\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\faucet5050_smoke_001\\smoke.log",
+    "bytes": 1682,
+    "sha256": "658c222932f14dd2015c2efeba3e8d3815b3e7513a3e144ede7afccc1fea9cc5"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\faucet5050_smoke_002\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\faucet5050_smoke_002\\smoke.log",
+    "bytes": 1515,
+    "sha256": "89ee513d8b7696b3ab2e37136f74cc10f6b3da92e886845172531bd8cdea8ca3"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\patches\\maniskill.py.before_faucet5050",
+    "bytes": 1976,
+    "sha256": "0a193e62401a36b6205b48d14998331020c63c142f78a58f408f0043ca619994"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\READY_FOR_GPU\\READY",
+    "bytes": 0,
+    "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\READY_FOR_GPU\\STATUS.txt",
+    "bytes": 826,
+    "sha256": "478de588fe2c2a09826af055613977dd9247a7710955576e9bb247e9d0892a96"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\apt_update_001.log",
+    "bytes": 2168,
+    "sha256": "74212be58748d4ecf2c04450fc0beb60ea1f5948246f782c86cbf1147d133a4e"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\compatibility_note.txt",
+    "bytes": 227,
+    "sha256": "bc1bc7f79bdece0bf1336b49b605e5a5eb2812805e9217739b7f20da9580ff11"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\conda_create_001.log",
+    "bytes": 4316,
+    "sha256": "9df5c57678bb0980faf3790d7eaabab0a829bc5ac78e2dca02596f7be2c2d07f"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\conda_create_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\faucet_5050_vhacd_001.log",
+    "bytes": 15606,
+    "sha256": "253ef667a8c693906f80cf8d475fb8d5d8a11cd88a17423a488bf6a99df95224"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\faucet_5050_vhacd_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\gym021_install_001.log",
+    "bytes": 1919,
+    "sha256": "c3fbb05d34a677e5517d3d72d92090b59bf854ae6dc50014b946b551cfc9920a"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\gym021_install_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\gym_packaging_fix_001.log",
+    "bytes": 1623,
+    "sha256": "4a5fb2665959e0c66e907e426ddf017df6f1df239953a32211e42d99a70c8cc0"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\gym_packaging_fix_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\initial_inspection.log",
+    "bytes": 6409,
+    "sha256": "ebeff311654706f69cc6d87771537fc05679a7e9edb18f0a7c29c7693d3c3f84"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_asset_downloader_help.txt",
+    "bytes": 427,
+    "sha256": "fcc47db932d3db86ad522aca271d0dc0cc2ae0774bd92b33096db53e685205d8"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_assets_manifest.tsv",
+    "bytes": 9706,
+    "sha256": "63d439824ff7e60d4683db2c3c74ee8fc0b832d12f5d4d6a293e836c1e7c3dae"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_dryrun_001.log",
+    "bytes": 2589,
+    "sha256": "e2be62fc4fff281a7e27f45d2414a5c5c344e220c795e537389ca24d61e9b07c"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_dryrun_002.json",
+    "bytes": 422706,
+    "sha256": "42c04e302a0c81ab8d448aa572a5c7a61229ab6d0d1a341b7a2923e59228bfcf"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_dryrun_002.log",
+    "bytes": 14450,
+    "sha256": "f50f109a0e80825cd9ecced4ddbb9186aa1efd5d30fbf6f30cd61943b80cbb07"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_import_smoke_001.log",
+    "bytes": 484,
+    "sha256": "879ec6d5abd98284328a6ca140afea969ab5ca46beb984fe4ad871403c295e24"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_import_smoke_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_import_smoke_002.log",
+    "bytes": 263,
+    "sha256": "37f9743cf964aad188d841245a58d4ce19dae29a9c8d9f5e3930885e1e7cc25d"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_import_smoke_002_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_install_001.log",
+    "bytes": 8957,
+    "sha256": "cecc907d07b47592b649bcb915e95fd4742b75e332de083c08e98e9e2c999038"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_install_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\maniskill_required_asset_registry.txt",
+    "bytes": 141,
+    "sha256": "eacd9db7b9deeff3d505222a01db81f329174e60088f693f59c2acc243c63294"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\pip_check_before_torch_001.txt",
+    "bytes": 30,
+    "sha256": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_core_import_smoke_001.log",
+    "bytes": 237,
+    "sha256": "354d74bd1f2c80d01066f3f62fcd1cd604b5b6d1bbe5163c78cdbf014d542f08"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_core_import_smoke_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_core_no_torch_install_001.log",
+    "bytes": 28695,
+    "sha256": "65e51dc23211113ef4cb3b0e02b08d6eeb3b99ae240814cbec5474836c98c045"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_core_no_torch_install_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_core_no_torch_requirements.txt",
+    "bytes": 281,
+    "sha256": "0d275031fc2b90c35d75ee2ee00b9bc28ac0aee71d783ebfc8e5b6b9210b9f84"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_final_import_smoke_001.log",
+    "bytes": 739,
+    "sha256": "72a62b18d8859047115b5a2dda06c2ba5bab32c5e1c2d37f4ba0da30856d6505"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_final_import_smoke_001_exit_code.txt",
+    "bytes": 4,
+    "sha256": "e3b9c2844b5a5c2677b3a2279db2ec8487491dd9a23d6b22fac153391b3bb63c"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_final_pip_check_001.txt",
+    "bytes": 30,
+    "sha256": "9261363b733079a641c2e4cc9bc46ffa1d8336945a87f807b6cf68847dbc9b09"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_split_smoke_001.log",
+    "bytes": 809,
+    "sha256": "aec42440b70cad93489529a67e8745409d5c8ae2ed98a199941271c9f0c565d4"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_split_smoke_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_torch_stack_001.log",
+    "bytes": 13332,
+    "sha256": "77c6cec2d972d93947cac27cac38143d9f7281d20575cbb5c2b3146baac4ec2c"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\tdmpc2_torch_stack_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\vulkan_runtime_install_001.log",
+    "bytes": 28710,
+    "sha256": "9de2f4dbb380c596feb64c48a2ae3b8db6ae4c313d619f038405ae150a04427e"
+  },
+  {
+    "path": "results\\tdmpc2_maniskill\\setup_001\\vulkan_runtime_install_001_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\latest_mini_benchmark.txt",
+    "bytes": 69,
+    "sha256": "51a2183c6b9ff89286f17d5abf229ba393d0beaa7304e27c410836fea59cc45d"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\config.yaml",
+    "bytes": 2675,
+    "sha256": "641a5bbc7dce90a4c39ba4cf5b676d9254c0ada83905a59308cb159ce01aad1d"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\dataset_statistics.json",
+    "bytes": 2905,
+    "sha256": "87c1d2845aa79512491841ddc0bccefe13a5edd88af93385b9f05b15927d849b"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\eval_libero_subset.py",
+    "bytes": 14066,
+    "sha256": "2516af2f3f4d01e12b223e7295d21e3ac982f151ebe67d72161d13302ec7d8de"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\git_state.txt",
+    "bytes": 286,
+    "sha256": "711c0636d5522409746003d98319176c81a6a5c99923055e57005b2496547c66"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\nvidia_smi_before.txt",
+    "bytes": 1689,
+    "sha256": "27e729df8d0ef39b0ae1dd898f47c16101c30e59b51dd178edcc961b74459453"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\run_config.txt",
+    "bytes": 428,
+    "sha256": "2f6a6fef0b4d863c890aa16be784e01e227152e27b95431e9eff343b0c43cd14"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\server.log",
+    "bytes": 621,
+    "sha256": "ae9f699389db363918dad3bee8f72dd60d216d4a3ed357d271e1b1fe05d482b4"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\server.pid",
+    "bytes": 5,
+    "sha256": "ba8850975c0debc2fd2503138883996905f30f517017da6a39ea81ee04a169a0"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_001\\torch_gpu_before.txt",
+    "bytes": 114,
+    "sha256": "8ad45e362f070c9036344b57239cdc276124dbb669b7cfad00365bf126bd22e9"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\artifact_manifest.tsv",
+    "bytes": 671,
+    "sha256": "6f0a2deef8bbbf56caf2717c88cb026fdbb4bb1a90bf0e56c9e64535042902d3"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\config.yaml",
+    "bytes": 2675,
+    "sha256": "641a5bbc7dce90a4c39ba4cf5b676d9254c0ada83905a59308cb159ce01aad1d"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\dataset_statistics.json",
+    "bytes": 2905,
+    "sha256": "87c1d2845aa79512491841ddc0bccefe13a5edd88af93385b9f05b15927d849b"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\episodes.tsv",
+    "bytes": 122,
+    "sha256": "53f152157239af64742933cc17df43a1af78ca7fa102a8eb7296d4b149adeea7"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\eval_libero_subset.py",
+    "bytes": 14066,
+    "sha256": "2516af2f3f4d01e12b223e7295d21e3ac982f151ebe67d72161d13302ec7d8de"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\git_state.txt",
+    "bytes": 286,
+    "sha256": "711c0636d5522409746003d98319176c81a6a5c99923055e57005b2496547c66"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_10\\eval.log",
+    "bytes": 157,
+    "sha256": "359cc1412119c1c973e9134dad434e5a516b70301014d5fa4cd2d71cfbd085bb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_10\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_10\\runtime_seconds.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_goal\\eval.log",
+    "bytes": 157,
+    "sha256": "359cc1412119c1c973e9134dad434e5a516b70301014d5fa4cd2d71cfbd085bb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_goal\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_goal\\runtime_seconds.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_object\\eval.log",
+    "bytes": 157,
+    "sha256": "359cc1412119c1c973e9134dad434e5a516b70301014d5fa4cd2d71cfbd085bb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_object\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_object\\runtime_seconds.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_spatial\\eval.log",
+    "bytes": 157,
+    "sha256": "359cc1412119c1c973e9134dad434e5a516b70301014d5fa4cd2d71cfbd085bb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_spatial\\exit_code.txt",
+    "bytes": 2,
+    "sha256": "4355a46b19d348dc2f57c046f8ef63d4538ebb936000f3c9ee954a27460dd865"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\libero_spatial\\runtime_seconds.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\nvidia_smi_after.txt",
+    "bytes": 1689,
+    "sha256": "f94f5748ec67cb4a94434581392ae16c77695181a4ae0406cc58cdda9e719d46"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\nvidia_smi_before.txt",
+    "bytes": 1689,
+    "sha256": "dc9152503d43b8e197ee0dfe563f79aafc7766060ed693edc0b884dcfa17104e"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\run_config.txt",
+    "bytes": 429,
+    "sha256": "d6f9085549af54974e29a802e49de304bff357a5f459d01b9cf674c25995e4ea"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\run_status.txt",
+    "bytes": 52,
+    "sha256": "64f54d66dac498341c122414825c8274ab706a46908b9007c37ab0fe4692a0a9"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\server.log",
+    "bytes": 2513,
+    "sha256": "c2704214bcfd042ecd70c626654dfad4b9baa66f445b07dfee7c7a4c9e4567b0"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\server.pid",
+    "bytes": 6,
+    "sha256": "1ba44dbc387a77789370630ffc2a781e3d0bb43ac31efce39ce4c3c71bae19b8"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\server_ready.txt",
+    "bytes": 19,
+    "sha256": "3d47df97fcdf29f063d73e82a46a6aed295959348444fec91f45c74fe30b18a2"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\summary.json",
+    "bytes": 623,
+    "sha256": "7de6f510281402584eecbdc142c519db3c3ba982bd331d138b0631de85ba30f1"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\mini_benchmark_002\\torch_gpu_before.txt",
+    "bytes": 114,
+    "sha256": "8ad45e362f070c9036344b57239cdc276124dbb669b7cfad00365bf126bd22e9"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\benchmark_command.sh",
+    "bytes": 85,
+    "sha256": "dc512026a3cef87e23595d92296bdee8ca237e5f358412880e1f445e605c3333"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\checkpoint_manifest.tsv",
+    "bytes": 8326,
+    "sha256": "1275166a402648e5d6ad8cfb4d6b6728db6b619c5bbd923af2e563a75fdcaddb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\checkpoint_sha256.txt",
+    "bytes": 598,
+    "sha256": "3034425df4a7040805cdd0ca17518d4d7d037b3c97ef6624da3afc9f039e0c86"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\conda_explicit.txt",
+    "bytes": 3257,
+    "sha256": "5ed6486c5b0b1a441831190bd6540aaecb23935f4f2288db514050deaa4c246a"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\config_snapshot\\config.json.original",
+    "bytes": 3251,
+    "sha256": "41c06c72d48c26fc744287987316ae555c3142de8064790fe0b946685cc38dd1"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\config_snapshot\\config.yaml.original",
+    "bytes": 2647,
+    "sha256": "a183e5f844cc79493f8c1d6df4c0e293d51af0b6d644585bf54706422f607bc9"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\config_snapshot\\config_json.patch.diff",
+    "bytes": 877,
+    "sha256": "9c4bc6e3510d9cbde692487f0b5b8fe39967453a0cbdce3905db81b67895b37f"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\config_snapshot\\config_yaml.patch.diff",
+    "bytes": 847,
+    "sha256": "d6fbd0472a6dd8309480bdb27e0bc4331a98e31abb1f05c34905d609ebab95d1"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\environment_check.txt",
+    "bytes": 481,
+    "sha256": "05cb0e6cc739b5c9fe9b97cf2757e9fdd6197d12acd7e383726393951c0e24e6"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\pip_freeze.txt",
+    "bytes": 2874,
+    "sha256": "a042a1624e9afcc823320b0eb090b492b56bc796ca0c22a7280a0ccde61dad19"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\READY",
+    "bytes": 26,
+    "sha256": "c10b8b0eaa2ddb42a630b582b1604fbb7613f873d5c7b1708e8ef0c3ffe992cf"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\runner_sha256.txt",
+    "bytes": 506,
+    "sha256": "e191532d5506d406258e0ee4290a8d7ed576bc99e3a1905f1b51dd4c68360c4b"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\READY_FOR_GPU\\smoke_command.sh",
+    "bytes": 76,
+    "sha256": "c5d5205a0ad6ba57ffd264ed38062a6ca3af076b1012ad8ed920d05954b6310d"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\build_environment_info.log",
+    "bytes": 2343,
+    "sha256": "bfcaa60ec8a0767294ef8ce5bf41f42b4f0334830310b554fd7634062d43a3c7"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\config_snapshot\\config.json.original",
+    "bytes": 3251,
+    "sha256": "41c06c72d48c26fc744287987316ae555c3142de8064790fe0b946685cc38dd1"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\config_snapshot\\config.yaml.original",
+    "bytes": 2647,
+    "sha256": "a183e5f844cc79493f8c1d6df4c0e293d51af0b6d644585bf54706422f607bc9"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\config_snapshot\\config_json.patch.diff",
+    "bytes": 877,
+    "sha256": "9c4bc6e3510d9cbde692487f0b5b8fe39967453a0cbdce3905db81b67895b37f"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\config_snapshot\\config_yaml.patch.diff",
+    "bytes": 847,
+    "sha256": "d6fbd0472a6dd8309480bdb27e0bc4331a98e31abb1f05c34905d609ebab95d1"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\config_snapshot\\dataset_statistics.json.original",
+    "bytes": 2905,
+    "sha256": "87c1d2845aa79512491841ddc0bccefe13a5edd88af93385b9f05b15927d849b"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\download_qwen3_vl.log",
+    "bytes": 936,
+    "sha256": "3fa8d20d439c4d2ca505afb35f29bb21203502cf4a4dd592b2d7d46987928c78"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\download_vjepa2.log",
+    "bytes": 875,
+    "sha256": "e6c7bc4a611cbcbca80fc5ae2ff1821dd649bb1cfb85353844f6142bb7b03482"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\download_vla_jepa_libero.log",
+    "bytes": 705,
+    "sha256": "c194b71b3c02c0d84a3cca4f23c08f26075abe9357a8ad934aabd54ced1e95dc"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\environment_lock\\conda_explicit.txt",
+    "bytes": 3257,
+    "sha256": "5ed6486c5b0b1a441831190bd6540aaecb23935f4f2288db514050deaa4c246a"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\environment_lock\\core_versions.txt",
+    "bytes": 252,
+    "sha256": "49f21773395eb863ee82a4cafb2fe8eb11a9de22b56955c5ca54c4f4968cd748"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\environment_lock\\pip_check.txt",
+    "bytes": 104,
+    "sha256": "f7cef5b0fe60912fd925a03ce5acf14619a35be7ff16573d1cffb5a8ed56a5e5"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\environment_lock\\pip_freeze.txt",
+    "bytes": 2874,
+    "sha256": "a042a1624e9afcc823320b0eb090b492b56bc796ca0c22a7280a0ccde61dad19"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\environment_lock\\python_version.txt",
+    "bytes": 15,
+    "sha256": "ecccd6f14c1331e1400467a35f90f45097cb5c1a8635942d2b9b96b849cb63fb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\flash_attn_resume_state.txt",
+    "bytes": 197,
+    "sha256": "0d55100841061f2a1db4509b680020b51e368b8aefaebb0297f1104275354f47"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\flash_attn_wheel_integrity.txt",
+    "bytes": 5543,
+    "sha256": "f4b1f1fb23cc6befa8d65ad6538ad3ec590092fa7298a3b97181271e37909e49"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\flash_attn_wheel_sha256.txt",
+    "bytes": 137,
+    "sha256": "64619d8e0f654d5296434489ea2cc3b599f835b015d87e1ec291796e502f47b7"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\flash_attn_wheel_url.txt",
+    "bytes": 143,
+    "sha256": "84454ac50bfb7db7e71fd4763076992b4260971e74bfda38c1a6bb111f577ca5"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\hf_manifest_facebook__vjepa2-vitl-fpc64-256.txt",
+    "bytes": 146,
+    "sha256": "c13b9236457c681f70241e29732f506ffc9f31c278f9a1f0c917cb3f350ae46b"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\hf_manifest_ginwind__VLA-JEPA.txt",
+    "bytes": 597,
+    "sha256": "3c5f7c1fce99b4e56e6e94a95f1d6f339da7ba157e9c56bcd103853aef3cf301"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\hf_manifest_Qwen__Qwen3-VL-2B-Instruct.txt",
+    "bytes": 212,
+    "sha256": "0f3699ee3fa33facaa1edfe04299f18850624b9cfb4490240f979f3114d2ccf0"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\initial_inspection.log",
+    "bytes": 49481,
+    "sha256": "d82638dfdb93cfe3d08ec2985599a9bb44d37b8fb98d98589e51477773cc4beb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_flash_attn.log",
+    "bytes": 4316,
+    "sha256": "e4c95b092c0039cddde7d945c49ac3d12d0d6b712c6d4eeac580ac0bdb9a60b6"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_flash_attn_exit_code.txt",
+    "bytes": 4,
+    "sha256": "97b912eb4a61df5f806ca6239dde3e1a4f51ad20aced1642cbb83dc510a5fa6b"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_flash_attn_offline.log",
+    "bytes": 588,
+    "sha256": "5ba0a618b769bacd82ce263b1f7a8e0f2fc1fa00a1883809844d58826c9b3366"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_flash_attn_offline_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_flash_attn_wheel.log",
+    "bytes": 210,
+    "sha256": "d54dca815645bcc9e6afc2d55f53510a73d13341b4edc35bb95dc0fad8f74ef9"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_flash_attn_wheel_exit_code.txt",
+    "bytes": 4,
+    "sha256": "9d9b18720961e9b4689fd763b85e7b6f36160ccd3a8a1c9ddc5103bb0f66c396"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_project.log",
+    "bytes": 1551,
+    "sha256": "f5bf98bdeb8d601c61e009b880d0b5b4346a70ea9f02ad9e529cee35484d9a22"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_project_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_requirements.log",
+    "bytes": 35864,
+    "sha256": "fad7382fd382aef5b0f9cce15846c8ed1db392e9fc1da458005aa0850b8e9564"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\install_torch.log",
+    "bytes": 7906,
+    "sha256": "e6f7195873c7a0679f4af31c3a5921d575edf6f64ac2b9f052cdd885b917b6e0"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\model_integrity\\qwen_files.tsv",
+    "bytes": 1029,
+    "sha256": "edea4d594e7fb340e7bf8ce610d7fc02c296aa793f44e80bbd602a9799d8ecae"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\model_integrity\\vjepa2_files.tsv",
+    "bytes": 798,
+    "sha256": "fc696d9149b4a2cce9e156784d3c647fa8008c3b2c3cf10b19b6e0c620d1eb77"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\model_integrity\\vla_jepa_libero_sha256.txt",
+    "bytes": 157,
+    "sha256": "cc0c53cde8258bf31950dc4f9ff728794275a4e9d8dda4cc4e2c4ed75b44d545"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\post_requirements_check.log",
+    "bytes": 2571,
+    "sha256": "9e211fa75e603b7baa1fc4f8be177d650812a0a9a17a37724d11a3eecd80c59a"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\preflight\\eval_libero_help.txt",
+    "bytes": 3365,
+    "sha256": "39926457a8c4ef98980c84484bc03e472c412971c8586500029ed28126331562"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\preflight\\install_eval_deps_model_env.log",
+    "bytes": 5287,
+    "sha256": "33c49763810087f0ac6a768fa1ba24babe0569e4363aadc3195b088be37deabb"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\preflight\\install_eval_deps_model_env_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\preflight\\install_eval_deps_sim_env.log",
+    "bytes": 6248,
+    "sha256": "21420f9d7cddec5a9c5d8a01542da7c5732d622d164cf2e0dc62d11231f6e6e4"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\preflight\\install_eval_deps_sim_env_exit_code.txt",
+    "bytes": 2,
+    "sha256": "9a271f2a916b0b6ee6cecb2426f0b3206ef074578be55d9bc94f6f3fe3ab86aa"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\preflight\\no_gpu_preflight_001.log",
+    "bytes": 31461,
+    "sha256": "3a39319aa29b70ed96526721b099b0b68d3238b81bb532f49ec73da70091f426"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\preflight\\server_policy_help.txt",
+    "bytes": 553,
+    "sha256": "1748ee608b01d604a42b508bd070b820e44c5c7d5557946f9953a2c812a5d584"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\preflight\\sim_client_integration_test.log",
+    "bytes": 756,
+    "sha256": "b11f5a188932a59bd1096c51b0cd6317739f5b107aa2d0823d1288db602e48fe"
+  },
+  {
+    "path": "results\\vla_jepa_libero\\setup_001\\runtime_architecture.txt",
+    "bytes": 11198,
+    "sha256": "88216778407795d1d93e9e8a6becbe27c1bed419c253b481aa06e1e62f57e953"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\asset_conversion.json",
+    "bytes": 8051,
+    "sha256": "8fd007e04a22d4116841f554ef75599bb69948476020cb422e4f158e8114dff3"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\checkpoint_conversion.json",
+    "bytes": 187,
+    "sha256": "c944afd1bc2140d1a54a3dec30d7b137fd27d91740d6bcad7a1a76e703811e44"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\openpi_eval.py",
+    "bytes": 10696,
+    "sha256": "1b3f1977d7816211049629d358105e545e07a711c8a059096055fd379bbce763"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\openvla.sh",
+    "bytes": 2916,
+    "sha256": "6a7ad1474a62eda49505841d82953ad8c744bee1bd1b114a12e20383355fb090"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\openvla_offline.patch",
+    "bytes": 637,
+    "sha256": "e6de84876d927dc1dfbbff329bab02e661912053b63711e65e4a144e1713005a"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\original_env___init__.py",
+    "bytes": 2321,
+    "sha256": "ba7ff952d23e082587fdd2c329e27f3ab82040334724abf23f7c7966302a01f1"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\original_env_maniskill.py",
+    "bytes": 2188,
+    "sha256": "9214b58be916f34f2071db43182c0f51e9586b9637d0188f7d5b21971d302b69"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\original_env_wrappers_multitask.py",
+    "bytes": 1584,
+    "sha256": "bf1f26deb8f4f014b7dd0cdd4f68033aeba78b6fc2029a89484bcc6df6e51d08"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\original_env_wrappers_tensor.py",
+    "bytes": 1070,
+    "sha256": "8b0a3a667f2aafab3aaa4affbd56652361c0a75ad143cc8bd70dfcb1f95def6b"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\original_env_wrappers_timeout.py",
+    "bytes": 564,
+    "sha256": "bb00d092582d82eda7c0865033f256771fe700fefb5e700cf1495f0734e3f3c3"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\original_openvla_utils.py",
+    "bytes": 6638,
+    "sha256": "72a1a382172c67068c96f47d1c2d8f16925d2e0deda9c745829a7f2ee6b1c865"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\remote_runner.py",
+    "bytes": 5960,
+    "sha256": "c9cff78eba4d4210164137fc2ca69ee63137ba1a959fed934a13d0d552dd7155"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\repair_compat.py",
+    "bytes": 2892,
+    "sha256": "c27d0c14f01fed0b0fb0b50a648cc25557415dbd19a6e8ebc33599045f591949"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\tdmpc2_compatibility.patch",
+    "bytes": 1199,
+    "sha256": "b0792733397117640e9899106499164c7f63c4ca647ba62f61793c19fdf71d0c"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\tdmpc2_eval.py",
+    "bytes": 4184,
+    "sha256": "807d9d6e5cabc35777c50a19d2b69a4ad09dfa3fa2fc105bfb772c9a06855660"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\vla_jepa.sh",
+    "bytes": 432,
+    "sha256": "4144743c517b4b99a553befe889e8058b9d65e2c157aef5c25b7be41d984162a"
+  },
+  {
+    "path": "scripts\\codex_session_20261026\\vla_jepa_core.sh",
+    "bytes": 10281,
+    "sha256": "e09e9ab6a0274e55c4dc4f59f0a0985ddb0dceeaa4265b4d5630f20cc5103bba"
+  },
+  {
+    "path": "scripts\\make_5050_cvx.py",
+    "bytes": 3968,
+    "sha256": "140b6014e191961e5cbc377905a52f750603de54fa339178044fe2fa4073ab05"
+  },
+  {
+    "path": "scripts\\migrate_shared_smallfiles_to_local.sh",
+    "bytes": 2947,
+    "sha256": "515c488918f23878022598b0d8a91e7d3f39c9e7fb07f1f16a8dac248eb8ef8d"
+  },
+  {
+    "path": "scripts\\openpi\\__pycache__\\eval_libero_subset.cpython-38.pyc",
+    "bytes": 5295,
+    "sha256": "904a2c6aefee84ab41ac7c8cf9db8999f3117f1a5bdf3407affea362ff77d037"
+  },
+  {
+    "path": "scripts\\openpi\\eval_libero_subset.original.py",
+    "bytes": 9413,
+    "sha256": "171a68c2b7b3092a79822322de247516c107d83084e163a652e4723e59f4e8f8"
+  },
+  {
+    "path": "scripts\\openpi\\eval_libero_subset.py",
+    "bytes": 9175,
+    "sha256": "6f3e90c92acb022b6bbcdd40b106732684f8ed9095a7b96c1b32bb3e7643e2a2"
+  },
+  {
+    "path": "scripts\\openvla\\run_openvla_mini_benchmark.sh",
+    "bytes": 2625,
+    "sha256": "e848be10a818ec7265629cf740b9ae17f934dc708a794d3c7c2d8ac232367759"
+  },
+  {
+    "path": "scripts\\prepare_remote.py",
+    "bytes": 6907,
+    "sha256": "5ba3ba62b910810421e42ae8ccb06765cc662d99c0fe8967b8c3d28fc03ded91"
+  },
+  {
+    "path": "scripts\\remote_runner.py",
+    "bytes": 5960,
+    "sha256": "c9cff78eba4d4210164137fc2ca69ee63137ba1a959fed934a13d0d552dd7155"
+  },
+  {
+    "path": "scripts\\run_smolvla_libero.sh",
+    "bytes": 6275,
+    "sha256": "717457ab27ea7e9c40b0b0f64c0c7da3c429a756dee25b03a6cf4a47c1bfbcbe"
+  },
+  {
+    "path": "scripts\\run_smolvla_mini_benchmark.sh",
+    "bytes": 18014,
+    "sha256": "6fd32e469a6c9fc5ba281b633b88dff9c83577b9fd487fd683828f570d54b281"
+  },
+  {
+    "path": "scripts\\vla_jepa\\__pycache__\\eval_libero_subset.cpython-312.pyc",
+    "bytes": 13790,
+    "sha256": "00f78fcbc941b1e3e7a38b2bfeeb8d8d350a406dc5aebe5455cdea79a8b4d8d2"
+  },
+  {
+    "path": "scripts\\vla_jepa\\_run_eval.sh",
+    "bytes": 10280,
+    "sha256": "ee2a881d035d503554ff5f230dcf3d750625dd95c3e351d5174149086e35dada"
+  },
+  {
+    "path": "scripts\\vla_jepa\\eval_libero_subset.before_metrics.py",
+    "bytes": 12801,
+    "sha256": "4c7034ea6364480a66840ec5b3438d37157acb48384ceed20a9031e76eeb7e2e"
+  },
+  {
+    "path": "scripts\\vla_jepa\\eval_libero_subset.py",
+    "bytes": 14066,
+    "sha256": "2516af2f3f4d01e12b223e7295d21e3ac982f151ebe67d72161d13302ec7d8de"
+  },
+  {
+    "path": "scripts\\vla_jepa\\run_mini_benchmark.sh",
+    "bytes": 251,
+    "sha256": "a9a11d32d8188f349ef19d4a9272c704c8d7a33cf4c529dda773bde87810f55e"
+  },
+  {
+    "path": "scripts\\vla_jepa\\run_smoke.sh",
+    "bytes": 204,
+    "sha256": "646cbaee6adb10d5a3b4362aa1e1a162e4584216bdd50a08e5517c033db5cad0"
+  }
+]

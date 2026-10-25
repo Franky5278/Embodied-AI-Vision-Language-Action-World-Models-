@@ -1,0 +1,10 @@
+{
+  "suite": "libero_object",
+  "task_ids": [0, 1],
+  "episodes_per_task": 3,
+  "seed": 42,
+  "status": "completed",
+  "exit_code": 0,
+  "start_time": "2026-10-02T01:42:08+08:00",
+  "duration_seconds": 74
+}

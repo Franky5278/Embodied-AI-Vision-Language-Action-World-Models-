@@ -1,0 +1,5 @@
+suite,n_episodes,n_success,success_rate
+libero_10,6,2,33.333333333333336
+libero_goal,6,5,83.33333333333333
+libero_object,6,5,83.33333333333333
+libero_spatial,6,5,83.33333333333333

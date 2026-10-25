@@ -1,0 +1,5 @@
+suite	expected_server_path
+libero_spatial	/autodl-fs/data/embodied/models/openvla/openvla-7b-finetuned-libero-spatial
+libero_object	/autodl-fs/data/embodied/models/openvla/openvla-7b-finetuned-libero-object
+libero_goal	/autodl-fs/data/embodied/models/openvla/openvla-7b-finetuned-libero-goal
+libero_10	/autodl-fs/data/embodied/models/openvla/openvla-7b-finetuned-libero-10

@@ -1,0 +1,4 @@
+7de1838c87a5349b016c26a1c3f7d2bc400a3d485f95ef39a7059ffd734977a0  /autodl-fs/data/embodied/models/vla_jepa/Qwen3-VL-2B-Instruct/model.safetensors
+25466aef85727d16546c6cf8c99f12fcfad9cbca8225d45f23685e2e025b786b  /autodl-fs/data/embodied/models/vla_jepa/vjepa2-vitl-fpc64-256/model.safetensors
+5346856ec9df69487fe72a25bf2632aaa8112df33fb67708e3f7374edc1f7012  /autodl-fs/data/embodied/models/vla_jepa/vjepa2-vitl-fpc64-256/original/model.pth
+b46c8f268905d50944aea9dc0a087400cdfbc401a8ec9ca22921fa91c0dcb841  /autodl-fs/data/embodied/models/vla_jepa/VLA-JEPA-HF/LIBERO/checkpoints/VLA-JEPA-LIBERO.pt

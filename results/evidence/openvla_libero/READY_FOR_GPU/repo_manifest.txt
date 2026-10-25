@@ -1,0 +1,10 @@
+===== OPENVLA =====
+
+===== LIBERO =====
+8f1084e3132a39270c3a13ebe37270a43ece2a01
+
+===== NO-GPU NOTE =====
+Basic LIBERO import smoke: PASS
+Subset evaluator compile: PASS
+Full integration import exited 137 under 2GB no-GPU RAM.
+Full integration/model validation deferred to consolidated GPU stage.

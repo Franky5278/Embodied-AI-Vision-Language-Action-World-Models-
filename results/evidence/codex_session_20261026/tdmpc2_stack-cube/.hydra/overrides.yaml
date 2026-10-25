@@ -1,0 +1,9 @@
+- task=stack-cube
+- model_size=5
+- checkpoint=/root/autodl-tmp/embodied/models/tdmpc2/compat_20261026/stack-cube-1.pt
+- eval_episodes=3
+- save_video=true
+- seed=42
+- compile=false
+- mpc=true
+- enable_wandb=false

@@ -1,0 +1,62 @@
+[
+  {
+    "video": "eval/videos/libero_goal_0/eval_episode_0.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 130,
+    "duration_seconds": 1.625,
+    "representative_frame": "frames/episode_000.png"
+  },
+  {
+    "video": "eval/videos/libero_goal_0/eval_episode_1.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 300,
+    "duration_seconds": 3.75,
+    "representative_frame": "frames/episode_001.png"
+  },
+  {
+    "video": "eval/videos/libero_goal_0/eval_episode_2.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 119,
+    "duration_seconds": 1.4875,
+    "representative_frame": "frames/episode_002.png"
+  },
+  {
+    "video": "eval/videos/libero_goal_1/eval_episode_0.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 89,
+    "duration_seconds": 1.1125,
+    "representative_frame": "frames/episode_003.png"
+  },
+  {
+    "video": "eval/videos/libero_goal_1/eval_episode_1.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 86,
+    "duration_seconds": 1.075,
+    "representative_frame": "frames/episode_004.png"
+  },
+  {
+    "video": "eval/videos/libero_goal_1/eval_episode_2.mp4",
+    "decode_ok": true,
+    "width": 360,
+    "height": 360,
+    "fps": 80.0,
+    "frames": 89,
+    "duration_seconds": 1.1125,
+    "representative_frame": "frames/episode_005.png"
+  }
+]
