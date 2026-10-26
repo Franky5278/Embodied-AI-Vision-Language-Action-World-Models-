@@ -11,7 +11,7 @@
 
 **Observation + Language → Action Policy · State → Latent Dynamics → Planning**
 
-![LIBERO results](figures/libero_success.png)
+![Five-project results overview](figures/five_project_overview.png)
 
 <sub>Independent reproduction and exploratory mini evaluation. Results describe specific checkpoints and selected tasks.</sub>
 
