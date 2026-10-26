@@ -25,7 +25,7 @@ This project covers **SmolVLA, VLA-JEPA, OpenVLA, OpenPI π0.5 and TD-MPC2**. It
 
 ## Evaluation protocol
 
-Four VLA checkpoints are evaluated on LIBERO Spatial, Object, Goal and LIBERO-10, tasks 0 and 1, three episodes per task, seed 42: **24 episodes per model**. TD-MPC2 uses a separate ManiSkill2 mini evaluation: LiftCube, PickCube, StackCube, PickSingleYCB and TurnFaucet, three episodes each. Faucet uses fixed model 5050.
+Four VLA checkpoints are evaluated on LIBERO Spatial, Object, Goal and LIBERO-10, tasks 0 and 1, three episodes per task, seed 42: **24 episodes per model**. TD-MPC2 uses a separate ManiSkill2 mini evaluation: LiftCube, PickCube, StackCube, PickSingleYCB and TurnFaucet, three episodes each. The original fixed model 5050 attempt failed during initialization; a separately labeled custom Faucet 148 repair completed 3/3 successfully on 2026-10-27.
 
 This is a small engineering study. Training data, pretrained checkpoint coverage, preprocessing, action representations and initial-state conventions can differ. Matching task names and seeds does not guarantee a controlled model comparison. TD-MPC2 scores are never ranked against LIBERO scores.
 
@@ -36,10 +36,17 @@ This is a small engineering study. Training data, pretrained checkpoint coverage
 | SmolVLA | LIBERO mini | 24 | 17/24 (70.8%) | Complete |
 | VLA-JEPA | LIBERO mini | 24 | 24/24 (100.0%) | Complete |
 | OpenPI pi0.5 | LIBERO mini | 24 | 23/24 (95.8%) | Complete |
-| TD-MPC2 | ManiSkill2 mini | 12 | 9/12 (75.0%) | Incomplete / failed; see evidence |
+| TD-MPC2 | ManiSkill2 mini | 12 | 9/12 (75.0%) | Original 12 complete; faucet repaired separately |
+| TD-MPC2 custom faucet | Fixed Faucet 148 | 3 | 3/3 (100.0%) | Repair complete |
 | OpenVLA | LIBERO mini | 24 | 16/24 (66.7%) | Complete |
 
 Historical SmolVLA runtime: **353 seconds**. Other runtime fields and errors are in the evidence, rather than substituted with estimates. Missing episodes are not counted as policy failures. Wilson intervals in figures ignore clustering across repeated tasks and should be interpreted descriptively.
+
+## Faucet repair completed · 2026-10-27
+
+The missing faucet run is repaired: **3/3 successful episodes**, with raw metrics, videos and a [before/after report](reports/08_faucet_repair.md). Original failure evidence and the original four-task score remain available; custom asset 148 is reported separately from legacy 5050.
+
+![Faucet repair](figures/faucet_repair_comparison.png)
 
 ## Illustrated experiment reports
 
@@ -51,6 +58,7 @@ Historical SmolVLA runtime: **353 seconds**. Other runtime fields and errors are
 - [05 openvla](reports/05_openvla.md)
 - [06 supplemental](reports/06_supplemental.md)
 - [07 findings and limits](reports/07_findings_and_limits.md)
+- [08 faucet repair and before/after comparison](reports/08_faucet_repair.md)
 
 ## Simulation rollouts
 

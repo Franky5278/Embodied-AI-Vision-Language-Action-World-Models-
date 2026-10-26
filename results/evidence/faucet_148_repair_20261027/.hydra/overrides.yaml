@@ -1,0 +1,9 @@
+- task=turn-faucet
+- model_size=5
+- checkpoint=/root/autodl-tmp/embodied/models/tdmpc2/turn-faucet-1.pt
+- eval_episodes=3
+- save_video=true
+- seed=42
+- compile=false
+- mpc=true
+- enable_wandb=false

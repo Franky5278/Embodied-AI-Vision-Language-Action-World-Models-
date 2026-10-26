@@ -6,11 +6,11 @@ Can the available checkpoint execute the prescribed simulation tasks, and what s
 
 ## Protocol and provenance
 
-Benchmark: **ManiSkill2 mini**. Source: `current session`. Seed: 42. VLA target: four suites ¡Á two tasks ¡Á three episodes. TD-MPC2 target: five tasks ¡Á three episodes; faucet attempted with PartNet model 5050. No model training was performed.
+Benchmark: **ManiSkill2 mini**. Source: `current session`. Seed: 42. VLA target: four suites ï¿½ï¿½ two tasks ï¿½ï¿½ three episodes. TD-MPC2 target: five tasks ï¿½ï¿½ three episodes; faucet attempted with PartNet model 5050. No model training was performed.
 
 ## Observations
 
-Valid completed episodes: **12**. Successes: **9**. Episode evaluation errors: **0**. Completion validated: **False**.
+Valid completed episodes: **12**. Successes: **9**. Episode evaluation errors: **0**. Original protocol completion: **12/15**. **Repair extension completed: 3/3 successful episodes on custom Faucet 148**; see [repair report](08_faucet_repair.md).
 
 | Suite/task | Successes | Episodes |
 |---|---:|---:|
@@ -36,3 +36,9 @@ See [raw evidence](../results/evidence/), [commands and evaluators](../scripts/)
 ## Recorded inference timing
 
 391 calls; median 28.4 ms; p95 38.5 ms. Scope differs across evaluators; do not use as a universal cross-model latency ranking.
+
+## Successful repair extension Â· 2026-10-27
+
+The initialization blocker was resolved using a validated, separately labeled Faucet 148 asset. All three new episodes succeeded; the existing checkpoint loaded without modification. [Full comparison, rewards, videos and evidence](08_faucet_repair.md).
+
+![Repair comparison](../figures/faucet_repair_comparison.png)

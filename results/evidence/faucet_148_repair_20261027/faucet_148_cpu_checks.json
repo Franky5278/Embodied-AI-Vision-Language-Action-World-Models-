@@ -1,0 +1,145 @@
+{
+  "cpu_checks_passed": true,
+  "convex_collisions": 21,
+  "active_joint": "joint_0",
+  "switch_link": "link_0",
+  "joint_limits": [
+    -1.5707963267948966,
+    1.5707963267948966
+  ],
+  "zero_qpos_root_frame_bbox": [
+    [
+      -0.9837990000000001,
+      -0.13131000000000015,
+      -0.49769599999999997
+    ],
+    [
+      0.42664899999999994,
+      0.12021699999999987,
+      0.44384499999999993
+    ]
+  ],
+  "raw_archive_bbox": {
+    "min": [
+      -0.120217,
+      -0.497696,
+      -0.426649
+    ],
+    "max": [
+      0.13131,
+      0.443845,
+      0.983799
+    ]
+  },
+  "normalized_max_extent_m": 0.3,
+  "simulator_validated": false,
+  "checkpoint_validated": false,
+  "gpu_evaluation_performed": false,
+  "collisions": [
+    {
+      "path": "cvx_objs\\link_0_000.obj",
+      "vertices": 769,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_001.obj",
+      "vertices": 375,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_002.obj",
+      "vertices": 85,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_003.obj",
+      "vertices": 55,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_004.obj",
+      "vertices": 96,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_005.obj",
+      "vertices": 96,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_006.obj",
+      "vertices": 90,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_007.obj",
+      "vertices": 64,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_008.obj",
+      "vertices": 36,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_009.obj",
+      "vertices": 57,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_010.obj",
+      "vertices": 58,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_011.obj",
+      "vertices": 99,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_012.obj",
+      "vertices": 37,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_013.obj",
+      "vertices": 90,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_014.obj",
+      "vertices": 46,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_015.obj",
+      "vertices": 49,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_016.obj",
+      "vertices": 69,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_017.obj",
+      "vertices": 87,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_0_018.obj",
+      "vertices": 35,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_1_000.obj",
+      "vertices": 592,
+      "convex": true
+    },
+    {
+      "path": "cvx_objs\\link_1_001.obj",
+      "vertices": 413,
+      "convex": true
+    }
+  ]
+}

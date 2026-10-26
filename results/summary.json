@@ -63,5 +63,18 @@
     "success_rate_pct": 66.66666666666667,
     "wilson95_low": 46.70595949408046,
     "wilson95_high": 82.02802131162036
+  },
+  {
+    "model": "TD-MPC2 custom faucet",
+    "benchmark": "Fixed Faucet 148",
+    "episodes": 3,
+    "successes": 3,
+    "source": "faucet_148_repair_20261027",
+    "runtime_sec": 4.70011643320322,
+    "complete": true,
+    "evaluation_errors": 0,
+    "success_rate_pct": 100.0,
+    "wilson95_low": 43.85029682449546,
+    "wilson95_high": 100.0
   }
 ]

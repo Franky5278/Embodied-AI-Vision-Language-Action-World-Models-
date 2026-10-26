@@ -1,0 +1,16 @@
+{
+  "protocol": "custom fixed Faucet 148, distinct from legacy 5050",
+  "observation_shape": [
+    40
+  ],
+  "action_shape": [
+    7
+  ],
+  "reset_observation_shape": [
+    40
+  ],
+  "model_id": "148",
+  "target_joint_type": "revolute",
+  "target_link": "link_0",
+  "scale": 0.21269838345224415
+}

@@ -1,0 +1,25 @@
+{
+  "candidate_id": "148",
+  "category_from_author_index": "Faucet",
+  "author_index": "https://raw.githubusercontent.com/daerduoCarey/where2act/main/stats/all_15cats.txt",
+  "author_index_entry": "148 Faucet",
+  "official_archive_page": "https://huggingface.co/datasets/sapien-sim/PartNetMobility/blob/main/148.zip",
+  "official_archive_url_observed_in_browser": "https://huggingface.co/datasets/sapien-sim/PartNetMobility/resolve/main/148.zip?download=true",
+  "displayed_size": "1.17 MB",
+  "displayed_sha256": "16376336c282405b1a8eb5591f0d75e111ce8c5544875656b5518289f509fdcf",
+  "browser_account_access_granted": true,
+  "archive_download_completed": true,
+  "archive_contents_verified": true,
+  "legacy_maniskill_5050_mapping_verified": false,
+  "gpu_ready": false,
+  "next_checks": [
+    "Transfer and verify prepared bundle",
+    "GPU simulator initialization and checkpoint compatibility",
+    "Three isolated evaluation episodes"
+  ],
+  "convex_collision_processing_completed": true,
+  "cpu_structural_checks_passed": true,
+  "simulator_validation_pending": true,
+  "checkpoint_validation_pending": true,
+  "protocol": "custom-fixed-faucet-148; not legacy model 5050"
+}

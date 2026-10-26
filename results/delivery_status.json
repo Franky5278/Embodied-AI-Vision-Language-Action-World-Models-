@@ -5,9 +5,17 @@
   "github_visibility": "public",
   "local_raw_archive": "experiment_delivery_20261026_035717.tar.gz",
   "local_archive_sha256_verified": true,
-  "shutdown_command": ["bash", "/usr/bin/shutdown"],
+  "shutdown_command": [
+    "bash",
+    "/usr/bin/shutdown"
+  ],
   "post_shutdown_observation": "SSH connection refused immediately after verified-download acknowledgement",
   "platform_billing_status_directly_verified": false,
-  "remaining_limitation": "TD-MPC2 TurnFaucet asset 5050 is incompatible with the installed metadata; no valid faucet episode is claimed.",
-  "completed_valid_episodes_including_reused_baseline_and_supplemental": 117
+  "remaining_limitation": "Legacy 5050 asset mapping remains unresolved; successful custom 148 repair reported separately.",
+  "completed_valid_episodes_including_reused_baseline_and_supplemental": 120,
+  "faucet_repair_date": "2026-10-27",
+  "faucet_repair_complete": true,
+  "faucet_repair_successes": 3,
+  "faucet_repair_episodes": 3,
+  "faucet_repair_protocol": "custom-fixed-faucet-148"
 }
